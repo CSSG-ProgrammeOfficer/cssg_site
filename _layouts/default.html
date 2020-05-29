@@ -2,6 +2,14 @@
 <html lang="en">
   {% include head.html %}
   <body>
+    {% case page.language %}
+      {% when 'en' %}
+        {% include navbar_en.html %}
+      {% when 'es' %}
+        {% include navbar_es.html %}
+      {% when 'fr' %}
+        {% include navbar_fr.html %}
+    {% endcase %}
     {{ content }}
     {% include footer.html %}
   </body>

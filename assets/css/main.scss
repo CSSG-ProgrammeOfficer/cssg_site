@@ -5,3 +5,15 @@
 @import "my_variables";
 @import "bootstrap";
 @import "bootswatch";
+
+/* Style the video: 100% width and height to cover the entire window */
+#splash-video {
+  right: 0;
+  min-width: 100%;
+}
+
+#splash-video-container {
+  max-height: 700px;
+  overflow: hidden;
+  display: block;  
+}
