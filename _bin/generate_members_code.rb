@@ -20,16 +20,16 @@ def format_li(member, img_position: :left, indent: '')
   res = indent + '<li class="media my-4">' + "\n"
   indent += '  '
   if img_position == :left
-    res += (indent + '<img src="/assets/images/avatar-placeholder-sm.png" class="mr-3 img-fluid shadow rounded-circle" alt="...">' + "\n")
+    res += (indent + '<img src="{{ site.baseurl }}/assets/images/avatar-placeholder-sm.png" class="mr-3 img-fluid shadow rounded-circle" alt="...">' + "\n")
   end
-  res += (indent + '<div class="media-body">')
+  res += (indent + '<div class="media-body">' + "\n")
   indent += '  '
   res += (indent + '<h5 class="mt-0">' + member[:first] + ' ' + member[:last] + '</h5>' + "\n")
   res += (indent + '<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>' + "\n")
   indent = indent[(0...-2)]
   res += (indent + '</div>' + "\n")
   if img_position == :right
-    res += (indent + '<img src="/assets/images/avatar-placeholder-sm.png" class="ml-3 img-fluid shadow rounded-circle" alt="...">' + "\n")
+    res += (indent + '<img src="{{ site.baseurl }}/assets/images/avatar-placeholder-sm.png" class="ml-3 img-fluid shadow rounded-circle" alt="...">' + "\n")
   end
   indent = indent[(0...-2)]
   res += (indent + '</li>' + "\n")
