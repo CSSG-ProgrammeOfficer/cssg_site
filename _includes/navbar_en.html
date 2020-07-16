@@ -34,9 +34,9 @@
       <div class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">🇬🇧 EN</a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="{{page.url | replace_first:  page.language, 'en' }}">🇬🇧 EN</a>
-          <a class="dropdown-item" href="{{page.url | replace_first:  page.language, 'es' }}">🇪🇸 ES</a>
-          <a class="dropdown-item" href="{{page.url | replace_first:  page.language, 'fr' }}">🇫🇷 FR</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'en' }}">🇬🇧 EN</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'es' }}">🇪🇸 ES</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'fr' }}">🇫🇷 FR</a>
         </div>
       </div>
     <!-- </ul> -->
