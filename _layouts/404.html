@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% case page.language %}
+      {% when 'en' %}
+        {% include navbar_en.html %}
+      {% when 'es' %}
+        {% include navbar_es.html %}
+      {% when 'fr' %}
+        {% include navbar_fr.html %}
+    {% endcase %}
+    {{ content }}
+  </body>
+  {% include script.html %}
+  <hr>
+  <footer class="footer"> 
+    <p class="text-center">
+      Contact <a
+      href="mailto:jwolf@dbg.org">Webmaster</a> &bull; Last modified {{ site.time | date: " %B %Y " }}
+    </p>
+  </footer>
+</html>

@@ -6,14 +6,62 @@
 @import "bootstrap";
 @import "bootswatch";
 
+.navbar-brand img {
+  width: 150px;
+  background-size: contain;
+}
+
 /* Style the video: 100% width and height to cover the entire window */
 #splash-video {
   right: 0;
   min-width: 100%;
+  z-index: 0;
 }
 
 #splash-video-container {
+  position: relative;
   max-height: 700px;
   overflow: hidden;
   display: block;  
+}
+#splash-content {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  padding: 20px;
+  text-shadow: 2px 2px 7px #000000;
+  z-index: 1;
+  transform: none;
+}
+
+#dbg-logo img {
+  max-width: 100%
+}
+
+p {
+  letter-spacing: 0px;
+}
+
+body li {
+  letter-spacing: 0px;
+}
+
+nav li {
+  letter-spacing: 1px;
+}
+
+#social-media .btn {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  // vertical-align: middle;
+  font-size: 4rem;
+}
+
+#social-media .btn span {
+  margin: auto;
+}
+
+#publications h5 {
+  letter-spacing: 1px;
 }

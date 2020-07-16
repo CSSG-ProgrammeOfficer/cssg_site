@@ -24,7 +24,8 @@ $pink:    #e83e8c !default;
 $red:     #d9534f !default;
 $orange:  #fd7e14 !default;
 $yellow:  #f0ad4e !default;
-$green:   #4BBF73 !default;
+// $green:   #4BBF73 !default;
+$green:   #a9bf73 !default; // from Jae's images
 $teal:    #20c997 !default;
 $cyan:    #1F9BCF !default;
 
@@ -57,7 +58,8 @@ $body-color:                $gray-700 !default;
 
 $font-family-sans-serif:      "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
-$font-size-base:              0.875rem !default;
+// $font-size-base:              0.875rem !default;
+$font-size-base:              1.0rem !default;
 
 $h1-font-size:                2rem !default;
 $h2-font-size:                1.75rem !default;

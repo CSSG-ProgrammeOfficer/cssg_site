@@ -9,6 +9,8 @@
         {% include navbar_es.html %}
       {% when 'fr' %}
         {% include navbar_fr.html %}
+      {% else %}
+        {% include navbar_en.html %}
     {% endcase %}
     {{ content }}
     {% include footer.html %}
