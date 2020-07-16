@@ -36,7 +36,7 @@ flag: 🇬🇧
 <div class='container'>
   <div class='row mt-5 align-items-center'>
     <div class='col-md-8'>
-      <p class='h3 font-weight-lighter'>
+      <p class='h3 font-weight-lighter my-4'>
         <em>
           Our work would not be possible without the generous support of our host institution, the Desert Botanical Garden of Phoenix, AZ.
         </em>
