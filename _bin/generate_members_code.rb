@@ -7,8 +7,8 @@ print "Attempting to laod data from #{members_csv}... "
 table = SmarterCSV.process(members_csv, headers: true, quote_char: '"')
 puts "Done!"
 
-acceptable_positions = ['Co-Chair', 'Programme Officer',
-                        'Red List Authority Coordinator', 'Commission Member']
+acceptable_positions = ['Co-Chair', 'Red List Authority Coordinator',
+                        'Programme Officer', 'Commission Member']
 table.each do |member|
   unless acceptable_positions.include? member[:position]
     puts "Unacceptable position: \"#{member[:position]}\" for member:"
