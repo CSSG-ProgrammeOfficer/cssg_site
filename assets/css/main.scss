@@ -46,7 +46,7 @@
   transform: translate(-50%, -50%);
   z-index: 2;
   width: 80%;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 
@@ -93,8 +93,6 @@
 .bg-gradient-greens {
   background-image: linear-gradient($light-green, $green);
 }
-
-
 
 .flag {
   max-height: 1rem;

@@ -5,28 +5,48 @@ language: en
 flag: 🇬🇧
 ---
 {% include splash.html %}
-<div class='container'>
-  <div class='row mt-5 mb-5'>
-    <div class="card-group mx-1">
-      <div class="card shadow">
-        <img src="{{ site.baseurl }}/assets/images/card1.png" class="card-img-top" alt="...">
+<div class='container my-5'>
+  <div class='row mt-5 mb-4'>
+    <div class="card-deck">
+      <div class="card shadow mx-1 mb-2">
+        <img src="{{ site.baseurl }}/assets/images/red card.png" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Conservation</h5>
           <p class="card-text">We identify threats to species of cacti and succulents, shining a light on endangered species.</p>
         </div>
+        <div class="card-footer bg-transparent border-0">
+          <p class='text-center'>
+            <a href="{{site.baseurl}}/en/about_cssg/" class="btn btn-danger">
+              See the current red list
+            </a>
+          </p>
+        </div>
       </div>
-      <div class="card shadow mx-1">
-        <img src="{{ site.baseurl }}/assets/images/card2.png" class="card-img-top" alt="...">
+      <div class="w-100 d-none d-sm-block d-lg-none"><!-- wrap every 2 on sm--></div>
+      <div class="card shadow mx-1 mb-2">
+        <img src="{{ site.baseurl }}/assets/images/yellow card.png" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Outreach</h5>
           <p class="card-text">Our vital work is amplified by making the public aware of the dangers cacti and succulents face.</p>
         </div>
+        <div class="card-footer bg-transparent border-0">
+          <p class='text-center'>
+            <a href="{{site.baseurl}}/en/cacti_and_succulents" class='btn btn-warning'>
+              Discover Cacti and Succulents
+            </a>
+          </p>
+        </div>
       </div>
-      <div class="card shadow mx-1">
-        <img src="{{ site.baseurl }}/assets/images/card3.png" class="card-img-top" alt="...">
+      <div class="card shadow mx-1 mb-2">
+        <img src="{{ site.baseurl }}/assets/images/green card.png" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Research</h5>
           <p class="card-text">We are constantly researching where cactus and succulent populations are waxing and waning, and what environmental factors are effecting these changes.</p>
+        </div>
+        <div class="card-footer bg-transparent border-0">
+          <p class="text-center">
+            <a class="btn btn-primary" href= "{{site.baseurl}}/en/publications"> Learn about our Research </a>
+          </p>
         </div>
       </div>
     </div>
@@ -43,7 +63,9 @@ flag: 🇬🇧
         </p>
       </div>
       <div class='col-md-4 py-4' id='dbg_logo'>
-        <img src='{{ site.baseurl }}/images/dbg_logo.jpg' class='rounded-circle img-fluid shadow' alt='Desert Botanical Garden Logo'>
+        <a href="https://dbg.org" target=_blank>
+          <img src='{{ site.baseurl }}/images/dbg_logo.jpg' class='rounded-circle img-fluid shadow' alt='Desert Botanical Garden Logo'>
+        </a>
       </div>
     </div>
   </div>
