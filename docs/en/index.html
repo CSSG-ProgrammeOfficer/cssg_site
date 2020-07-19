@@ -31,10 +31,7 @@
       <li class="nav-item">
         <a class="nav-link" href="/cssg_site/en/members">Members</a>
       </li>
-<!--       <li class="nav-item">
-        <a class="nav-link" href="/en/newsletter">Newsletter</a>
-      </li>
- -->      <li class="nav-item dropdown">
+      <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="newsletterDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Newsletters
         </a>
@@ -60,41 +57,47 @@
 
 <div class='dropdown-divider'></div>
 
-<a class="dropdown-item" href="/cssg_site/en/all_newsletters.html">All Newsletters</a>
-<!-- <div class="dropdown-divider"></div>
-<a class="dropdown-item" href="#">Older Issues</a>
- -->
+<a class="dropdown-item" href="/cssg_site/en/newsletters">All Newsletters</a>
+
         </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/cssg_site/en/publications">Publications</a>
       </li>
     </ul>
-<!--     <ul class='navbar-nav mr-auto mt-t mt-lg-0'> -->
-      <div class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">🇬🇧 EN</a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="/cssg_site/en/">🇬🇧 EN</a>
-          <a class="dropdown-item" href="/cssg_site/es/">🇪🇸 ES</a>
-          <a class="dropdown-item" href="/cssg_site/fr/">🇫🇷 FR</a>
-        </div>
-      </div>
-    <!-- </ul> -->
+    <div class="nav-item dropdown">
+  
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src=/cssg_site/assets/images/united-kingdom-flag-round-xs.png alt="UK Flag" class="img img-fluid flag align-middle"> <span class='align-middle text-dark'>EN</span></a>
+    
+
+  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+    <a class="dropdown-item" href="/cssg_site/en/"
+    ><img src=/cssg_site/assets/images/united-kingdom-flag-round-xs.png alt="UK Flag" class="img img-fluid flag align-middle"> <span class='align-middle'>EN</span></a>
+    <a class="dropdown-item" href="/cssg_site/es/"><img src=/cssg_site/assets/images/spain-flag-round-xs.png alt="Spain Flag" class="img img-fluid flag align-middle"> <span class='align-middle'>ES</span></a>
+    <a class="dropdown-item" href="/cssg_site/fr/"><img src=/cssg_site/assets/images/france-flag-round-xs.png alt="France Flag" class="img img-fluid flag align-middle"> <span class='align-middle'>FR</span></a>
+  </div>
+
+</div>
+
   </div>
 </nav>
       
-    <div id="splash-video-container">
+    <div id="splash-video-container" class="d-none d-sm-block">
   <video autoplay="" muted="" loop="" preload="auto" id="splash-video">
     <source src="/cssg_site/assets/splash-video.mp4" type="video/mp4" />
   </video>
   <div id="splash-content">
     <!-- nasty solution to shrink things down for smaller screens -->
-    <h3 class="display-3 ml-0 text-white d-none d-md-block">Cactus and Succulent Specialist Group</h3>
-    <h5 class="display-4 ml-0 text-white d-block d-md-none">Cactus and Succulent Specialist Group</h5>
+    <h3 class="display-3 ml-0 text-white">Cactus and Succulent Specialist Group</h3>
+    <h2 class="ml-2 text-white">Protecting our prickly friends.</h2>
+  </div>
+</div>
 
-    <h2 class="ml-2 text-white d-none d-md-block">Protecting our prickly friends.</h2>
-    <h3 class="ml-2 text-white d-block d-md-none">Protecting our prickly friends.</h3>
-
+<div class="d-sm-none" id="phone-splash-container">
+  <div id="phone-splash-image" class="bg-image my-2 py-2">
+  </div>
+  <div class="bg-text" id="phone-splash-text">
+    <h1 class="text-white">Cactus and Succulent Specialist Group</h1>
   </div>
 </div>
 
@@ -125,68 +128,69 @@
     </div>
   </div>
 </div>
-<div class="bg-gradient-success">
-<div class="container">
-  <div class="row mt-5 align-items-center">
-    <div class="col-md-8">
-      <p class="h3 my-4 text-light">
-        <em id="dbg-thanks">
-          Our work would not be possible without the generous support of our host institution, the Desert Botanical Garden of Phoenix, AZ.
-        </em>
-      </p>
-    </div>
-    <div class="col-md-4 py-4" id="dbg_logo">
-      <img src="/cssg_site/images/dbg_logo.jpg" class="rounded-circle img-fluid shadow" alt="Desert Botanical Garden Logo" />
-    </div>
-  </div>
-</div>
-</div>
-
-    <div class="container mt-5">
-  <div class='row'>
-    <div class='col text-center'>
-      <h1 class='text-center text-success'>
-        Get In Touch
-      </h1>
-      <p>
-        Have a question for our team or want connect with us on social media?
-      </p>
-    </div>
-  </div>
-  <div class='row'>
-    <div class='col'>
-      <div class='btn-group-lg d-block text-center' id='social-media'>
-        <a class='btn btn-outline-success border-0 p-0 m-0' href="mailto:jwolf@dbg.org?subject=CSSG Inquiry" target=_blank>
-          <!-- <span class='display-4'> -->
-            <span class='fa fa-envelope'></span>
-          <!-- </span> -->
-        </a>
-        <a class='btn btn-outline-success border-0 p-0 m-0' href=https://www.facebook.com/iucn.cssg target=_blank>
-          <!-- <span class='display-3'> -->
-            <span class='fa fa-facebook'></span>
-          <!-- </span> -->
-        </a>
-        <a class='btn btn-outline-success border-0 p-0 m-0' href=https://www.instagram.com/iucn_cssg target=_blank>
-          <!-- <span class='display-3 my-auto mx-auto p-0'> -->
-            <span class='fa fa-instagram'></span>
-          <!-- </span> -->
-        </a>
-        <a class='btn btn-outline-success border-0 p-0 m-0' href=https://www.twitter.com/CssgSsc target=_blank>
-          <!-- <span class='display-3 my-auto mx-auto p-0'> -->
-            <span class='fa fa-twitter m-0 p-0'></span>
-          <!-- </span> -->
-        </a>
-
+<div class="bg-gradient-greens">
+  <div class="container">
+    <div class="row mt-5 align-items-center">
+      <div class="col-md-8">
+        <p class="h3 my-4 text-light">
+          <em id="dbg-thanks">
+            Our work would not be possible without the generous support of our host institution, the Desert Botanical Garden of Phoenix, AZ.
+          </em>
+        </p>
+      </div>
+      <div class="col-md-4 py-4" id="dbg_logo">
+        <img src="/cssg_site/images/dbg_logo.jpg" class="rounded-circle img-fluid shadow" alt="Desert Botanical Garden Logo" />
       </div>
     </div>
   </div>
 </div>
-<hr>
-<footer class="footer"> 
-  <p class="text-center">
-    Contact <a
-    href="mailto:jwolf@dbg.org">Webmaster</a> &bull; Last modified  July 2020 
-  </p>
+
+    <footer class="footer"> 
+  <div class="container mt-5" id="contact">
+    <div class='row'>
+      <div class='col text-center'>
+        <h1 class='text-center text-primary'>
+          Get In Touch
+        </h1>
+        <p>
+          Have a question for our team or want connect with us on social media?
+        </p>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='col'>
+        <div class='btn-group-lg d-block text-center' id='social-media'>
+          <a class='btn btn-outline-primary border-0 p-0 m-0' href="mailto:jwolf@dbg.org?subject=CSSG Inquiry" target=_blank>
+            <!-- <span class='display-4'> -->
+              <span class='fa fa-envelope'></span>
+            <!-- </span> -->
+          </a>
+          <a class='btn btn-outline-primary border-0 p-0 m-0' href=https://www.facebook.com/iucn.cssg target=_blank>
+            <!-- <span class='display-3'> -->
+              <span class='fa fa-facebook'></span>
+            <!-- </span> -->
+          </a>
+          <a class='btn btn-outline-primary border-0 p-0 m-0' href=https://www.instagram.com/iucn_cssg target=_blank>
+            <!-- <span class='display-3 my-auto mx-auto p-0'> -->
+              <span class='fa fa-instagram'></span>
+            <!-- </span> -->
+          </a>
+          <a class='btn btn-outline-primary border-0 p-0 m-0' href=https://www.twitter.com/CssgSsc target=_blank>
+            <!-- <span class='display-3 my-auto mx-auto p-0'> -->
+              <span class='fa fa-twitter m-0 p-0'></span>
+            <!-- </span> -->
+          </a>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+    <p class="text-center">
+      Contact <a
+      href="mailto:jwolf@dbg.org">Webmaster</a> &bull; Last modified  July 2020 
+    </p>
 </footer>
 
   </body>

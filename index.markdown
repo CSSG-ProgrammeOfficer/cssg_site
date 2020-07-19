@@ -6,4 +6,4 @@ layout: none
 title: IUCN CSSG
 language: en
 ---
-<meta http-equiv="Refresh" content="0; url={{ site.baseurl }}/en/" />
+<meta http-equiv="Refresh" content="0; url={{ site.baseurl }}/en/ %}" />

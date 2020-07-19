@@ -32,19 +32,19 @@ flag: 🇬🇧
     </div>
   </div>
 </div>
-<div class='bg-gradient-success'>
-<div class='container'>
-  <div class='row mt-5 align-items-center'>
-    <div class='col-md-8'>
-      <p class='h3 my-4 text-light'>
-        <em id='dbg-thanks'>
-          Our work would not be possible without the generous support of our host institution, the Desert Botanical Garden of Phoenix, AZ.
-        </em>
-      </p>
-    </div>
-    <div class='col-md-4 py-4' id='dbg_logo'>
-      <img src='{{ site.baseurl }}/images/dbg_logo.jpg' class='rounded-circle img-fluid shadow' alt='Desert Botanical Garden Logo'>
+<div class='bg-gradient-greens'>
+  <div class='container'>
+    <div class='row mt-5 align-items-center'>
+      <div class='col-md-8'>
+        <p class='h3 my-4 text-light'>
+          <em id='dbg-thanks'>
+            Our work would not be possible without the generous support of our host institution, the Desert Botanical Garden of Phoenix, AZ.
+          </em>
+        </p>
+      </div>
+      <div class='col-md-4 py-4' id='dbg_logo'>
+        <img src='{{ site.baseurl }}/images/dbg_logo.jpg' class='rounded-circle img-fluid shadow' alt='Desert Botanical Garden Logo'>
+      </div>
     </div>
   </div>
-</div>
 </div>

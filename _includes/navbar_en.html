@@ -15,10 +15,7 @@
       <li class="nav-item">
         <a class="nav-link" href="{{ site.baseurl }}/en/members">Members</a>
       </li>
-<!--       <li class="nav-item">
-        <a class="nav-link" href="/en/newsletter">Newsletter</a>
-      </li>
- -->      <li class="nav-item dropdown">
+      <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="newsletterDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Newsletters
         </a>
@@ -30,15 +27,6 @@
         <a class="nav-link" href="{{ site.baseurl }}/en/publications">Publications</a>
       </li>
     </ul>
-<!--     <ul class='navbar-nav mr-auto mt-t mt-lg-0'> -->
-      <div class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">🇬🇧 EN</a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'en' }}">🇬🇧 EN</a>
-          <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'es' }}">🇪🇸 ES</a>
-          <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'fr' }}">🇫🇷 FR</a>
-        </div>
-      </div>
-    <!-- </ul> -->
+    {% include language_selector.html %}
   </div>
 </nav>

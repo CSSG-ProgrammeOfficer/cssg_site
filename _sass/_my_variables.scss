@@ -17,19 +17,34 @@ $gray-800: #343a40 !default;
 $gray-900: #1a1a1a !default;
 $black:    #000 !default;
 
-$blue:    #007bff !default;
-$indigo:  #6610f2 !default;
-$purple:  #6f42c1 !default;
-$pink:    #e83e8c !default;
-$red:     #d9534f !default;
-$orange:  #fd7e14 !default;
-$yellow:  #f0ad4e !default;
+// $blue:    #007bff !default;
+// $indigo:  #6610f2 !default;
+// $purple:  #6f42c1 !default;
+// $pink:    #e83e8c !default;
+// $red:     #d9534f !default;
+// $orange:  #fd7e14 !default;
+// $yellow:  #f0ad4e !default;
 // $green:   #4BBF73 !default;
-$green:   #a9bf73 !default; // from Jae's images
-$teal:    #20c997 !default;
-$cyan:    #1F9BCF !default;
+// $teal:    #20c997 !default;
+// $cyan:    #1F9BCF !default;
 
-$primary:       $gray-900 !default;
+$blue:    #2C699A !default;
+$indigo:  #3b28cc !default;
+$purple:  #69306D !default; // or #6C4B5E
+$pink:    #c79f9b !default;
+$red:     #81171B !default; // or #BC4338
+$orange:  #d7764b !default;
+$yellow:  #D6AD60 !default; // or #DAB46E
+$light-green:   #a9bf73 !default; // from Jae's images
+$green:   #687041 !default;
+$teal:    #52B5B7 !default;
+$cyan:    #6AA09D !default;
+
+
+$green:   #a9bf73 !default; // from Jae's images
+
+// $primary:       $gray-900 !default;
+$primary:       $light-green !default;
 $secondary:     $white !default;
 $success:       $green !default;
 $info:          $cyan !default;

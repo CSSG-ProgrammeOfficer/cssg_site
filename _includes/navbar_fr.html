@@ -16,15 +16,6 @@
         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
       </li>
     </ul>
-<!--     <ul class='navbar-nav mr-auto mt-t mt-lg-0'> -->
-      <div class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">🇫🇷 FR</a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="{{page.url | replace_first:  page.language, 'en' }}">🇬🇧 EN</a>
-          <a class="dropdown-item" href="{{page.url | replace_first:  page.language, 'es' }}">🇪🇸 ES</a>
-          <a class="dropdown-item" href="{{page.url | replace_first:  page.language, 'fr' }}">🇫🇷 FR</a>
-        </div>
-      </div>
-    <!-- </ul> -->
+    {% include language_selector.html %}
   </div>
 </nav>

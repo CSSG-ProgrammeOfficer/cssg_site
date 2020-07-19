@@ -24,14 +24,80 @@
   overflow: hidden;
   display: block;  
 }
+// #splash-content {
+//   position: absolute;
+//   bottom: 10px;
+//   left: 10px;
+//   padding: 20px;
+//   text-shadow: 2px 2px 7px #000000;
+//   z-index: 1;
+//   transform: none;
+// }
+
 #splash-content {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
   position: absolute;
-  bottom: 10px;
-  left: 10px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
   padding: 20px;
-  text-shadow: 2px 2px 7px #000000;
-  z-index: 1;
-  transform: none;
+  text-align: center;
+}
+
+#phone-splash-container {
+  position: relative;
+  max-height: 250px;
+  overflow: hidden;
+  display: block;
+}
+
+#phone-splash-image {
+  position: relative;
+  height: 250px;
+  width: 100%;
+
+  /* Add the blur effect */
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+
+  // THIS URL DEPENDS ON THE BASE URL!!! JEKYLLL CAN'T HELP US HERE!!!
+  background-image: url('/cssg_site/assets/images/splash_frame.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Position text in the middle of the page/image */
+#phone-splash-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.bg-gradient-greens {
+  background-image: linear-gradient($light-green, $green);
+}
+
+
+
+.flag {
+  max-height: 1rem;
 }
 
 #dbg-logo img {
