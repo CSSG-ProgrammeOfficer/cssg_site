@@ -62,12 +62,8 @@
   height: 250px;
   width: 100%;
 
-  /* Add the blur effect */
-  filter: blur(4px);
-  -webkit-filter: blur(4px);
-
   // THIS URL DEPENDS ON THE BASE URL!!! JEKYLLL CAN'T HELP US HERE!!!
-  background-image: url('/cssg_site/assets/images/splash_frame.png');
+  background-image: url('/cssg_site/assets/images/splash-frame-blur.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -92,6 +88,13 @@
 
 .bg-gradient-greens {
   background-image: linear-gradient($light-green, $green);
+}
+
+.bg-light-greens {
+  background-image: '/cssg_site/assets/images/banner-light-green.jpg';
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 .flag {

@@ -9,7 +9,7 @@ flag: 🇬🇧
   <div class='row mt-5 mb-4'>
     <div class="card-deck">
       <div class="card shadow mx-1 mb-2">
-        <img src="{{ site.baseurl }}/assets/images/red card.png" class="card-img-top" alt="...">
+        <img src="{{ site.baseurl }}/assets/images/red-card.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Conservation</h5>
           <p class="card-text">We identify threats to species of cacti and succulents, shining a light on endangered species.</p>
@@ -24,7 +24,7 @@ flag: 🇬🇧
       </div>
       <div class="w-100 d-none d-sm-block d-lg-none"><!-- wrap every 2 on sm--></div>
       <div class="card shadow mx-1 mb-2">
-        <img src="{{ site.baseurl }}/assets/images/yellow card.png" class="card-img-top" alt="...">
+        <img src="{{ site.baseurl }}/assets/images/yellow-card.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Outreach</h5>
           <p class="card-text">Our vital work is amplified by making the public aware of the dangers cacti and succulents face.</p>
@@ -38,7 +38,7 @@ flag: 🇬🇧
         </div>
       </div>
       <div class="card shadow mx-1 mb-2">
-        <img src="{{ site.baseurl }}/assets/images/green card.png" class="card-img-top" alt="...">
+        <img src="{{ site.baseurl }}/assets/images/green-card.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Research</h5>
           <p class="card-text">We are constantly researching where cactus and succulent populations are waxing and waning, and what environmental factors are effecting these changes.</p>
