@@ -90,11 +90,22 @@
   background-image: linear-gradient($light-green, $green);
 }
 
-.bg-light-greens {
-  background-image: '/cssg_site/assets/images/banner-light-green.jpg';
+.bg-image{
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover; 
+  background-size: cover;   
+}
+
+.bg-light-green {
+  background-image: url('/cssg_site/assets/images/banner-light-green.jpg');
+}
+
+.bg-orange {
+  background-image: url('/cssg_site/assets/images/banner-orange.jpg');
+}
+
+.bg-dark-green {
+  background-image: url('/cssg_site/assets/images/banner-dark-green.jpg');
 }
 
 .flag {
