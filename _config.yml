@@ -22,8 +22,8 @@ title: Cactus and Succulent Plants Specialist Group
 email: jwolf@dbg.org
 description: >- # this means to ignore newlines until "baseurl:"
   The home of the IUCN's Cactus and Succulent Plants Specialist Group.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "iucn-cssg.org" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://iucn-cssg.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: wmwolf
 instagram_username:
