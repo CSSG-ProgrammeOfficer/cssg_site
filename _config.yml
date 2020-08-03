@@ -20,14 +20,28 @@
 
 title: Cactus and Succulent Plants Specialist Group
 email: jwolf@dbg.org
+tagline: Promoting the conservation of succulent plants across the globe.
 description: >- # this means to ignore newlines until "baseurl:"
   The home of the IUCN's Cactus and Succulent Plants Specialist Group.
-# baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://iucn-cssg.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: wmwolf
-instagram_username:
-facebook_username: 
+
+url: "https://iucn-cssg.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter:
+  username: cssgssc
+  card: summary
+instagram:
+  username: iucn_cssg
+facebook:
+  username: iucn.cssg
+  publisher: iucn.cssg
+
+social:
+  name: IUCN SSC CSSG
+  links:
+    - https://twitter.com/cssgssc
+    - https://www.facebook.com/iucn.cssg
+    - https://www.instagram.com/iucn_cssg
+
+logo: /images/cssg_logo.jpg
 
 # Build settings
 # theme: minima
