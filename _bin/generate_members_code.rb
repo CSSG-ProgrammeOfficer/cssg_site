@@ -16,56 +16,80 @@ table.each do |member|
   end
 end
 
-def format_li(member, img_position: :left, indent: '')
+def format_li(member, img_position: :left, indent: '', text_color: nil)
   res = indent + '<li class="media my-4">' + "\n"
   indent += '  '
+  img_file = member[:image] || 'avatar-placeholder-sm.png'
+  img_tag = '<img src="{{ site.baseurl }}/assets/images/people/' + 
+            img_file + '" class="mr-3 img-fluid shadow rounded-circle"' +
+            ' alt="...">'
   if img_position == :left
-    res += (indent + '<img src="{{ site.baseurl }}/assets/images/avatar-placeholder-sm.png" class="mr-3 img-fluid shadow rounded-circle" alt="...">' + "\n")
+    res += (indent + img_tag + "\n")
   end
   res += (indent + '<div class="media-body">' + "\n")
   indent += '  '
-  res += (indent + '<h5 class="mt-0">' + member[:first] + ' ' + member[:last] + '</h5>' + "\n")
-  res += (indent + '<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>' + "\n")
+  res += (indent + '<h5 class="mt-0' + (text_color.nil? ? '' : " #{text_color}") + '">' + member[:first] + ' ' + member[:last] + '</h5>' + "\n")
+  res += (indent + '<p>')
+  res += "#{member[:institution].strip}: " if member[:institution]
+  res += "#{member[:city]}, " if member[:city]
+  res += "#{member[:country]}" if member[:country]
+  res += "</p>\n"
+  res += '<p>' + member[:expertise] + '</p>' if member[:expertise]
+  res += '<p>' + member[:description] + '</p>' if member[:description]
+  # res += (indent + '<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>' + "\n")
   indent = indent[(0...-2)]
   res += (indent + '</div>' + "\n")
   if img_position == :right
-    res += (indent + '<img src="{{ site.baseurl }}/assets/images/avatar-placeholder-sm.png" class="ml-3 img-fluid shadow rounded-circle" alt="...">' + "\n")
+    res += (indent + img_tag + "\n")
   end
   indent = indent[(0...-2)]
   res += (indent + '</li>' + "\n")
 end
 
-def format_list(table, position, img_position: :left, indent: '')
+def format_list(table, position, img_position: :left, indent: '', bg_class: nil)
   members = table.select { |member| member[:position] == position }
   members.sort! { |m1, m2| m1[:last] <=> m2[:last] }
   return unless members.count > 0
-  res = (indent + "<div class='row my-4'>\n")
+  res = ''
+  # end previous container. Might have been main body, might be previous list
+  res += (indent + "</div>\n")
+  res += (indent + "<div class='bg-image #{bg_class} py-4 my-5 text-white'>")
+  res += (indent + "<div class='container'>") if bg_class
+  res += (indent + "<div class='row")
+  res += ' my-4' unless bg_class
+  res += "'>\n"
   indent += '  '
   res += (indent + "<div class='col'>\n")
   indent += '  '
-  res += (indent + "<h1 class='text-success'>#{position}")
+  res += (indent + "<h1 class='" + (bg_class ? 'text-white' : 'text-success') + "'>#{position}")
   res += 's' if members.count > 1
   res += "</h1>\n"
   res += (indent + "<ul class='list-unstyled'>\n")
   indent += '  '
+  text_color = bg_class ? 'text-white' : nil
   members.each do |member|
-    res += format_li(member, img_position: img_position, indent: indent.dup)
+    res += format_li(member, img_position: img_position, indent: indent.dup, text_color: text_color)
   end
   indent = indent[(0...-2)]
   res += (indent + "</ul>\n")
   indent = indent[(0...-2)]
   res += (indent + "</div>\n")
   indent = indent[(0...-2)]
-  res += (indent + "</div>\n")
+  res += (indent + "</div>\n") # leave container hanging
+  # technically leaves bg color hanging, but next block
+  # should take care of it, or end of the table
+  res += (indent + "</div>\n") if bg_class
   res
 end
 
 def format_all(table, positions, indent: '')
   img_positions = [:left, :right]
+  bg_classes = ['bg-light-green', 'bg-orange', 'bg-yellow', 'bg-dark-green']
   res = ''
   positions.each_with_index do |position, i|
-    res += format_list(table, position, img_position: img_positions[i.modulo(img_positions.length)], indent: indent)
+    res += format_list(table, position, img_position: img_positions[i.modulo(img_positions.length)], indent: indent, bg_class: bg_classes[i])
   end
+  res += (indent + '</div>' + "\n")
   res
 end
 
