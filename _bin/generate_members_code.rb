@@ -2,10 +2,12 @@ require 'smarter_csv'
 
 bin_path = File.expand_path(File.dirname(__FILE__))
 
-members_csv = File.join(bin_path, 'members.csv')
+members_csv = File.join(bin_path, 'members website jmw.csv')
 print "Attempting to laod data from #{members_csv}... "
-table = SmarterCSV.process(members_csv, headers: true, quote_char: '"')
+table = SmarterCSV.process(members_csv, headers: %w[last first country city region email position image institution expertise description], quote_char: '"')
 puts "Done!"
+
+puts table
 
 acceptable_positions = ['Co-Chair', 'Red List Authority Coordinator',
                         'Programme Officer', 'Commission Member']
@@ -28,14 +30,18 @@ def format_li(member, img_position: :left, indent: '', text_color: nil)
   end
   res += (indent + '<div class="media-body">' + "\n")
   indent += '  '
-  res += (indent + '<h5 class="mt-0' + (text_color.nil? ? '' : " #{text_color}") + '">' + member[:first] + ' ' + member[:last] + '</h5>' + "\n")
+  puts "member is #{member}"
+  puts "keys are #{member.keys}"
+  puts "last is #{member.values[0]} and first is #{member[:first]}"
+  puts "values are #{member.values}"
+  res += (indent + '<h5 class="mt-0' + (text_color.nil? ? '' : " #{text_color}") + '">' + member[:first] + ' ' + member.values[0] + '</h5>' + "\n")
   res += (indent + '<p>')
   res += "#{member[:institution].strip}: " if member[:institution]
   res += "#{member[:city]}, " if member[:city]
   res += "#{member[:country]}" if member[:country]
-  res += "</p>\n"
-  res += '<p>' + member[:expertise] + '</p>' if member[:expertise]
-  res += '<p>' + member[:description] + '</p>' if member[:description]
+  # res += "</p>\n"
+  # res += '<p>' + member[:expertise] + '</p>' if member[:expertise]
+  # res += '<p>' + member[:description] + '</p>' if member[:description]
   # res += (indent + '<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>' + "\n")
   indent = indent[(0...-2)]
   res += (indent + '</div>' + "\n")
