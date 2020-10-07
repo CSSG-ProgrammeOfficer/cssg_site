@@ -2,12 +2,27 @@
   <div class="container mt-5" id="contact">
     <div class='row'>
       <div class='col text-center'>
-        <h1 class='text-center text-primary'>
-          Get In Touch
-        </h1>
-        <p>
-          Have a question for our team or want connect with us on social media?
-        </p>
+        {% case page.language %}
+          {% when 'en' %}
+            <h1 class='text-center text-primary'>
+              Get In Touch
+            </h1>
+            <p>
+              Have a question for our team or want to connect with us on social media?
+            </p>
+          {% when 'es' %}
+            <h1 class='text-center text-primary'>
+              Contáctenos
+            </h1>
+            <p>
+              ¿Tiene una pregunta para nuestro equipo o quiere ponerse en contacto con nosotros a través de las redes sociales?
+            </p>
+          {% when 'fr' %}
+            {% include navbar_fr.html %}
+          {% else %}
+            {% include navbar_en.html %}
+        {% endcase %}
+
       </div>
     </div>
     <div class='row'>

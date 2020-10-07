@@ -11,7 +11,7 @@ language: es
     <div class='col'>
       <h2>Hola, Mundo!</h2>
       <p>
-        Esta página es en espaõl.
+        Esta página es en español.
       </p>
     </div>
   </div>
