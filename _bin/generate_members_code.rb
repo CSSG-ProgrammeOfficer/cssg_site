@@ -49,7 +49,7 @@ def format_li(member, img_position: :left, indent: '', text_color: nil, lang: :e
   # puts "last is #{member.values[0]} and first is #{member[:first]}"
   # puts "values are #{member.values}"
   res += (indent + '<h5 class="mt-0' + (text_color.nil? ? '' : " #{text_color}") + '">' + member[:first] + ' ' + member.values[0] + '</h5>' + "\n")
-  res += (indent + "<p class='my-0'>")
+  res += (indent + "<p class='mb-1'>")
   res += "#{member[:description]}" || ''
   if member[:description] and member[:institution]
     unless member[:description].strip.empty? or member[:institution].strip.empty?
@@ -62,7 +62,7 @@ def format_li(member, img_position: :left, indent: '', text_color: nil, lang: :e
   end
   res += "#{member[:institution].strip}" if member[:institution]
   if member[:expertise]
-    res += "</p><p class='my-0 py-0'>#{member[:expertise]}"
+    res += "</p><p class='my-0 py-0 font-italic font-weight-lighter'>#{member[:expertise]}"
   end
   res += '</p>'
 
