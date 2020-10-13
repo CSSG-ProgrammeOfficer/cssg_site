@@ -1,18 +1,72 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-title: UICN CSSG
+title: IUCN CSSG
 language: es
 ---
-<div class='container'>
-  <div class='row'>
-    <div class='col'>
-      <h2>Hola, Mundo!</h2>
-      <p>
-        Esta página es en español.
-      </p>
+{% include splash.html %}
+<div class='container my-5'>
+  <div class='row mt-5 mb-4'>
+    <div class="card-deck">
+      <div class="card shadow mx-1 mb-2">
+        <img src="{{ site.baseurl }}/assets/images/red-card.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Conservation</h5>
+          <p class="card-text">We identify threats to species of cacti and succulents, shining a light on endangered species.</p>
+        </div>
+        <div class="card-footer bg-transparent border-0">
+          <p class='text-center'>
+            <a href="https://www.iucnredlist.org/search?permalink=171ea9f7-7915-47ef-ac33-b76849b4757a" class="btn btn-danger" target=_blank>
+              See the current red list
+            </a>
+          </p>
+        </div>
+      </div>
+      <div class="w-100 d-none d-sm-block d-lg-none"><!-- wrap every 2 on sm--></div>
+      <div class="card shadow mx-1 mb-2">
+        <img src="{{ site.baseurl }}/assets/images/yellow-card.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Outreach</h5>
+          <p class="card-text">Our vital work is amplified by making the public aware of the dangers cacti and succulents face.</p>
+        </div>
+        <div class="card-footer bg-transparent border-0">
+          <p class='text-center'>
+            <a href="{{site.baseurl}}/en/cacti_and_succulents" class='btn btn-warning'>
+              Discover Cacti and Succulents
+            </a>
+          </p>
+        </div>
+      </div>
+      <div class="card shadow mx-1 mb-2">
+        <img src="{{ site.baseurl }}/assets/images/green-card.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Research</h5>
+          <p class="card-text">We are constantly researching where cactus and succulent populations are waxing and waning, and what environmental factors are effecting these changes.</p>
+        </div>
+        <div class="card-footer bg-transparent border-0">
+          <p class="text-center">
+            <a class="btn btn-primary" href= "{{site.baseurl}}/en/publications"> Learn about our Research </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='bg-dark-green bg-image py-5'>
+  <div class='container'>
+    <div class='row my-4 align-items-center'>
+      <div class='col-md-8'>
+        <p class='h3 my-4 text-light'>
+          <em id='dbg-thanks'>
+            Our work would not be possible without the generous support of our host institution, the Desert Botanical Garden of Phoenix, AZ.
+          </em>
+        </p>
+      </div>
+      <div class="col-3 d-md-none"></div>
+      <div class='col-md-4 col-6 py-4' id='dbg_logo'>
+        <a href="https://dbg.org" target=_blank>
+          <img src='{{ site.baseurl }}/images/dbg_logo.jpg' class='rounded-circle img-fluid shadow' alt='Desert Botanical Garden Logo'>
+        </a>
+      </div>
     </div>
   </div>
 </div>

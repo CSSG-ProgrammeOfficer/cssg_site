@@ -55,7 +55,13 @@
   <hr>
 
     <p class="text-center">
-      Contact <a
-      href="mailto:jwolf@dbg.org">Webmaster</a> &bull; Last modified {{ site.time | date: " %B %Y " }}
+      {% case page.language %}
+        {% when 'en' %} 
+          Contact <a
+          href="mailto:jwolf@dbg.org">Webmaster</a> &bull; Last modified {{ site.time | date: " %B %Y " }}
+        {% when 'es' %}
+          Póngase en contacto con el <a
+          href="mailto:jwolf@dbg.org">Webmaster</a>
+      {% endcase %}
     </p>
 </footer>
