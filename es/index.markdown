@@ -1,22 +1,22 @@
 ---
 layout: default
-title: IUCN CSSG
+title: UICN CSSG
 language: es
 ---
-{% include splash.html %}
+{% include splash_es.html %}
 <div class='container my-5'>
   <div class='row mt-5 mb-4'>
     <div class="card-deck">
       <div class="card shadow mx-1 mb-2">
         <img src="{{ site.baseurl }}/assets/images/red-card.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Conservation</h5>
-          <p class="card-text">We identify threats to species of cacti and succulents, shining a light on endangered species.</p>
+          <h5 class="card-title">Conservación</h5>
+          <p class="card-text">Identificamos las amenazas que afectan a especies de cactus y suculentas, destacando las especies que se encuentran en peligro de extinción.</p>
         </div>
         <div class="card-footer bg-transparent border-0">
           <p class='text-center'>
             <a href="https://www.iucnredlist.org/search?permalink=171ea9f7-7915-47ef-ac33-b76849b4757a" class="btn btn-danger" target=_blank>
-              See the current red list
+              Visita la Lista Roja
             </a>
           </p>
         </div>
@@ -25,13 +25,13 @@ language: es
       <div class="card shadow mx-1 mb-2">
         <img src="{{ site.baseurl }}/assets/images/yellow-card.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Outreach</h5>
-          <p class="card-text">Our vital work is amplified by making the public aware of the dangers cacti and succulents face.</p>
+          <h5 class="card-title">Divulgación</h5>
+          <p class="card-text">Nuestro trabajo vital se amplifica cuando creamos en el público conciencia sobre los peligros que enfrentan los cactus y otras plantas suculentas.</p>
         </div>
         <div class="card-footer bg-transparent border-0">
           <p class='text-center'>
-            <a href="{{site.baseurl}}/en/cacti_and_succulents" class='btn btn-warning'>
-              Discover Cacti and Succulents
+            <a href="{{site.baseurl}}/{{page.language}}/cacti_and_succulents" class='btn btn-warning'>
+              Descubre a los cactus y suculentas
             </a>
           </p>
         </div>
@@ -39,12 +39,12 @@ language: es
       <div class="card shadow mx-1 mb-2">
         <img src="{{ site.baseurl }}/assets/images/green-card.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Research</h5>
-          <p class="card-text">We are constantly researching where cactus and succulent populations are waxing and waning, and what environmental factors are effecting these changes.</p>
+          <h5 class="card-title">Investigación</h5>
+          <p class="card-text">Estamos constantemente investigando dónde crecen y disminuyen las poblaciones de cactus y otras plantas suculentas, y qué factores ambientales están afectando estos cambios.</p>
         </div>
         <div class="card-footer bg-transparent border-0">
           <p class="text-center">
-            <a class="btn btn-primary" href= "{{site.baseurl}}/en/publications"> Learn about our Research </a>
+            <a class="btn btn-primary" href= "{{site.baseurl}}/{{page.language}}/publications"> Conoce sobre nuestra Investigación </a>
           </p>
         </div>
       </div>
@@ -57,7 +57,7 @@ language: es
       <div class='col-md-8'>
         <p class='h3 my-4 text-light'>
           <em id='dbg-thanks'>
-            Our work would not be possible without the generous support of our host institution, the Desert Botanical Garden of Phoenix, AZ.
+            Nuestro trabajo no sería posible sin el generoso apoyo de nuestra institución anfitriona, el Jardín Botánico del Desierto de Phoenix, AZ.
           </em>
         </p>
       </div>
