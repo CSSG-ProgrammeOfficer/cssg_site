@@ -1,7 +1,7 @@
 last,first,country,city,region,email,position,image,institution,expertise,description
 Novoa, Ana, Germany, ,West Europe, novoa.perez.ana@gmail.com, Commission Member,cactus1.png,"Instituto de Botánica, Academia Checa de Ciencias,",Cactus como especies invasoras,Investigador
 Cattabriga,Andrea, Italy, Bologna, West Europe, info@mondocactus.com, Commission Member,cactus2.png,Mondocactus,Cactus,Horticultor
-Goettsch,Bárbara, United Kingdom of Great Britain and Northern Ireland, Cambridge, West Europe, barbara.goettsch@iucn.org, Co-Chair,Barbara 128x128.png,Plantas para las Personas UICN,Cactus,Oficial de Programas 
+Goettsch,Bárbara, United Kingdom of Great Britain and Northern Ireland, Cambridge, West Europe, barbara.goettsch@iucn.org, Co-Chair,Barbara 128x128.png,,Cactus,"Oficial de Programas, Plantas para las Personas UICN  "
 Metzing,Detlev, Germany, Bonn, West Europe, detlev.metzing@uni-oldenburg.de, Commission Member,cactus3.png,Universidad Carl von Ossietzky de Oldenburg,,Investigador
 Gurvich,Diego Ezequiel, Argentina, Salsipuedes, Meso and South America, degurvich@gmail.com, Commission Member,cactus1.png,Universidad Nacional de Córdoba,Cactus,Investigador Independiente
 Hernández Macias, Héctor, Mexico, México D.F., Meso and South America, hmhm@ibunam.mx, Commission Member,cactus2.png,Universidad Nacional Autónoma de México,Cactus,Investigador
@@ -25,7 +25,7 @@ Wolf, Jael M., United States of America, , North America and the Caribbean, jwol
 González-Ilizondo, Martha, Mexico, ,Meso and South America, martha.gonzel@gmail.com, Commission Member,agave1.png,Instituto Politécnico Nacional,Agave,Investigador
 Zavala, Alejandro, Mexico, , Meso and South America, jazh@xanum.uam.mx, Commission Member,cactus1.png,Universidad Autónoma Metropolitana,Cactus,Profesor
 Salywon, Andrew, United States of America, Phoenix, North America and the Caribbean, asalywon@dbg.org, Commission Member,agave2.png,Jardín Botánico del Desierto,Agave,Curador de Herbario  e Investigador Botánico
-Gómez, Hinostrosa, Mexico, Mexico City, Meso and South America, cgh@ib.unam.mx, Commission Member,cactus2.png,Universidad Nacional Autónoma de México,Cactus,Investigador
+Gómez  Hinostrosa,Carlos, Mexico, Mexico City, Meso and South America, cgh@ib.unam.mx, Commission Member,cactus2.png,Universidad Nacional Autónoma de México,Cactus,Investigador
 Knotters, Coen, The Netherlands, Roosendaal, West Europe, coen.knotters@hotmail.nl, Commission Member,cactus1.png,   ,Suculentas,Ecologista de campo independiente
 Hilton-Taylor, Criag, United Kingdom of Great Britan and Northern Ireland, Cambridge, West Europe, craig.hilton-taylor@iucn.org, Commission Member,cactus3.png,Unidad de la Lista Roja de la UICN,Cactus,Director
 Cerén López, José Gabriel, El Salvador, San Salvador, Meso and South America, gabrielceren@gmail.com, Commission Member,cactus1.png,Museo de Historia Natural de El Salvador,Cactus,Investigador 
