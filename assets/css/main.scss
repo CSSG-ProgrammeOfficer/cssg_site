@@ -93,7 +93,7 @@
 }
 
 .bg-image{
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;   
 }
@@ -114,7 +114,70 @@
   background-image: url('/assets/images/banner-orange.jpg');
 }
 
+.bg-gallery-1 {
+  background-image: url('/assets/images/gallery.png');
+  text-shadow: 2px 2px 7px #000000;
+}
 
+.bg-gallery-2 {
+  background-image: url('/assets/images/gallery-2.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-3 {
+  background-image: url('/assets/images/gallery-3.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-4 {
+  background-image: url('/assets/images/gallery-4.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-5 {
+  background-image: url('/assets/images/gallery-5.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-6 {
+  background-image: url('/assets/images/gallery-6.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-7 {
+  background-image: url('/assets/images/gallery-7.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-8 {
+  background-image: url('/assets/images/gallery-8.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-9 {
+  background-image: url('/assets/images/gallery-9.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-10 {
+  background-image: url('/assets/images/gallery-10.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-11 {
+  background-image: url('/assets/images/gallery-11.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-12 {
+  background-image: url('/assets/images/gallery-12.png');
+  text-shadow: 2px 2px 7px #000000;
+}
+
+.bg-gallery-13 {
+  background-image: url('/assets/images/gallery-13.png');
+  text-shadow: 2px 2px 7px #000000;
+}
 .flag {
   max-height: 1rem;
 }
@@ -123,7 +186,7 @@
   max-width: 100%
 }
 
-p {
+p, dt, dd, figcaption {
   letter-spacing: 0px;
 }
 
@@ -133,6 +196,18 @@ body li {
 
 nav li {
   letter-spacing: 1px;
+}
+
+.tight {
+  letter-spacing: 0px;
+}
+
+.broad {
+  letter-spacing: 1px;
+}
+
+.broader {
+  letter-spacing: 3px;
 }
 
 #social-media .btn {

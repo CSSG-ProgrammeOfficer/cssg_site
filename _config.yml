@@ -50,6 +50,7 @@ plugins:
   - jekyll-coffeescript
 
 sass:
+  # sass_dir: _sass
   style: compressed
 
 # Exclude from processing.

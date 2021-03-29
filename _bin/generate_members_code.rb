@@ -17,9 +17,9 @@ puts "Done!"
 
 acceptable_positions = ['Co-Chair', 'Deputy Chair', 'Advisory Committee Member',
                         'Red List Authority Coordinator',
-                        'Programme Officer', 'Commission Member']
+                        'Programme Officer', 'Member']
 categories = ['Leadership', 'Red List Authority Coordinator',
-              'Programme Officer', 'Commission Members']
+              'Programme Officer', 'Members']
 
 table.each do |member|
   unless acceptable_positions.include? member[:position]
@@ -47,7 +47,7 @@ def format_li(member, img_position: :left, indent: '', text_color: nil,
       'Advisory Committee Member' => 'Miembro del Comité Asesor',
       'Red List Authority Coordinator' => 'Coordinador de la Autoridad de la Lista Roja',
       'Programme Officer' => 'Oficial de Programa',
-      'Commission Member' => 'Miembro de la Comisión'
+      'Member' => 'Miembro de la Comisión'
     }
   else
    {
@@ -56,7 +56,7 @@ def format_li(member, img_position: :left, indent: '', text_color: nil,
       'Advisory Committee Member' => 'Advisory Committee Member',
       'Red List Authority Coordinator' => 'Red List Authority Coordinator',
       'Programme Officer' => 'Programme Officer',
-      'Commission Member' => 'Commission Member'
+      'Member' => 'Member'
     }
   end
 
@@ -119,14 +119,14 @@ def format_list(table, category, img_position: :left, indent: '', bg_class: nil,
       'Leadership' => 'Liderazgo',
       'Red List Authority Coordinator' => 'Cordinador de la Autoridad de la Lista Roja',
       'Programme Officer' => 'Oficial de Programa',
-      'Commission Members' => 'Miembros de la Comisión'
+      'Members' => 'Miembros de la Comisión'
     }
   else
     {
       'Leadership' => 'Leadership',
       'Red List Authority Coordinator' => 'Red List Authority Coordinator',
       'Programme Officer' => 'Programme Officer',
-      'Commission Members' => 'Commission Members'
+      'Members' => 'Members'
     }
   end
 
@@ -135,7 +135,7 @@ def format_list(table, category, img_position: :left, indent: '', bg_class: nil,
     'Leadership' => ['Co-Chair', 'Deputy Chair', 'Advisory Committee Member'],
     'Red List Authority Coordinator' => ['Red List Authority Coordinator'],
     'Programme Officer' => ['Programme Officer'],
-    'Commission Members' => ['Commission Member']
+    'Members' => ['Member']
   }
 
   members = table.select do |member|
