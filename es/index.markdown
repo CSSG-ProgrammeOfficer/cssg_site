@@ -3,7 +3,27 @@ layout: default
 title: UICN CSSG
 language: es
 ---
+
 {% include splash_es.html %}
+<div class="bg-warning py-0 mt-5">
+  <div class='container'>
+    <p class='h1 text-center text-light py-3'>
+      ¿Interesado en actuar?
+    </p>
+    <p class='text-center'>
+      <a href="https://secure.squarespace.com/checkout/donate?donatePageId=60a7f5e5499714081146fbd7&ss_cvr=12ebb13d-bfb3-45b8-b207-6448e94f131d%7C1623797835585%7C1623797835585%7C1623797835585%7C1&ss_cvt=1623797835585" target=_blank>
+        <button class="btn btn-light text-warning">
+          <p class='h4 text-warning my-auto'>
+            Apoye nuestro trabajo
+          </p>
+        </button>
+      </a>
+    </p>
+    <p class='text-light text-italic text-center pb-3'>
+      <em>Las donaciones se realizan a través de nuestra asociación con B.Willow</em>
+    </p>
+  </div>
+</div>
 <div class='container my-5'>
   <div class='row mt-5 mb-4'>
     <div class="card-deck">
@@ -49,25 +69,6 @@ language: es
         </div>
       </div>
     </div>
-  </div>
-</div>
-<div class="bg-warning py-5">
-  <div class='container'>
-    <p class='h1 text-center text-light pt-5 pb-3'>
-      ¿Interesado en contribuir con el trabajo que hace el CSSG?
-    </p>
-    <p class='text-center pb-3'>
-      <a href="https://secure.squarespace.com/checkout/donate?donatePageId=60a7f5e5499714081146fbd7&ss_cvr=12ebb13d-bfb3-45b8-b207-6448e94f131d%7C1623797835585%7C1623797835585%7C1623797835585%7C1&ss_cvt=1623797835585" target=_blank>
-        <button class="btn btn-lg btn-light text-warning">
-          <p class='h2 text-warning'>
-            Haz tu donación
-          </p>
-        </button>
-      </a>
-    </p>
-    <p class='text-light text-italic text-center pb-3'>
-      <em>Las donaciones se realizan a través de nuestra asociación con B.Willow</em>
-    </p>
   </div>
 </div>
 <div class='bg-dark-green bg-image py-5'>
