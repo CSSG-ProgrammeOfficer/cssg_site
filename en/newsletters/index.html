@@ -16,93 +16,27 @@ language: en
   <div class='row'>
     <div class='col'>
       <ul class='list-unstyled' id='publications'>
-        <li class="media my-4 position-relative">
-          <div class="media-body align-self-center">
-            <div class='d-md-none'>
-              <img src="{{ site.baseurl }}/assets/images/newsletter_thumbnails/december_2020.png" class="img img-fluid mb-3 rounded-lg shadow-lg d-md-none" alt="Season's Greetings!">
+        {% for newsletter in site.data.newsletters %}
+          <li class="media my-4 position-relative">
+            <div class="media-body align-self-center">
+              <div class='d-md-none'>
+                <img src="{{ site.baseurl }}/{{ newsletter.img_en }}" class="img img-fluid mb-3 rounded-lg shadow-lg d-md-none" alt="{{ newsletter.alt_en }}">
+              </div>
+              <h5 class="mt-0">
+                {{ newsletter.month_en }} {{ newsletter.year }} Issue
+              </h5>
+              <p>
+                {{ newsletter.desc_en }}
+              </p>
+              <p>
+                <a href="{{ newsletter.link_en }}" target=_blank class="btn btn-primary btn-block text-align-middle">
+                  Read it <small><i class='fa fa-external-link'></i></small>
+                </a>
+              </p>
             </div>
-            <h5 class="mt-0">
-              December 2020 Issue
-            </h5>
-            <p>
-              In this issue, we report leadership changes, and outreach events that have spread the SG work. Also, we are happy to share the launch of the new SG website and logo. Additionally, we want to announce the formation of the newsletter Editorial Committee.
-            </p>
-            <p>
-              <a href="https://mailchi.mp/37e3f4796317/iucn-cssg-newsletter-december_2020-12554947" target=_blank class="btn btn-primary btn-block text-align-middle">
-                Read it <small><i class='fa fa-external-link'></i></small>
-              </a>
-            </p>
-          </div>
-          <img src="{{ site.baseurl }}/assets/images/newsletter_thumbnails/december_2020.png" class="ml-3 img w-50 rounded-lg shadow-lg d-none d-md-block" alt="Season's Greetings!">
-        </li>
-
-        <li class="media my-4 position-relative">
-          <div class="media-body align-self-center">
-            <div class='d-md-none'>
-              <img src="{{ site.baseurl }}/assets/images/newsletter_thumbnails/june_2020_sm.jpg" class="img img-fluid mb-3 rounded-lg shadow-lg d-md-none" alt="Copiapoa Cacti">
-            </div>
-            <h5 class="mt-0">
-              June 2020 Issue
-            </h5>
-            <p>
-              We welcome Yuley Encarnación Piñeyro and Tania Hernández to the specialist group, announce the delay of the Conservation Action-planning Workshop for <em>Copiapoa</em> Cacti, and much more.
-            </p>
-            <p>
-              <a href="https://mailchi.mp/3bf142fc7bef/iucn-cssg-newsletter-june_2020-12459564?e=[UNIQID]" target=_blank class="btn btn-primary btn-block text-align-middle">
-                Read it <small><i class='fa fa-external-link'></i></small>
-              </a>
-            </p>
-          </div>
-          <img src="{{ site.baseurl }}/assets/images/newsletter_thumbnails/june_2020_sm.jpg" class="ml-3 img w-50 rounded-lg shadow-lg d-none d-md-block" alt="Copiapoa Cacti">
-        </li>
-        <li class="media my-4 position-relative">
-          <div class="media-body align-self-center">
-            <div class='d-md-none'>
-              <img src="{{ site.baseurl }}/assets/images/newsletter_thumbnails/december_2019.jpg" class="img img-fluid mb-3 rounded-lg shadow-lg d-md-none" alt="">
-            </div>
-            <h5 class="mt-0">
-              December 2019 Issue
-            </h5>
-            <p>
-              In this issue we cover the CSSG participation in the 4th International Union for Conservation of Nature (IUCN) Species Survival Commission (SCC) Leader’s Meeting in Abu Dhabi, United Arab Emirates, the 'Illegal wildlife trade and the persistence of “plant blindness”' as a tool to raise awareness about how plants are threatened by illegal wildlife trade (IWT), among others.
-            </p>
-            <p>
-              <a href="https://mailchi.mp/1c3fbeb710e6/iucn-cssg-newsletter-december19" target=_blank class="btn btn-primary btn-block text-align-middle">
-                Read it <small><i class='fa fa-external-link'></i></small>
-              </a>
-            </p>
-          </div>
-          <img src="{{ site.baseurl }}/assets/images/newsletter_thumbnails/december_2019.jpg" class="ml-3 img w-50 rounded-lg shadow-lg d-none d-md-block" alt="Copiapoa Cacti">
-        </li>
-        <li class="media my-4 position-relative">
-          <div class="media-body align-self-center">
-            <div class='d-md-none'>
-              <img src="{{ site.baseurl }}/assets/images/newsletter_thumbnails/june_2019.jpg" class="img img-fluid mb-3 rounded-lg shadow-lg d-md-none" alt="">
-            </div>
-            <h5 class="mt-0">
-              June 2019 Issue
-            </h5>
-            <p>
-              We present the Agave and Yucca Red List assessment workshop and the Aloes from Madagascar workshop. The CSSG participated in the Global Strategy for Plant Conservation Conference in South Africa, 
-              the Evidence to Action conference to develop practical opportunities for raising the profile of wild 
-              plant species that are actively traded across international markets.
-            </p>
-            <p>
-              <a href="https://mailchi.mp/dd73d8fc1bb9/iucn-cssg-newsletter-june19-188287" target=_blank class="btn btn-primary btn-block text-align-middle">
-                Read it <small><i class='fa fa-external-link'></i></small>
-              </a>
-            </p>
-          </div>
-          <img src="{{ site.baseurl }}/assets/images/newsletter_thumbnails/june_2019.jpg" class="ml-3 img w-50 rounded-lg shadow-lg d-none d-md-block" alt="Copiapoa Cacti">
-        </li>
-
+            <img src="{{ site.baseurl }}/{{ newsletter.img_en }}" class="ml-3 img w-50 rounded-lg shadow-lg d-none d-md-block" alt="{{ newsletter.alt_en }}">
+          </li>
+        {% endfor %}
       </ul>
-<!--       <button class='btn btn-primary'>Primary</button>
-      <button class='btn btn-secondary'>secondary</button>
-      <button class='btn btn-success'>success</button>
-      <button class='btn btn-info'>info</button>
-      <button class='btn btn-warning'>warning</button>
-      <button class='btn btn-danger'>danger</button>
-    </div>
- -->  </div>
+   </div>
 </div>

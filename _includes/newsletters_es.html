@@ -1,32 +1,10 @@
-<div class='d-flex justify-content-between position-relative'>
-  <a class="dropdown-item align-self-center stretched-link" href="/assets/newsletters/newsletter_2021_es.pdf" target=_blank>Diciembre 2021</a>
-  <i class='fa fa-external-link mr-3 align-self-center text-muted'></i>
-</div>
+{% for newsletter in site.data.newsletters %}
+  <div class='d-flex justify-content-between position-relative'>
+    <a class="dropdown-item align-self-center stretched-link" href="{{ newsletter.link_es }}" target=_blank>{{ newsletter.month_es }} {{ newsletter.year }}</a>
+    <i class='fa fa-external-link mr-3 align-self-center text-muted'></i>
+  </div>
+{% endfor %}
 
-<div class='d-flex justify-content-between position-relative'>
-  <a class="dropdown-item align-self-center stretched-link" href="https://mailchi.mp/76972e4d4801/iucn-cssg-boletin-diciembre2020-12554951" target=_blank>Diciembre 2020</a>
-  <i class='fa fa-external-link mr-3 align-self-center text-muted'></i>
-</div>
-
-<div class='d-flex justify-content-between position-relative'>
-  <a class="dropdown-item align-self-center stretched-link" href="https://mailchi.mp/24134694f27f/iucn-cssg-boletin-junio_2020-12459560" target=_blank>Junio 2020</a>
-  <i class='fa fa-external-link mr-3 align-self-center text-muted'></i>
-</div>
-
-<div class='d-flex justify-content-between position-relative'>
-  <a class="dropdown-item stretched-link align-self-center" href="https://mailchi.mp/1c3fbeb710e6/iucn-cssg-newsletter-december19" target=_blank>
-    Diciembre 2019
-  </a>
-  <i class="fa fa-external-link mr-3 align-self-center text-muted"></i>
-</div>
-
-<!-- <div class='d-flex justify-content-between position-relative'>
-  <a class="dropdown-item align-self-center stretched-link" href="https://mailchi.mp/dd73d8fc1bb9/iucn-cssg-newsletter-june19-188287" target=_blank>
-    Junio 2019
-  </a>
-  <i class="fa fa-external-link mr-3 align-self-center text-muted"></i>
-</div>
- -->
 <div class='dropdown-divider'></div>
 
 <a class="dropdown-item" href="{{ site.baseurl }}/{{ page.language }}/newsletters">Todos los Boletines</a>
