@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+bundle exec jekyll build -d docs && cp docs/en/index.html docs/index.html

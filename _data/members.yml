@@ -1,0 +1,885 @@
+- en:
+    city: ''
+    country: ''
+    description: Researcher
+    email: ''
+    expertise: Yucca
+    image: yucca1.png
+    institution: National Autonomous University of Mexico
+    position: Member
+    region: ''
+  es:
+    city: ''
+    country: ''
+    description: Investigadora
+    email: ''
+    expertise: Yucca
+    image: yucca1.png
+    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
+    position: Miembro de la Comisión
+    region: ''
+  first: Magdalena
+  last: Ayala
+- en:
+    city: Queretaro
+    country: Mexico
+    description: Professor
+    email: rtenoch@uaq.mx
+    expertise: Cactus
+    image: cactus2.png
+    institution: Autonomous University of Queretaro
+    position: Member
+    region: Meso and South America
+  es:
+    city: "Quer\xE9taro"
+    country: Mexico
+    description: Profesor
+    email: rtenoch@uaq.mx
+    expertise: Cactus
+    image: cactus2.png
+    institution: "Universidad Aut\xF3noma de Quer\xE9taro"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Rolando Tenoch
+  last: Barcenas Luna
+- en:
+    city: ''
+    country: Cuba
+    description: Researcher
+    email: duniel.barrios@gmail.com
+    expertise: Cactus
+    image: cactus1.png
+    institution: University of Havana
+    position: Member
+    region: North America and the Caribbean
+  es:
+    city: ''
+    country: Cuba
+    description: Investigador
+    email: duniel.barrios@gmail.com
+    expertise: Cactus
+    image: cactus1.png
+    institution: Universidad de la Habana
+    position: Miembro de la Comisión
+    region: North America and the Caribbean
+  first: Duniel
+  last: "Barrios Vald\xE9s"
+- en:
+    city: ''
+    country: Mexico
+    description: Researcher
+    email: montijo@unam.mx
+    expertise: Cactus
+    image: cactus3.png
+    institution: National Autonomous University of Mexico
+    position: Member
+    region: Meso and South America
+  es:
+    city: ''
+    country: Mexico
+    description: Investigador
+    email: montijo@unam.mx
+    expertise: Cactus
+    image: cactus3.png
+    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: "Jos\xE9 Alberto"
+  last: "B\xFArquez Montijo"
+- en:
+    city: Bologna
+    country: Italy
+    description: Horticulturist
+    email: info@mondocactus.com
+    expertise: Cactus
+    image: cactus2.png
+    institution: Mondocactus
+    position: Member
+    region: West Europe
+  es:
+    city: Bologna
+    country: Italy
+    description: Horticultor
+    email: info@mondocactus.com
+    expertise: Cactus
+    image: cactus2.png
+    institution: Mondocactus
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Andrea
+  last: Cattabriga
+- en:
+    city: San Salvador
+    country: El Salvador
+    description: Researcher
+    email: gabrielceren@gmail.com
+    expertise: Cactus
+    image: cactus1.png
+    institution: Museum of Natural History of El Salvador
+    position: Member
+    region: Meso and South America
+  es:
+    city: San Salvador
+    country: El Salvador
+    description: Investigador
+    email: gabrielceren@gmail.com
+    expertise: Cactus
+    image: cactus1.png
+    institution: Museo de Historia Natural de El Salvador
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: "Jos\xE9 Gabriel"
+  last: "Cer\xE9n L\xF3pez"
+- en:
+    city: ''
+    country: ''
+    description: Manager of the Plant Conservation Program - Retired
+    email: ''
+    expertise: Yucca
+    image: yucca1.png
+    institution: Lady Bird Johnson Wildflower Center
+    position: Member
+    region: ''
+  es:
+    city: ''
+    country: ''
+    description: "Gerente del Programa de Conservaci\xF3n de Plantas - Jubilada"
+    email: ''
+    expertise: Yucca
+    image: yucca1.png
+    institution: Centro de Flores Silvestres Lady Bird Johnson
+    position: Miembro de la Comisión
+    region: ''
+  first: Karen
+  last: Clary
+- en:
+    city: Saskatoon
+    country: Canada
+    description: Professor
+    email: hugo.cota@usask.ca
+    expertise: Cactus
+    image: cactus3.png
+    institution: University of Saskatchewan
+    position: Member
+    region: North American and the Caribbean
+  es:
+    city: Saskatoon
+    country: Canada
+    description: Profesor
+    email: hugo.cota@usask.ca
+    expertise: Cactus
+    image: cactus3.png
+    institution: Universidad de Saskatchewan
+    position: Miembro de la Comisión
+    region: North American and the Caribbean
+  first: Hugo
+  last: "Cota-S\xE1nchez"
+- en:
+    city: ''
+    country: United Kingdom of Great Britain and Nortern Ireland
+    description: Senior Science Officer
+    email: ''
+    expertise: Conservation Policy
+    image: agave1.png
+    institution: CITES
+    position: Member
+    region: ''
+  es:
+    city: ''
+    country: United Kingdom of Great Britain and Nortern Ireland
+    description: "Oficial Principal Cient\xEDfico"
+    email: ''
+    expertise: "Pol\xEDtica de Conservaci\xF3n"
+    image: agave1.png
+    institution: CITES
+    position: Miembro de la Comisión
+    region: ''
+  first: Carly
+  last: Cowell
+- en:
+    city: ''
+    country: Argentina
+    description: Professor
+    email: phdemaio@gmail.com
+    expertise: Cactus
+    image: cactus3.png
+    institution: National University of Catamarca
+    position: Member
+    region: Meso and South America
+  es:
+    city: ''
+    country: Argentina
+    description: Profesor
+    email: phdemaio@gmail.com
+    expertise: Cactus
+    image: cactus3.png
+    institution: Universidad Nacional de Catamarca
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Pablo
+  last: Demaio
+- en:
+    city: ''
+    country: ''
+    description: Researcher
+    email: ''
+    expertise: Cactus
+    image: cactus1.png
+    institution: "National Botanical Garden \u201CRafael M. Moscoso\u201D (Dominican\
+      \ Republic) and University of Florida"
+    position: Member
+    region: ''
+  es:
+    city: ''
+    country: ''
+    description: Investigadora
+    email: ''
+    expertise: Cactus
+    image: cactus1.png
+    institution: "Jard\xEDn Bot\xE1nico Nacional \u201CRafael M. Moscoso\u201D (Rep\xFA\
+      blica Dominicana) y Universidad de Florida"
+    position: Miembro de la Comisión
+    region: ''
+  first: Yuley
+  last: "Encarnaci\xF3n Pi\xF1eyro"
+- en:
+    city: Phoenix
+    country: United States of America
+    description: Conservation Biologist and Research Botanist
+    email: sfehlberg@dbg.org
+    expertise: Cactus
+    image: cactus3.png
+    institution: Desert Botanical Garden
+    position: Member
+    region: North America and the Caribbean
+  es:
+    city: Phoenix
+    country: United States of America
+    description: "Bi\xF3loga de la Conservaci\xF3n e Investigadora Bot\xE1nica"
+    email: sfehlberg@dbg.org
+    expertise: Cactus
+    image: cactus3.png
+    institution: "Jard\xEDn Bot\xE1nico del Desierto"
+    position: Miembro de la Comisión
+    region: North America and the Caribbean
+  first: Shannon
+  last: Fehlberg
+- en:
+    city: ''
+    country: Mexico
+    description: Researcher
+    email: martha.gonzel@gmail.com
+    expertise: Agave
+    image: agave1.png
+    institution: National Polytechnic Institute
+    position: Member
+    region: Meso and South America
+  es:
+    city: ''
+    country: Mexico
+    description: Investigador
+    email: martha.gonzel@gmail.com
+    expertise: Agave
+    image: agave1.png
+    institution: "Instituto Polit\xE9cnico Nacional"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Martha
+  last: "Gonz\xE1lez-Elizondo"
+- en:
+    city: "Concepci\xF3n"
+    country: Chile
+    description: Biological Sciences Doctorate Director
+    email: pabloguerrero@udec.cl
+    expertise: Cactus
+    image: cactus1.png
+    institution: University of Concepcion
+    position: Member
+    region: Meso and South America
+  es:
+    city: "Concepci\xF3n"
+    country: Chile
+    description: "Director de Doctorado en Ciencias Biol\xF3gicas"
+    email: pabloguerrero@udec.cl
+    expertise: Cactus
+    image: cactus1.png
+    institution: "Universidad de Concepci\xF3n"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Pablo
+  last: Guerrero
+- en:
+    city: Salsipuedes
+    country: Argentina
+    description: Independent Researcher
+    email: degurvich@gmail.com
+    expertise: Cactus
+    image: cactus1.png
+    institution: National University of Cordoba
+    position: Member
+    region: Meso and South America
+  es:
+    city: Salsipuedes
+    country: Argentina
+    description: Investigador Independiente
+    email: degurvich@gmail.com
+    expertise: Cactus
+    image: cactus1.png
+    institution: "Universidad Nacional de C\xF3rdoba"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Diego Ezequiel
+  last: Gurvich
+- en:
+    city: Mexico City
+    country: Mexico
+    description: Researcher
+    email: cgh@ib.unam.mx
+    expertise: Cactus
+    image: cactus2.png
+    institution: National Autonomous University of Mexico
+    position: Member
+    region: Meso and South America
+  es:
+    city: Mexico City
+    country: Mexico
+    description: Investigador
+    email: cgh@ib.unam.mx
+    expertise: Cactus
+    image: cactus2.png
+    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Carlos
+  last: "G\xF3mez Hinostrosa"
+- en:
+    city: ''
+    country: ''
+    description: Professor
+    email: ''
+    expertise: Cactus
+    image: cactus2.png
+    institution: LANGEBIO Center for Research and Advanced Studies of the National
+      Polytechnic Institute
+    position: Member
+    region: ''
+  es:
+    city: ''
+    country: ''
+    description: Profesora
+    email: ''
+    expertise: Cactus
+    image: cactus2.png
+    institution: "Centro LANGEBIO de Investigaci\xF3n y Estudios Avanzados del Instituto\
+      \ Polit\xE9cnico Nacional"
+    position: Miembro de la Comisión
+    region: ''
+  first: Tania
+  last: "Hern\xE1ndez"
+- en:
+    city: "M\xE9xico D.F."
+    country: Mexico
+    description: Researcher
+    email: hmhm@ibunam.mx
+    expertise: Cactus
+    image: cactus2.png
+    institution: National Autonomous University of Mexico
+    position: Member
+    region: Meso and South America
+  es:
+    city: "M\xE9xico D.F."
+    country: Mexico
+    description: Investigador
+    email: hmhm@ibunam.mx
+    expertise: Cactus
+    image: cactus2.png
+    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: "H\xE9ctor"
+  last: "Hern\xE1ndez Macias"
+- en:
+    city: "Quer\xE9taro"
+    country: Mexico
+    description: Professor
+    email: luishs@uaq.mx
+    expertise: Agave
+    image: agave2.png
+    institution: Autonomous University of Queretaro
+    position: Member
+    region: Meso and South America
+  es:
+    city: "Quer\xE9taro"
+    country: Mexico
+    description: Profesor
+    email: luishs@uaq.mx
+    expertise: Agave
+    image: agave2.png
+    institution: "Universidad Aut\xF3noma de Quer\xE9taro"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Luis
+  last: "Hern\xE1ndez-Sandoval"
+- en:
+    city: Cambridge
+    country: United Kingdom of Great Britan and Northern Ireland
+    description: Head
+    email: craig.hilton-taylor@iucn.org
+    expertise: Cactus
+    image: cactus3.png
+    institution: IUCN Red List Unit
+    position: Member
+    region: West Europe
+  es:
+    city: Cambridge
+    country: United Kingdom of Great Britan and Northern Ireland
+    description: Director
+    email: craig.hilton-taylor@iucn.org
+    expertise: Cactus
+    image: cactus3.png
+    institution: Unidad de la Lista Roja de la UICN
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Criag
+  last: Hilton-Taylor
+- en:
+    city: Roosendaal
+    country: The Netherlands
+    description: Freelance Field Ecologist
+    email: coen.knotters@hotmail.nl
+    expertise: Succulents
+    image: cactus1.png
+    institution: ''
+    position: Member
+    region: West Europe
+  es:
+    city: Roosendaal
+    country: The Netherlands
+    description: Ecologista de campo independiente
+    email: coen.knotters@hotmail.nl
+    expertise: Suculentas
+    image: cactus1.png
+    institution: ''
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Coen
+  last: Knotters
+- en:
+    city: La Paz
+    country: Mexico
+    description: Researcher
+    email: jlleon04@cibnor.mx
+    expertise: Cactus
+    image: cactus2.png
+    institution: Northwest Biological Research Center
+    position: Member
+    region: Meso and South America
+  es:
+    city: La Paz
+    country: Mexico
+    description: Investigador
+    email: jlleon04@cibnor.mx
+    expertise: Cactus
+    image: cactus2.png
+    institution: "Centro de Investigaciones Biol\xF3gicas del Noroeste"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: "Jos\xE9 Luis"
+  last: Leon de la Luz
+- en:
+    city: Bayreuth
+    country: Germany
+    description: Professor
+    email: sigrid.liede@uni-baryeuth.de
+    expertise: Plant Systematics
+    image: cactus1.png
+    institution: University of Bayreuth
+    position: Member
+    region: West Europe
+  es:
+    city: Bayreuth
+    country: Germany
+    description: Profesor
+    email: sigrid.liede@uni-baryeuth.de
+    expertise: "Sistem\xE1tica de Plantas"
+    image: cactus1.png
+    institution: Universidad de Bayreuth
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Sigrid
+  last: Liede-Schumann
+- en:
+    city: Phoenix
+    country: United States of America
+    description: Senior Director-Desert Horticulture and Conservation
+    email: kmccue@dbg.org
+    expertise: Cactus
+    image: cactus1.png
+    institution: Desert Botanical Garden
+    position: Member
+    region: North America and the Caribbean
+  es:
+    city: Phoenix
+    country: United States of America
+    description: "Directora-Horticultura y Conservaci\xF3n del Desierto"
+    email: kmccue@dbg.org
+    expertise: Cactus
+    image: cactus1.png
+    institution: "Jard\xEDn Bot\xE1nico del Desierto"
+    position: Miembro de la Comisión
+    region: North America and the Caribbean
+  first: Kimberlie
+  last: McCue
+- en:
+    city: Bonn
+    country: Germany
+    description: Researcher
+    email: detlev.metzing@uni-oldenburg.de
+    expertise: Plant Conservation
+    image: cactus3.png
+    institution: Carl von Ossietzky University of Oldenburg
+    position: Member
+    region: West Europe
+  es:
+    city: Bonn
+    country: Germany
+    description: Investigador
+    email: detlev.metzing@uni-oldenburg.de
+    expertise: ''
+    image: cactus3.png
+    institution: Universidad Carl von Ossietzky de Oldenburg
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Detlev
+  last: Metzing
+- en:
+    city: ''
+    country: Venezuela
+    description: Researcher
+    email: jafet.nassar@ssc.iucn.org
+    expertise: Cactus
+    image: cactus1.png
+    institution: Venezuelan Institute of Scientific Research
+    position: Member
+    region: Meso and South America
+  es:
+    city: ''
+    country: Venezuela
+    description: Investigador
+    email: jafet.nassar@ssc.iucn.org
+    expertise: Cactus
+    image: cactus1.png
+    institution: "Instituto Venezolano de Investigaciones Cient\xEDficas"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Jafet
+  last: Nassar
+- en:
+    city: ''
+    country: Germany
+    description: Researcher
+    email: novoa.perez.ana@gmail.com
+    expertise: Cactus as invasive species
+    image: cactus1.png
+    institution: Institute of Botany, The Czech Academy of Sciences
+    position: Member
+    region: West Europe
+  es:
+    city: ''
+    country: Germany
+    description: Investigador
+    email: novoa.perez.ana@gmail.com
+    expertise: Cactus como especies invasoras
+    image: cactus1.png
+    institution: "Instituto de Bot\xE1nica, Academia Checa de Ciencias,"
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Ana
+  last: Novoa
+- en:
+    city: ''
+    country: Argentina
+    description: Researcher
+    email: luisoakley37@yahoo.com
+    expertise: Cactus
+    image: cactus3.png
+    institution: Rosario National University
+    position: Member
+    region: Meso and South America
+  es:
+    city: ''
+    country: Argentina
+    description: Investigador
+    email: luisoakley37@yahoo.com
+    expertise: Cactus
+    image: cactus3.png
+    institution: Universidad Nacional de Rosario
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Luis
+  last: Oakley
+- en:
+    city: Cambridge
+    country: United Kingdom of Great Britan and Northern Ireland
+    description: Co-Chair
+    email: sara@saraoldfield.net
+    expertise: Wild tree species
+    image: yucca1.png
+    institution: IUCN SSC Global Tree Specialist Group
+    position: Member
+    region: West Europe
+  es:
+    city: Cambridge
+    country: United Kingdom of Great Britan and Northern Ireland
+    description: Copresidenta
+    email: sara@saraoldfield.net
+    expertise: "Especies de \xE1rboles silvestres"
+    image: yucca1.png
+    institution: "Grupo de Especialistas en \xE1rboles mundiales de la CSE/UICN"
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Sara
+  last: Oldfield
+- en:
+    city: Pescia
+    country: Italy
+    description: Researcher
+    email: ''
+    expertise: Cactus
+    image: cactus2.png
+    institution: Department of Vegetable and Ornamental Crops at CREA
+    position: Member
+    region: ''
+  es:
+    city: Pescia
+    country: Italy
+    description: Investigador
+    email: ''
+    expertise: Cactus
+    image: cactus2.png
+    institution: Departamento de Cultivos Vegetales y Ornamentales en CREA
+    position: Miembro de la Comisión
+    region: ''
+  first: Domenico
+  last: Prisa
+- en:
+    city: Antananrivo ville
+    country: Madagascar
+    description: Ecosystems Team Leader
+    email: esrakotarisoa.rbgkew@moov.mg
+    expertise: Aloes
+    image: aloe1.png
+    institution: Kew Madagascar Conservation Centre
+    position: Member
+    region: Africa
+  es:
+    city: Antananrivo ville
+    country: Madagascar
+    description: "L\xEDder del Equipo de Ecosistemas"
+    email: esrakotarisoa.rbgkew@moov.mg
+    expertise: Aloes
+    image: aloe1.png
+    institution: "Centro de Conservaci\xF3n de Kew Madagascar"
+    position: Miembro de la Comisión
+    region: Africa
+  first: Solofo
+  last: Rakotoarisoa
+- en:
+    city: Palermo
+    country: Italy
+    description: Professor
+    email: ''
+    expertise: Succulents
+    image: cactus1.png
+    institution: University of Palermo
+    position: Member
+    region: West Europe
+  es:
+    city: Palermo
+    country: Italy
+    description: Profesor
+    email: ''
+    expertise: Suculentas
+    image: cactus1.png
+    institution: Universidad de Palermo
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Maurizio
+  last: Sajeva
+- en:
+    city: Phoenix
+    country: United States of America
+    description: Herbarium Curator and Research Botanist
+    email: asalywon@dbg.org
+    expertise: Agave
+    image: agave2.png
+    institution: Desert Botanical Garden
+    position: Member
+    region: North America and the Caribbean
+  es:
+    city: Phoenix
+    country: United States of America
+    description: "Curador de Herbario  e Investigador Bot\xE1nico"
+    email: asalywon@dbg.org
+    expertise: Agave
+    image: agave2.png
+    institution: "Jard\xEDn Bot\xE1nico del Desierto"
+    position: Miembro de la Comisión
+    region: North America and the Caribbean
+  first: Andrew
+  last: Salywon
+- en:
+    city: ''
+    country: ''
+    description: Global Director, Biodiversity Conservation Group Director
+    email: ''
+    expertise: Policy Advisor
+    image: cactus3.png
+    institution: Global Species Programme IUCN
+    position: Member
+    region: ''
+  es:
+    city: ''
+    country: ''
+    description: "Directora Global, Directora del Grupo de Conservaci\xF3n de la Biodiversidad\
+      \ de la UICN"
+    email: ''
+    expertise: "Asesora de Pol\xEDticas"
+    image: cactus3.png
+    institution: Programa Mundial de Especies de la UICN
+    position: Miembro de la Comisión
+    region: ''
+  first: Jane
+  last: Smart
+- en:
+    city: Monaco
+    country: Monaco
+    description: Director
+    email: jmsolichon@marie.mc
+    expertise: Succulents
+    image: cactus2.png
+    institution: Exotic Garden of Monaco
+    position: Member
+    region: West Europe
+  es:
+    city: Monaco
+    country: Monaco
+    description: Director
+    email: jmsolichon@marie.mc
+    expertise: Suculentas
+    image: cactus2.png
+    institution: "Jard\xEDn Bot\xE1nico de M\xF3naco"
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Jean-Marie
+  last: Solichon
+- en:
+    city: Cadereyta de Montes
+    country: Mexico
+    description: Chief Director
+    email: esanchez@concyteq.edu.mx
+    expertise: Cactus & Agaves
+    image: agave1.png
+    institution: Cadereyta Regional Botanical Garden
+    position: Member
+    region: Meso and South America
+  es:
+    city: Cadereyta de Montes
+    country: Mexico
+    description: Director
+    email: esanchez@concyteq.edu.mx
+    expertise: Cactus y Agaves
+    image: agave1.png
+    institution: "Jard\xEDn Bot\xE1nico Regional de Cadereyta"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Emiliano
+  last: "S\xE1nchez-Mart\xEDnez"
+- en:
+    city: Richmond, Surrey
+    country: United Kingdom of Great Britain and Northern Ireland
+    description: Director
+    email: nigel_taylor@nparks.gov.sg
+    expertise: Cactus
+    image: cactus2.png
+    institution: Singapore Botanic Gardens
+    position: Member
+    region: West Europe
+  es:
+    city: Richmond, Surrey
+    country: United Kingdom of Great Britain and Northern Ireland
+    description: Director
+    email: nigel_taylor@nparks.gov.sg
+    expertise: Cactus
+    image: cactus2.png
+    institution: "Jardines Bot\xE1nicos de Singapur"
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Nigel
+  last: Taylor
+- en:
+    city: Hamburg
+    country: Germany
+    description: Independent Researcher
+    email: joachim_thiede@gmx.de
+    expertise: Agave
+    image: agave1.png
+    institution: ''
+    position: Member
+    region: West Europe
+  es:
+    city: Hamburg
+    country: Germany
+    description: Investigador Independiente
+    email: joachim_thiede@gmx.de
+    expertise: Agave
+    image: agave1.png
+    institution: ''
+    position: Miembro de la Comisión
+    region: West Europe
+  first: Joachim
+  last: Thiede
+- en:
+    city: ''
+    country: Mexico
+    description: Professor
+    email: itorresg@cieco.unam.mx
+    expertise: Agave
+    image: agave2.png
+    institution: National Autonomous University of Mexico
+    position: Member
+    region: Meso and South America
+  es:
+    city: ''
+    country: Mexico
+    description: Profesor
+    email: itorresg@cieco.unam.mx
+    expertise: Agave
+    image: agave2.png
+    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Ignacio
+  last: "Torres-Garc\xEDa"
+- en:
+    city: ''
+    country: Mexico
+    description: Professor
+    email: jazh@xanum.uam.mx
+    expertise: Cactus
+    image: cactus1.png
+    institution: Metropolitan Autonomous University
+    position: Member
+    region: Meso and South America
+  es:
+    city: ''
+    country: Mexico
+    description: Profesor
+    email: jazh@xanum.uam.mx
+    expertise: Cactus
+    image: cactus1.png
+    institution: "Universidad Aut\xF3noma Metropolitana"
+    position: Miembro de la Comisión
+    region: Meso and South America
+  first: Alejandro
+  last: Zavala

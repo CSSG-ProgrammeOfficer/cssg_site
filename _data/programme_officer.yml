@@ -1,0 +1,22 @@
+- en:
+    city: ''
+    country: United States of America
+    description: CSSG Programme Officer
+    email: jwolf@dbg.org
+    expertise: Env. Science
+    image: Jael 128x128.png
+    institution: Desert Botanical Garden
+    position: Programme Officer
+    region: North America and the Caribbean
+  es:
+    city: ''
+    country: United States of America
+    description: Oficial de Programas de CSSG
+    email: jwolf@dbg.org
+    expertise: Ciencias Amb.
+    image: Jael 128x128.png
+    institution: "Jard\xEDn Bot\xE1nico del Desierto"
+    position: Oficial de Programa
+    region: North America and the Caribbean
+  first: Jael M.
+  last: Wolf

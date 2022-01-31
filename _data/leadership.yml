@@ -1,0 +1,66 @@
+- en:
+    city: Cambridge
+    country: United Kingdom of Great Britain and Northern Ireland
+    description: Programme Officer, Plants for People IUCN
+    email: barbara.goettsch@iucn.org
+    expertise: Cactus
+    image: Barbara 128x128.png
+    institution: ''
+    position: Co-Chair
+    region: West Europe
+  es:
+    city: Cambridge
+    country: United Kingdom of Great Britain and Northern Ireland
+    description: Oficial de Programas, Plantas para las Personas UICN
+    email: barbara.goettsch@iucn.org
+    expertise: Cactus
+    image: Barbara 128x128.png
+    institution: ''
+    position: Copresidenta
+    region: West Europe
+  first: "B\xE1rbara"
+  last: Goettsch
+- en:
+    city: Gainesville
+    country: United States of America
+    description: Assistant Curator
+    email: lmajure@floridamuseum.ufl.edu
+    expertise: Cactus
+    image: Lucas 128x128.png
+    institution: University of Florida Herbarium
+    position: Co-Chair
+    region: North America and the Caribbean
+  es:
+    city: Gainesville
+    country: United States of America
+    description: Asistente de Curador
+    email: lmajure@floridamuseum.ufl.edu
+    expertise: Cactus
+    image: Lucas 128x128.png
+    institution: Herbario de la Universidad de Florida
+    position: Copresidente
+    region: North America and the Caribbean
+  first: Lucas
+  last: Majure
+- en:
+    city: Phoenix
+    country: United States of America
+    description: Herbarium Curator Emerita & Senior Research Botanist
+    email: whodgson@dbg.org
+    expertise: Agave & Yucca
+    image: Wendy 128x128.png
+    institution: Desert Botanical Garden
+    position: Deputy Chair
+    region: North america and the Caribbean
+  es:
+    city: Phoenix
+    country: United States of America
+    description: "Curadora Emerita de Herbario e Investigadora Bot\xE1nica"
+    email: whodgson@dbg.org
+    expertise: Agave y Yucca
+    image: Wendy 128x128.png
+    institution: "Jard\xEDn Bot\xE1nico del Desierto"
+    position: Vicepresidenta
+    region: North america and the Caribbean
+  first: Wendy
+  last: Hodgson

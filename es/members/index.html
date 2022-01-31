@@ -12,6 +12,153 @@ title: Miembros del CSSG
     </div>
   </div>
 </div>
-<div class='container'>
-  {% include members_es.html %}
+
+<div class="bg-image bg-light-green py-4 my-5 text-white">
+  <div class="container">
+    <div class="row my-4">
+      <div class='col'>
+        <h1 class="text-white">
+          Liderazgo
+        </h1>
+        <ul class="list-unstyled">
+        {% for member in site.data.leadership %}
+          <li class="media my-4 d-flex align-items-center">
+            <img src={{ member.es.image | prepend: "/assets/images/people/" | relative_url }} class="mr-3 img-fluid shadow rounded-circle alt="{{member.first}} {{member.last}}">
+            <div class="media-body">
+              <h5 class="mt-0 text-white">
+                {{member.first}} {{member.last}}{% unless member.es.position == '' %}, {{member.es.position}}{% endunless %}
+              </h5>
+              <p class="mb-1">
+              {% unless member.es.description == "" %}
+                {{ member.es.description }}
+                {% unless member.es.institution == "" %}
+                  at {{member.es.institution}}
+                {% endunless %}
+              {% endunless %}
+              </p>
+              {% unless member.es.expertise == "" %}
+                <p class="my-0 py-0 font-italic font-weight-lighter">
+                  {{ member.es.expertise }}
+                </p>
+              {% endunless %}
+            </div>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
+<div class="bg-image bg-orange py-4 my-5 text-white">
+  <div class="container">
+    <div class="row my-4">
+      <div class='col'>
+        <h1 class="text-white">
+          Cordinador de la Autoridad de la Lista Roja
+        </h1>
+        <ul class="list-unstyled">
+        {% for member in site.data.red_list_authority %}
+          <li class="media my-4 d-flex align-items-center">
+            <div class="media-body">
+              <h5 class="mt-0 text-white">
+                {{member.first}} {{member.last}}<!-- {% unless member.es.position == "" %}, {{member.es.position}}{% endunless %} -->
+              </h5>
+              <p class="mb-1">
+              {% unless member.es.description == "" %}
+                {{ member.es.description }}
+                {% unless member.es.institution == "" %}
+                  at {{member.es.institution}}
+                {% endunless %}
+              {% endunless %}
+              </p>
+              {% unless member.es.expertise == "" %}
+                <p class="my-0 py-0 font-italic font-weight-lighter">
+                  {{ member.es.expertise }}
+                </p>
+              {% endunless %}
+            </div>
+            <img src={{ member.es.image | prepend: "/assets/images/people/" | relative_url }} class="ml-3 img-fluid shadow rounded-circle alt="{{member.first}} {{member.last}}">
+
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="bg-image bg-yellow py-4 my-5 text-white">
+  <div class="container">
+    <div class="row my-4">
+      <div class='col'>
+        <h1 class="text-white">
+          Oficial de Programa
+        </h1>
+        <ul class="list-unstyled">
+        {% for member in site.data.programme_officer %}
+          <li class="media my-4 d-flex align-items-center">
+            <img src={{ member.es.image | prepend: "/assets/images/people/" | relative_url }} class="mr-3 img-fluid shadow rounded-circle alt="{{member.first}} {{member.last}}">
+            <div class="media-body">
+              <h5 class="mt-0 text-white">
+                {{member.first}} {{member.last}}<!-- {% if member.es.position %}, {{member.es.position}}{% endif %} -->
+              </h5>
+              <p class="mb-1">
+              {% unless member.es.description == "" %}
+                {{ member.es.description }}
+                {% unless member.es.institution == "" %}
+                  at {{member.es.institution}}
+                {% endunless %}
+              {% endunless %}
+              </p>
+              {% unless member.es.expertise == "" %}
+                <p class="my-0 py-0 font-italic font-weight-lighter">
+                  {{ member.es.expertise }}
+                </p>
+              {% endunless %}
+            </div>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="bg-image bg-dark-green py-4 my-5 text-white">
+  <div class="container">
+    <div class="row my-4">
+      <div class='col'>
+        <h1 class="text-white">
+          Miembros de la Comisión
+        </h1>
+        <ul class="list-unstyled">
+        {% for member in site.data.members %}
+          <li class="media my-4 d-flex align-items-center">
+            <div class="media-body">
+              <h5 class="mt-0 text-white">
+                {{member.first}} {{member.last}}<!-- {% if member.es.position %}, {{member.es.position}}{% endif %} -->
+              </h5>
+              <p class="mb-1">
+              {% unless member.es.description == "" %}
+                {{ member.es.description }}
+                {% unless member.es.institution == "" %}
+                  at {{member.es.institution}}
+                {% endunless %}
+              {% endunless %}
+              </p>
+              {% unless member.es.expertise == "" %}
+                <p class="my-0 py-0 font-italic font-weight-lighter">
+                  {{ member.es.expertise }}
+                </p>
+              {% endunless %}
+            </div>
+            <img src={{ member.es.image | prepend: "/assets/images/people/" | relative_url }} class="ml-3 img-fluid shadow rounded-circle alt="{{member.first}} {{member.last}}">
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <div class='container'>
+  {% include members_es.html %}
+</div> -->
