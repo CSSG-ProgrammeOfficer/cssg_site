@@ -15,9 +15,9 @@ The site is constructed using [Jekyll](jekyllrb.com), which is a static site gen
 
 To separate out common pieces of html, pages and layouts also make use of includes (located in `_include`). Examples include the english and spanish versions of navbars, the footers, and the language selector. This also helps keep more complicated elements quarantined in their own files.
 
-Overall, the site is split into two separate but analogous halves: `en` and `es`, which unsurprisingly have the english and spanish version of every page. The structures inside these two directories are identical; all that differs are the languages used and the links present.
+**Before you do much work on this site, you should have at least basic familiarity with how Jekyll works.** It can save you an enormous amount of time, and the way things are done will make more sense.
 
-**If you make a change to a page in `en` or `es`, you probably want to make a change in the other**. Analagously, if you make a change to an english or spanish include, you will probably want to make a similar change in the version of that include for the other language.
+Overall, the site is split into two separate but analogous halves: `en` and `es`, which unsurprisingly have the English and Spanish versions of every page. The structures inside these two directories are identical; all that differs are the languages used and the links present.
 
 ## Technologies
 In addition to Jekyll (see above), the site uses CSS and Javascript provided by Bootstrap. It is hosted by GitHub Pages, and at the time of this writing, the domain provider is hover.com.
@@ -31,11 +31,13 @@ The only javascript that is used is what is required by some of Bootstrap's more
 ### Hosting
 The site is hosted for free by GitHub out of this repository via [GitHub Pages](https://pages.github.com). The repository is [presently] private, which is probalby for the best since there may be sensitive contact information for SG group members exposed otherwise. The `CNAME` file connects this to the primary domain, `iucn-cssg.org`, which is configured to point to this page.
 
+Note: In theory, GitHub Pages supports Jekyll sites out of the box, with no need to pre-build the pages (see below). Unfortunately, we use some tools that GitHub Pages does not support to make the language selector in the navbar work, so we have to pre-build the site before pushing changes to GitHub.
+
 #### Important!
 Any change in ownership of this repository will necessitate changing this plumbing on Hover's end to make sure it can find the right GitHub Pages site.
 
 ## Making Edits
-The most common edits that need to be made are to the members list and the newsletters content. These have been abstracted out to JSON files in `/data`. 
+The most common edits that need to be made are to the members list and the newsletters content. These have been abstracted out to JSON files in `_data`. 
 
 ### Members Page
 To add, update, or remove a member from any of the lists on the members page (Leadership, Red List Authority, Programme Officer, or Members), edit the appropriate YAML file in `_data`. For instance, `_data/leadership.yml` contains the data used to create both the spanish and english versions of the leadership section of the members page.
