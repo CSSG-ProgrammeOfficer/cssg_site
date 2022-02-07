@@ -62,7 +62,7 @@ Similar to the members page, if you want to add a newsletter to the dropdown and
 If you do this and follow the JSON syntax (you should probably just copy an existing entry and edit the fields), then the templates will update the navbar dropdown menus and pages for you.
 
 ### More substantial edits
-To change other contents, like the home page, you'll need to actually edit the html. For the English home page, then, you'd need to edit `en/index.html`. For the Spanish page on research, you'd need to edit `es/research/index.html` (note that paths are always in English, even if the page isn't; that's important to make the language switching feature work).
+To change other contents, like the home page, you'll need to actually edit the html. For the English home page, then, you'd need to edit `en/index.html`. For the Spanish page on workshops, you'd need to edit `es/workshops/index.html` (note that paths are always in English, even if the page isn't; that's important to make the language switching feature work).
 
 In that page, you may find references to other includes. For instance, you might find something like `{% include some_page.html %}`. In that case, you'll need to direct your attention to `_includes/some_page.html`. Similarly, the thing you want to edit may exist in the layout. But beware! That change will propagate to all pages that use the layout, and at the time of this writing, all pages use the `default` layout.
 
@@ -86,4 +86,4 @@ You may need to make this file executable via `$ chmod +x _bin/build` before thi
 1. Builds the site into the directory `docs` (where GitHub pages looks for a site)
 2. Copies `docs/en/index.html` to `docs/index.html`. This is so the default home page is the English version of the home page rather than relying on the redirect on the stock home page, which is clunky.
 
-Once you have done that, commit your changes on git, adding files to version control as necessary, and push. The changes should go live shortly after.
+Once you have done that, **commit** your changes on git, adding files to version control as necessary, and push. The changes should go live shortly after.
