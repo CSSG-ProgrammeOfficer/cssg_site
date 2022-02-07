@@ -2,7 +2,6 @@
     city: ''
     country: ''
     description: Researcher
-    email: ''
     expertise: Yucca
     image: yucca1.png
     institution: National Autonomous University of Mexico
@@ -12,7 +11,6 @@
     city: ''
     country: ''
     description: Investigadora
-    email: ''
     expertise: Yucca
     image: yucca1.png
     institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
@@ -24,7 +22,6 @@
     city: Queretaro
     country: Mexico
     description: Professor
-    email: rtenoch@uaq.mx
     expertise: Cactus
     image: cactus2.png
     institution: Autonomous University of Queretaro
@@ -34,7 +31,6 @@
     city: "Quer\xE9taro"
     country: Mexico
     description: Profesor
-    email: rtenoch@uaq.mx
     expertise: Cactus
     image: cactus2.png
     institution: "Universidad Aut\xF3noma de Quer\xE9taro"
@@ -46,7 +42,6 @@
     city: ''
     country: Cuba
     description: Researcher
-    email: duniel.barrios@gmail.com
     expertise: Cactus
     image: cactus1.png
     institution: University of Havana
@@ -56,7 +51,6 @@
     city: ''
     country: Cuba
     description: Investigador
-    email: duniel.barrios@gmail.com
     expertise: Cactus
     image: cactus1.png
     institution: Universidad de la Habana
@@ -68,7 +62,6 @@
     city: ''
     country: Mexico
     description: Researcher
-    email: montijo@unam.mx
     expertise: Cactus
     image: cactus3.png
     institution: National Autonomous University of Mexico
@@ -78,7 +71,6 @@
     city: ''
     country: Mexico
     description: Investigador
-    email: montijo@unam.mx
     expertise: Cactus
     image: cactus3.png
     institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
@@ -90,7 +82,6 @@
     city: Bologna
     country: Italy
     description: Horticulturist
-    email: info@mondocactus.com
     expertise: Cactus
     image: cactus2.png
     institution: Mondocactus
@@ -100,7 +91,6 @@
     city: Bologna
     country: Italy
     description: Horticultor
-    email: info@mondocactus.com
     expertise: Cactus
     image: cactus2.png
     institution: Mondocactus
@@ -112,7 +102,6 @@
     city: San Salvador
     country: El Salvador
     description: Researcher
-    email: gabrielceren@gmail.com
     expertise: Cactus
     image: cactus1.png
     institution: Museum of Natural History of El Salvador
@@ -122,7 +111,6 @@
     city: San Salvador
     country: El Salvador
     description: Investigador
-    email: gabrielceren@gmail.com
     expertise: Cactus
     image: cactus1.png
     institution: Museo de Historia Natural de El Salvador
@@ -134,7 +122,6 @@
     city: ''
     country: ''
     description: Manager of the Plant Conservation Program - Retired
-    email: ''
     expertise: Yucca
     image: yucca1.png
     institution: Lady Bird Johnson Wildflower Center
@@ -144,7 +131,6 @@
     city: ''
     country: ''
     description: "Gerente del Programa de Conservaci\xF3n de Plantas - Jubilada"
-    email: ''
     expertise: Yucca
     image: yucca1.png
     institution: Centro de Flores Silvestres Lady Bird Johnson
@@ -156,7 +142,6 @@
     city: Saskatoon
     country: Canada
     description: Professor
-    email: hugo.cota@usask.ca
     expertise: Cactus
     image: cactus3.png
     institution: University of Saskatchewan
@@ -166,7 +151,6 @@
     city: Saskatoon
     country: Canada
     description: Profesor
-    email: hugo.cota@usask.ca
     expertise: Cactus
     image: cactus3.png
     institution: Universidad de Saskatchewan
@@ -178,7 +162,6 @@
     city: ''
     country: United Kingdom of Great Britain and Nortern Ireland
     description: Senior Science Officer
-    email: ''
     expertise: Conservation Policy
     image: agave1.png
     institution: CITES
@@ -188,7 +171,6 @@
     city: ''
     country: United Kingdom of Great Britain and Nortern Ireland
     description: "Oficial Principal Cient\xEDfico"
-    email: ''
     expertise: "Pol\xEDtica de Conservaci\xF3n"
     image: agave1.png
     institution: CITES
@@ -200,7 +182,6 @@
     city: ''
     country: Argentina
     description: Professor
-    email: phdemaio@gmail.com
     expertise: Cactus
     image: cactus3.png
     institution: National University of Catamarca
@@ -210,7 +191,6 @@
     city: ''
     country: Argentina
     description: Profesor
-    email: phdemaio@gmail.com
     expertise: Cactus
     image: cactus3.png
     institution: Universidad Nacional de Catamarca
@@ -222,7 +202,6 @@
     city: ''
     country: ''
     description: Researcher
-    email: ''
     expertise: Cactus
     image: cactus1.png
     institution: "National Botanical Garden \u201CRafael M. Moscoso\u201D (Dominican\
@@ -233,7 +212,6 @@
     city: ''
     country: ''
     description: Investigadora
-    email: ''
     expertise: Cactus
     image: cactus1.png
     institution: "Jard\xEDn Bot\xE1nico Nacional \u201CRafael M. Moscoso\u201D (Rep\xFA\
@@ -246,7 +224,6 @@
     city: Phoenix
     country: United States of America
     description: Conservation Biologist and Research Botanist
-    email: sfehlberg@dbg.org
     expertise: Cactus
     image: cactus3.png
     institution: Desert Botanical Garden
@@ -256,7 +233,6 @@
     city: Phoenix
     country: United States of America
     description: "Bi\xF3loga de la Conservaci\xF3n e Investigadora Bot\xE1nica"
-    email: sfehlberg@dbg.org
     expertise: Cactus
     image: cactus3.png
     institution: "Jard\xEDn Bot\xE1nico del Desierto"
@@ -268,7 +244,6 @@
     city: ''
     country: Mexico
     description: Researcher
-    email: martha.gonzel@gmail.com
     expertise: Agave
     image: agave1.png
     institution: National Polytechnic Institute
@@ -278,7 +253,6 @@
     city: ''
     country: Mexico
     description: Investigador
-    email: martha.gonzel@gmail.com
     expertise: Agave
     image: agave1.png
     institution: "Instituto Polit\xE9cnico Nacional"
@@ -290,7 +264,6 @@
     city: "Concepci\xF3n"
     country: Chile
     description: Biological Sciences Doctorate Director
-    email: pabloguerrero@udec.cl
     expertise: Cactus
     image: cactus1.png
     institution: University of Concepcion
@@ -300,7 +273,6 @@
     city: "Concepci\xF3n"
     country: Chile
     description: "Director de Doctorado en Ciencias Biol\xF3gicas"
-    email: pabloguerrero@udec.cl
     expertise: Cactus
     image: cactus1.png
     institution: "Universidad de Concepci\xF3n"
@@ -312,7 +284,6 @@
     city: Salsipuedes
     country: Argentina
     description: Independent Researcher
-    email: degurvich@gmail.com
     expertise: Cactus
     image: cactus1.png
     institution: National University of Cordoba
@@ -322,7 +293,6 @@
     city: Salsipuedes
     country: Argentina
     description: Investigador Independiente
-    email: degurvich@gmail.com
     expertise: Cactus
     image: cactus1.png
     institution: "Universidad Nacional de C\xF3rdoba"
@@ -334,7 +304,6 @@
     city: Mexico City
     country: Mexico
     description: Researcher
-    email: cgh@ib.unam.mx
     expertise: Cactus
     image: cactus2.png
     institution: National Autonomous University of Mexico
@@ -344,7 +313,6 @@
     city: Mexico City
     country: Mexico
     description: Investigador
-    email: cgh@ib.unam.mx
     expertise: Cactus
     image: cactus2.png
     institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
@@ -356,7 +324,6 @@
     city: ''
     country: ''
     description: Professor
-    email: ''
     expertise: Cactus
     image: cactus2.png
     institution: LANGEBIO Center for Research and Advanced Studies of the National
@@ -367,7 +334,6 @@
     city: ''
     country: ''
     description: Profesora
-    email: ''
     expertise: Cactus
     image: cactus2.png
     institution: "Centro LANGEBIO de Investigaci\xF3n y Estudios Avanzados del Instituto\
@@ -380,7 +346,6 @@
     city: "M\xE9xico D.F."
     country: Mexico
     description: Researcher
-    email: hmhm@ibunam.mx
     expertise: Cactus
     image: cactus2.png
     institution: National Autonomous University of Mexico
@@ -390,7 +355,6 @@
     city: "M\xE9xico D.F."
     country: Mexico
     description: Investigador
-    email: hmhm@ibunam.mx
     expertise: Cactus
     image: cactus2.png
     institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
@@ -402,7 +366,6 @@
     city: "Quer\xE9taro"
     country: Mexico
     description: Professor
-    email: luishs@uaq.mx
     expertise: Agave
     image: agave2.png
     institution: Autonomous University of Queretaro
@@ -412,7 +375,6 @@
     city: "Quer\xE9taro"
     country: Mexico
     description: Profesor
-    email: luishs@uaq.mx
     expertise: Agave
     image: agave2.png
     institution: "Universidad Aut\xF3noma de Quer\xE9taro"
@@ -424,7 +386,6 @@
     city: Cambridge
     country: United Kingdom of Great Britan and Northern Ireland
     description: Head
-    email: craig.hilton-taylor@iucn.org
     expertise: Cactus
     image: cactus3.png
     institution: IUCN Red List Unit
@@ -434,7 +395,6 @@
     city: Cambridge
     country: United Kingdom of Great Britan and Northern Ireland
     description: Director
-    email: craig.hilton-taylor@iucn.org
     expertise: Cactus
     image: cactus3.png
     institution: Unidad de la Lista Roja de la UICN
@@ -446,7 +406,6 @@
     city: Roosendaal
     country: The Netherlands
     description: Freelance Field Ecologist
-    email: coen.knotters@hotmail.nl
     expertise: Succulents
     image: cactus1.png
     institution: ''
@@ -456,7 +415,6 @@
     city: Roosendaal
     country: The Netherlands
     description: Ecologista de campo independiente
-    email: coen.knotters@hotmail.nl
     expertise: Suculentas
     image: cactus1.png
     institution: ''
@@ -468,7 +426,6 @@
     city: La Paz
     country: Mexico
     description: Researcher
-    email: jlleon04@cibnor.mx
     expertise: Cactus
     image: cactus2.png
     institution: Northwest Biological Research Center
@@ -478,7 +435,6 @@
     city: La Paz
     country: Mexico
     description: Investigador
-    email: jlleon04@cibnor.mx
     expertise: Cactus
     image: cactus2.png
     institution: "Centro de Investigaciones Biol\xF3gicas del Noroeste"
@@ -490,7 +446,6 @@
     city: Bayreuth
     country: Germany
     description: Professor
-    email: sigrid.liede@uni-baryeuth.de
     expertise: Plant Systematics
     image: cactus1.png
     institution: University of Bayreuth
@@ -500,7 +455,6 @@
     city: Bayreuth
     country: Germany
     description: Profesor
-    email: sigrid.liede@uni-baryeuth.de
     expertise: "Sistem\xE1tica de Plantas"
     image: cactus1.png
     institution: Universidad de Bayreuth
@@ -512,7 +466,6 @@
     city: Phoenix
     country: United States of America
     description: Senior Director-Desert Horticulture and Conservation
-    email: kmccue@dbg.org
     expertise: Cactus
     image: cactus1.png
     institution: Desert Botanical Garden
@@ -522,7 +475,6 @@
     city: Phoenix
     country: United States of America
     description: "Directora-Horticultura y Conservaci\xF3n del Desierto"
-    email: kmccue@dbg.org
     expertise: Cactus
     image: cactus1.png
     institution: "Jard\xEDn Bot\xE1nico del Desierto"
@@ -534,7 +486,6 @@
     city: Bonn
     country: Germany
     description: Researcher
-    email: detlev.metzing@uni-oldenburg.de
     expertise: Plant Conservation
     image: cactus3.png
     institution: Carl von Ossietzky University of Oldenburg
@@ -544,7 +495,6 @@
     city: Bonn
     country: Germany
     description: Investigador
-    email: detlev.metzing@uni-oldenburg.de
     expertise: ''
     image: cactus3.png
     institution: Universidad Carl von Ossietzky de Oldenburg
@@ -556,7 +506,6 @@
     city: ''
     country: Venezuela
     description: Researcher
-    email: jafet.nassar@ssc.iucn.org
     expertise: Cactus
     image: cactus1.png
     institution: Venezuelan Institute of Scientific Research
@@ -566,7 +515,6 @@
     city: ''
     country: Venezuela
     description: Investigador
-    email: jafet.nassar@ssc.iucn.org
     expertise: Cactus
     image: cactus1.png
     institution: "Instituto Venezolano de Investigaciones Cient\xEDficas"
@@ -578,7 +526,6 @@
     city: ''
     country: Germany
     description: Researcher
-    email: novoa.perez.ana@gmail.com
     expertise: Cactus as invasive species
     image: cactus1.png
     institution: Institute of Botany, The Czech Academy of Sciences
@@ -588,7 +535,6 @@
     city: ''
     country: Germany
     description: Investigador
-    email: novoa.perez.ana@gmail.com
     expertise: Cactus como especies invasoras
     image: cactus1.png
     institution: "Instituto de Bot\xE1nica, Academia Checa de Ciencias,"
@@ -600,7 +546,6 @@
     city: ''
     country: Argentina
     description: Researcher
-    email: luisoakley37@yahoo.com
     expertise: Cactus
     image: cactus3.png
     institution: Rosario National University
@@ -610,7 +555,6 @@
     city: ''
     country: Argentina
     description: Investigador
-    email: luisoakley37@yahoo.com
     expertise: Cactus
     image: cactus3.png
     institution: Universidad Nacional de Rosario
@@ -622,7 +566,6 @@
     city: Cambridge
     country: United Kingdom of Great Britan and Northern Ireland
     description: Co-Chair
-    email: sara@saraoldfield.net
     expertise: Wild tree species
     image: yucca1.png
     institution: IUCN SSC Global Tree Specialist Group
@@ -632,7 +575,6 @@
     city: Cambridge
     country: United Kingdom of Great Britan and Northern Ireland
     description: Copresidenta
-    email: sara@saraoldfield.net
     expertise: "Especies de \xE1rboles silvestres"
     image: yucca1.png
     institution: "Grupo de Especialistas en \xE1rboles mundiales de la CSE/UICN"
@@ -644,7 +586,6 @@
     city: Pescia
     country: Italy
     description: Researcher
-    email: ''
     expertise: Cactus
     image: cactus2.png
     institution: Department of Vegetable and Ornamental Crops at CREA
@@ -654,7 +595,6 @@
     city: Pescia
     country: Italy
     description: Investigador
-    email: ''
     expertise: Cactus
     image: cactus2.png
     institution: Departamento de Cultivos Vegetales y Ornamentales en CREA
@@ -666,7 +606,6 @@
     city: Antananrivo ville
     country: Madagascar
     description: Ecosystems Team Leader
-    email: esrakotarisoa.rbgkew@moov.mg
     expertise: Aloes
     image: aloe1.png
     institution: Kew Madagascar Conservation Centre
@@ -676,7 +615,6 @@
     city: Antananrivo ville
     country: Madagascar
     description: "L\xEDder del Equipo de Ecosistemas"
-    email: esrakotarisoa.rbgkew@moov.mg
     expertise: Aloes
     image: aloe1.png
     institution: "Centro de Conservaci\xF3n de Kew Madagascar"
@@ -688,7 +626,6 @@
     city: Palermo
     country: Italy
     description: Professor
-    email: ''
     expertise: Succulents
     image: cactus1.png
     institution: University of Palermo
@@ -698,7 +635,6 @@
     city: Palermo
     country: Italy
     description: Profesor
-    email: ''
     expertise: Suculentas
     image: cactus1.png
     institution: Universidad de Palermo
@@ -710,7 +646,6 @@
     city: Phoenix
     country: United States of America
     description: Herbarium Curator and Research Botanist
-    email: asalywon@dbg.org
     expertise: Agave
     image: agave2.png
     institution: Desert Botanical Garden
@@ -720,7 +655,6 @@
     city: Phoenix
     country: United States of America
     description: "Curador de Herbario  e Investigador Bot\xE1nico"
-    email: asalywon@dbg.org
     expertise: Agave
     image: agave2.png
     institution: "Jard\xEDn Bot\xE1nico del Desierto"
@@ -732,7 +666,6 @@
     city: ''
     country: ''
     description: Global Director, Biodiversity Conservation Group Director
-    email: ''
     expertise: Policy Advisor
     image: cactus3.png
     institution: Global Species Programme IUCN
@@ -743,7 +676,6 @@
     country: ''
     description: "Directora Global, Directora del Grupo de Conservaci\xF3n de la Biodiversidad\
       \ de la UICN"
-    email: ''
     expertise: "Asesora de Pol\xEDticas"
     image: cactus3.png
     institution: Programa Mundial de Especies de la UICN
@@ -755,7 +687,6 @@
     city: Monaco
     country: Monaco
     description: Director
-    email: jmsolichon@marie.mc
     expertise: Succulents
     image: cactus2.png
     institution: Exotic Garden of Monaco
@@ -765,7 +696,6 @@
     city: Monaco
     country: Monaco
     description: Director
-    email: jmsolichon@marie.mc
     expertise: Suculentas
     image: cactus2.png
     institution: "Jard\xEDn Bot\xE1nico de M\xF3naco"
@@ -777,7 +707,6 @@
     city: Cadereyta de Montes
     country: Mexico
     description: Chief Director
-    email: esanchez@concyteq.edu.mx
     expertise: Cactus & Agaves
     image: agave1.png
     institution: Cadereyta Regional Botanical Garden
@@ -787,7 +716,6 @@
     city: Cadereyta de Montes
     country: Mexico
     description: Director
-    email: esanchez@concyteq.edu.mx
     expertise: Cactus y Agaves
     image: agave1.png
     institution: "Jard\xEDn Bot\xE1nico Regional de Cadereyta"
@@ -799,7 +727,6 @@
     city: Richmond, Surrey
     country: United Kingdom of Great Britain and Northern Ireland
     description: Director
-    email: nigel_taylor@nparks.gov.sg
     expertise: Cactus
     image: cactus2.png
     institution: Singapore Botanic Gardens
@@ -809,7 +736,6 @@
     city: Richmond, Surrey
     country: United Kingdom of Great Britain and Northern Ireland
     description: Director
-    email: nigel_taylor@nparks.gov.sg
     expertise: Cactus
     image: cactus2.png
     institution: "Jardines Bot\xE1nicos de Singapur"
@@ -821,7 +747,6 @@
     city: Hamburg
     country: Germany
     description: Independent Researcher
-    email: joachim_thiede@gmx.de
     expertise: Agave
     image: agave1.png
     institution: ''
@@ -831,7 +756,6 @@
     city: Hamburg
     country: Germany
     description: Investigador Independiente
-    email: joachim_thiede@gmx.de
     expertise: Agave
     image: agave1.png
     institution: ''
@@ -843,7 +767,6 @@
     city: ''
     country: Mexico
     description: Professor
-    email: itorresg@cieco.unam.mx
     expertise: Agave
     image: agave2.png
     institution: National Autonomous University of Mexico
@@ -853,7 +776,6 @@
     city: ''
     country: Mexico
     description: Profesor
-    email: itorresg@cieco.unam.mx
     expertise: Agave
     image: agave2.png
     institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
@@ -865,7 +787,6 @@
     city: ''
     country: Mexico
     description: Professor
-    email: jazh@xanum.uam.mx
     expertise: Cactus
     image: cactus1.png
     institution: Metropolitan Autonomous University
@@ -875,7 +796,6 @@
     city: ''
     country: Mexico
     description: Profesor
-    email: jazh@xanum.uam.mx
     expertise: Cactus
     image: cactus1.png
     institution: "Universidad Aut\xF3noma Metropolitana"

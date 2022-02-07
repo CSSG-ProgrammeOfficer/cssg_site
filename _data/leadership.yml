@@ -2,7 +2,6 @@
     city: Cambridge
     country: United Kingdom of Great Britain and Northern Ireland
     description: Programme Officer, Plants for People IUCN
-    email: barbara.goettsch@iucn.org
     expertise: Cactus
     image: Barbara 128x128.png
     institution: ''
@@ -12,7 +11,6 @@
     city: Cambridge
     country: United Kingdom of Great Britain and Northern Ireland
     description: Oficial de Programas, Plantas para las Personas UICN
-    email: barbara.goettsch@iucn.org
     expertise: Cactus
     image: Barbara 128x128.png
     institution: ''
@@ -24,7 +22,6 @@
     city: Gainesville
     country: United States of America
     description: Assistant Curator
-    email: lmajure@floridamuseum.ufl.edu
     expertise: Cactus
     image: Lucas 128x128.png
     institution: University of Florida Herbarium
@@ -34,7 +31,6 @@
     city: Gainesville
     country: United States of America
     description: Asistente de Curador
-    email: lmajure@floridamuseum.ufl.edu
     expertise: Cactus
     image: Lucas 128x128.png
     institution: Herbario de la Universidad de Florida
@@ -46,7 +42,6 @@
     city: Phoenix
     country: United States of America
     description: Herbarium Curator Emerita & Senior Research Botanist
-    email: whodgson@dbg.org
     expertise: Agave & Yucca
     image: Wendy 128x128.png
     institution: Desert Botanical Garden
@@ -56,7 +51,6 @@
     city: Phoenix
     country: United States of America
     description: "Curadora Emerita de Herbario e Investigadora Bot\xE1nica"
-    email: whodgson@dbg.org
     expertise: Agave y Yucca
     image: Wendy 128x128.png
     institution: "Jard\xEDn Bot\xE1nico del Desierto"
