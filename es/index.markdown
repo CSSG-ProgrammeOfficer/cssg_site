@@ -64,7 +64,7 @@ language: es
         </div>
         <div class="card-footer bg-transparent border-0">
           <p class="text-center">
-            <a class="btn btn-primary" href= "{{site.baseurl}}/{{page.language}}/research"> Conoce sobre nuestra Investigación </a>
+            <a class="btn btn-primary" href= "{{site.baseurl}}/{{page.language}}/workshops"> Conoce sobre nuestra Investigación </a>
           </p>
         </div>
       </div>

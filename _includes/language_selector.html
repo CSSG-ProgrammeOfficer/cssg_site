@@ -4,8 +4,6 @@
       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src={% link /assets/images/united-kingdom-flag-round-xs.png %} alt="UK Flag" class="img img-fluid flag align-middle"> <span class='align-middle text-dark'>EN</span></a>
     {% when "es" %}
       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src={% link /assets/images/spain-flag-round-xs.png %} alt="Bandera de España" class="img img-fluid flag align-middle"> <span class='align-middle text-dark'>ES</span></a>
-    {% when "fr" %}
-      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src={% link /assets/images/france-flag-round-xs.png %} alt="Drapeau de la france" class="img img-fluid flag align-middle"> <span class='align-middle text-dark'>FR</span></a>
     {% else %}
       <a href='#'>Unknown Language</a>
   {% endcase %}
@@ -14,7 +12,6 @@
     <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'en' }}"
     ><img src={% link /assets/images/united-kingdom-flag-round-xs.png %} alt="UK Flag" class="img img-fluid flag align-middle"> <span class='align-middle'>EN</span></a>
     <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'es' }}"><img src={% link /assets/images/spain-flag-round-xs.png %} alt="Spain Flag" class="img img-fluid flag align-middle"> <span class='align-middle'>ES</span></a>
-    <!-- <a class="dropdown-item" href="{{ site.baseurl }}{{page.url | replace_first:  page.language, 'fr' }}"><img src={% link /assets/images/france-flag-round-xs.png %} alt="France Flag" class="img img-fluid flag align-middle"> <span class='align-middle'>FR</span></a> -->
   </div>
 
 </div>
