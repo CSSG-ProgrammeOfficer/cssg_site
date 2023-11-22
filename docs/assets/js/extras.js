@@ -1,6 +1,6 @@
 var splash_video = {
   setup: function() {
-    document.querySelector('#splash-video').playbackRate = 1.0;
+    document.querySelector('#splash-video').playbackRate = 0.5;
   }
 };
 

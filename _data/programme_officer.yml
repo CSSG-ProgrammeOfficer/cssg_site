@@ -21,19 +21,19 @@
 - en:
     city: ''
     country: ''
-    description: CSSG Programme Officer
-    expertise: ''
-    image: cactus1.png
+    description: CSSG Program Officer
+    expertise: 'Cacti'
+    image: Michiel 128x128.png
     institution: 'Desert Botanical Garden'
-    position: Programme Officer
+    position: Program Officer
     region: ''
   es:
     city: ''
     country: ''
-    description: Oficial de Programas de CSSG
-    expertise: ''
-    image: cactus1.png
-    institution: "Jard\xEDn Bot\xE1nico del Desierto"
+    description: Oficial de Programa del CSSG
+    expertise: 'Cactáceas'
+    image: Michiel 128x128.png
+    institution: 'Desert Botanical Garden'
     position: Oficial de Programa
     region: ''
   first: 'Michiel'

@@ -1,17 +1,17 @@
 - en:
     city: Cambridge
-    country: United Kingdom of Great Britain and Northern Ireland
-    description: Programme Officer, Plants for People IUCN
-    expertise: Cactus
+    country: Mexico
+    description: Consultant, The Biodiversity Consultancy Ltd
+    expertise: Cacti
     image: Barbara 128x128.png
     institution: ''
     position: Co-Chair
     region: West Europe
   es:
     city: Cambridge
-    country: United Kingdom of Great Britain and Northern Ireland
-    description: Oficial de Programas, Plantas para las Personas UICN
-    expertise: Cactus
+    country: México
+    description: Consultora, The Biodiversity Consultancy Ltd
+    expertise: Cactáceas
     image: Barbara 128x128.png
     institution: ''
     position: Copresidenta
@@ -22,7 +22,7 @@
     city: Gainesville
     country: United States of America
     description: Assistant Curator
-    expertise: Cactus
+    expertise: Cacti
     image: Lucas 128x128.png
     institution: University of Florida Herbarium
     position: Co-Chair
@@ -31,7 +31,7 @@
     city: Gainesville
     country: United States of America
     description: Asistente de Curador
-    expertise: Cactus
+    expertise: Cactáceas
     image: Lucas 128x128.png
     institution: Herbario de la Universidad de Florida
     position: Copresidente
@@ -42,11 +42,11 @@
     city: Phoenix
     country: United States of America
     description: Herbarium Curator Emerita & Senior Research Botanist
-    expertise: Agave & Yucca
+    expertise: Agave and Yucca
     image: Wendy 128x128.png
     institution: Desert Botanical Garden
     position: Deputy Chair
-    region: North america and the Caribbean
+    region: North America and the Caribbean
   es:
     city: Phoenix
     country: United States of America
@@ -55,6 +55,6 @@
     image: Wendy 128x128.png
     institution: "Jard\xEDn Bot\xE1nico del Desierto"
     position: Vicepresidenta
-    region: North america and the Caribbean
+    region: North America and the Caribbean
   first: Wendy
   last: Hodgson
