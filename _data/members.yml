@@ -45,7 +45,7 @@
     country: Cuba
     description: Researcher
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: University of Havana
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -54,7 +54,7 @@
     country: Cuba
     description: Investigador
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: Universidad de La Habana
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -108,7 +108,7 @@
     country: Jamaica
     description: Botanist
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: The Institute of Jamaica
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -117,7 +117,7 @@
     country: El Salvador
     description: Botánico
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: El Instituto de Jamaica
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -128,8 +128,8 @@
     city: ''
     country: Mexico
     description: Researcher
-    expertise: Ecology, human culture and evolution of plants under domestication, sustainable management of species and ecosystems
-    image: cactus2.png
+    expertise: Ethnobotany and sustainable management
+    image: cactus3.png
     institution: National Autonomous University of Mexico
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -137,8 +137,8 @@
     city: ''
     country: México
     description: Investigador
-    expertise: Ecología, cultura humana y evolución de las plantas domesticadas, gestión sostenible de especies y ecosistemas
-    image: cactus2.png
+    expertise: Etnobotánica y gestión sostenible
+    image: cactus3.png
     institution: Universidad Nacional Autónoma de México
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -150,7 +150,7 @@
     country: Italy
     description: Horticulturist
     expertise: Cactaceae
-    image: cactus2.png
+    image: cactus1.png
     institution: Mondocactus
     position: Member
     region: Europe
@@ -159,7 +159,7 @@
     country: Italia
     description: Horticultor
     expertise: Cactaceae
-    image: cactus2.png
+    image: cactus1.png
     institution: Mondocactus
     position: Miembro
     region: Europa
@@ -171,7 +171,7 @@
     country: El Salvador
     description: Researcher
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: Museum of Natural History of El Salvador
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -180,7 +180,7 @@
     country: El Salvador
     description: Investigador
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: Museo de Historia Natural de El Salvador
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -241,7 +241,7 @@
   es:
     city: ''
     country: Reino Unido
-    description: Directora de conservación
+    description: Directora de Conservación
     expertise: Biología de la conservación
     image: agave1.png
     institution: Botanic Gardens Conservation International
@@ -255,7 +255,7 @@
     country: Argentina
     description: Professor
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus1.png
     institution: National University of Catamarca
     position: Member
     region: South America
@@ -264,7 +264,7 @@
     country: Argentina
     description: Profesor
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus1.png
     institution: Universidad Nacional de Catamarca
     position: Miembro
     region: Sudamérica
@@ -276,7 +276,7 @@
     country: United States of America
     description: Researcher
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: University of Florida
     position: Member
     region: North America
@@ -285,7 +285,7 @@
     country: Estados Unidos de América
     description: Investigadora
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: Universidad de Florida
     position: Miembro
     region: Norteamérica
@@ -360,7 +360,7 @@
     country: Argentina
     description: Researcher
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: National University of Cordoba
     position: Member
     region: South America
@@ -369,7 +369,7 @@
     country: Argentina
     description: Investigador
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus2.png
     institution: Universidad Nacional de Córdoba
     position: Miembro
     region: Sudamérica
@@ -381,7 +381,7 @@
     country: United States of America
     description: Researcher
     expertise: Cactaceae
-    image: cactus2.png
+    image: cactus3.png
     institution: Desert Botanical Garden
     position: Member
     region: North America
@@ -390,7 +390,7 @@
     country: Estados Unidos de América
     description: Investigadora
     expertise: Cactaceae
-    image: cactus2.png
+    image: cactus3.png
     institution: Jardín Botánico del Desierto
     position: Miembra
     region: Norteamérica
@@ -402,7 +402,7 @@
     country: Mexico
     description: Researcher
     expertise: Cactaceae
-    image: cactus2.png
+    image: cactus1.png
     institution: National Autonomous University of Mexico
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -411,7 +411,7 @@
     country: México
     description: Investigador
     expertise: Cactaceae
-    image: cactus2.png
+    image: cactus1.png
     institution: Universidad Nacional Autónoma de México
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -423,7 +423,7 @@
     country: United Kingdom
     description: Head
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus2.png
     institution: IUCN Red List Unit
     position: Member
     region: Europe
@@ -432,7 +432,7 @@
     country: Reino Unido
     description: Director
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus2.png
     institution: Unidad de la Lista Roja de la UICN
     position: Miembro
     region: Europa
@@ -440,32 +440,11 @@
   last: Hilton-Taylor
   
 - en:
-    city: 
-    country: United States of America
-    description: Research Botanist
-    expertise: Cactaceae, Asparagaceae
-    image: cactus2.png
-    institution: Desert Botanical Garden
-    position: Member
-    region: North America
-  es:
-    city: ''
-    country: Estados Unidos de América
-    description: Botánica de Investigación
-    expertise: Cactaceae, Asparagaceae
-    image: cactus2.png
-    institution: Jardín Botánico del Desierto
-    position: Miembra
-    region: Norteamérica
-  first: Wendy
-  last: Hodgson
-  
-- en:
     city: ''
     country: Brazil
     description: Researcher
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus3.png
     institution: Federal University of São Carlos
     position: Member
     region: South America
@@ -474,7 +453,7 @@
     country: Brasil
     description: Investigador
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus3.png
     institution: Universidad Federal de São Carlos
     position: Miembro
     region: Sudamérica
@@ -486,7 +465,7 @@
     country: Brazil
     description: Consultant
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus1.png
     institution: Austroflora
     position: Member
     region: South America
@@ -495,7 +474,7 @@
     country: Brasil
     description: Consultor
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus1.png
     institution: Austroflora
     position: Miembro
     region: Sudamérica
@@ -528,7 +507,7 @@
     country: Germany
     description: Professor
     expertise: Apocynaceae
-    image: cactus1.png
+    image: aloe1.png
     institution: University of Bayreuth
     position: Member
     region: Europe
@@ -537,7 +516,7 @@
     country: Alemania
     description: Profesora
     expertise: Apocynaceae
-    image: cactus1.png
+    image: aloe1.png
     institution: Universidad de Bayreuth
     position: Miembra
     region: Europa
@@ -591,7 +570,7 @@
     country: Germany
     description: Researcher
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus2.png
     institution: German Federal Agency for Nature Conservation
     position: Member
     region: Europe
@@ -600,7 +579,7 @@
     country: Alemania
     description: Investigador
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus2.png
     institution: German Federal Agency for Nature Conservation
     position: Miembro
     region: Europa
@@ -612,7 +591,7 @@
     country: Venezuela
     description: Researcher
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus3.png
     institution: Venezuelan Institute for Scientific Research
     position: Member
     region: South America
@@ -621,7 +600,7 @@
     country: Venezuela
     description: Investigador
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus3.png
     institution: Instituto Venezolano de Investigaciones Científicas
     position: Miembro
     region: Sudamérica
@@ -633,7 +612,7 @@
     country: Czech Republic
     description: Researcher
     expertise: Invasive species
-    image: cactus3.png
+    image: cactus1.png
     institution: Czech Academy of Sciences
     position: Member
     region: Europe
@@ -642,7 +621,7 @@
     country: República Checa
     description: Investigadora
     expertise: Especies invasoras
-    image: cactus3.png
+    image: cactus1.png
     institution: Academia Checa de Ciencias
     position: Miembra
     region: Europa
@@ -654,7 +633,7 @@
     country: Argentina
     description: Researcher
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus2.png
     institution: National University of Rosario
     position: Member
     region: South America
@@ -663,7 +642,7 @@
     country: Argentina
     description: Investigador
     expertise: Cactaceae
-    image: cactus3.png
+    image: cactus2.png
     institution: Universidad Nacional de Rosario
     position: Miembro
     region: Sudamérica
@@ -717,7 +696,7 @@
     country: Italy
     description: Researcher
     expertise: Cactaceae
-    image: cactus2.png
+    image: cactus1.png
     institution: Council for Agriculture Research and Economics
     position: Member
     region: Europe
@@ -726,7 +705,7 @@
     country: Italia
     description: Investigador
     expertise: Cactaceae
-    image: cactus2.png
+    image: cactus1.png
     institution: Council for Agriculture Research and Economics
     position: Miembro
     region: Europa
@@ -738,7 +717,7 @@
     country: Italy
     description: Professor
     expertise: Succulents
-    image: cactus1.png
+    image: cactus2.png
     institution: University of Palermo
     position: Member
     region: Europe
@@ -747,7 +726,7 @@
     country: Italia
     description: Profesor
     expertise: Plantas suculentas
-    image: cactus1.png
+    image: cactus2.png
     institution: Universidad de Palermo
     position: Miembro
     region: Europa
@@ -757,18 +736,18 @@
 - en:
     city: ''
     country: Chile
-    description: Biological Sciences Doctorate Director
+    description: Researcher
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus3.png
     institution: University of Otago
     position: Member
     region: South America
   es:
     city: ''
     country: Chile
-    description: Director Doctorado en Ciencias Biológicas
+    description: Investigador
     expertise: Cactaceae
-    image: cactus1.png
+    image: cactus3.png
     institution: Universidad de Otago
     position: Miembro
     region: Sudamérica
@@ -778,7 +757,7 @@
 - en:
     city: 
     country: United States of America
-    description: Herbarium Curator and Research Botanist
+    description: Herbarium Curator, Research Botanist
     expertise: Cactaceae, Asparagaceae
     image: agave2.png
     institution: Desert Botanical Garden
@@ -787,7 +766,7 @@
   es:
     city: 
     country: Estados Unidos de América
-    description: Conservador del Herbario y Investigador Botánico 
+    description: Conservador del Herbario, Investigador Botánico 
     expertise: Cactaceae, Asparagaceae
     image: agave2.png
     institution: Jardín Botánico del Desierto
@@ -822,7 +801,7 @@
     country: United Kingdom
     description: Global Director
     expertise: Policy
-    image: cactus3.png
+    image: cactus1.png
     institution: IUCN Biodiversity Conservation Group
     position: Member
     region: ''
@@ -831,7 +810,7 @@
     country: Reino Unido
     description: Directora Mundial
     expertise: Política
-    image: cactus3.png
+    image: cactus1.png
     institution: Grupo de Conservación de la Biodiversidad de la UICN
     position: Miembra
     region: ''
@@ -883,18 +862,18 @@
 - en:
     city: 
     country: United States of America
-    description: Environmental consultant
+    description: Environmental Consultant
     expertise: Cactaceae
-    image: agave2.png
+    image: cactus2.png
     institution: Coccoloba AgroEnvironmental
     position: Member
     region: North America
   es:
     city: 
     country: Estados Unidos de América
-    description: Consultor medioambiental
+    description: Consultor Medioambiental
     expertise: Cactaceae
-    image: agave2.png
+    image: cactus2.png
     institution: Coccoloba AgroEnvironmental
     position: Miembro
     region: Norteamérica
