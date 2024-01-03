@@ -1,60 +1,62 @@
 - en:
-    city: Cambridge
+    city: ''
     country: Mexico
     description: Consultant, The Biodiversity Consultancy Ltd
-    expertise: Cacti
+    expertise: Cactaceae
     image: Barbara 128x128.png
     institution: ''
     position: Co-Chair
-    region: West Europe
+    region: Mexico, Central America and the Caribbean
   es:
-    city: Cambridge
+    city: ''
     country: México
     description: Consultora, The Biodiversity Consultancy Ltd
-    expertise: Cactáceas
+    expertise: Cactaceae
     image: Barbara 128x128.png
     institution: ''
     position: Copresidenta
-    region: West Europe
-  first: "B\xE1rbara"
+    region: México, Centroamérica y el Caribe
+  first: Bárbara 
   last: Goettsch
+
 - en:
-    city: Gainesville
+    city: ''
     country: United States of America
-    description: Assistant Curator
-    expertise: Cacti
+    description: Curator of the Herbarium
+    expertise: Cactaceae
     image: Lucas 128x128.png
-    institution: University of Florida Herbarium
+    institution: University of Florida
     position: Co-Chair
-    region: North America and the Caribbean
+    region: North America
   es:
-    city: Gainesville
-    country: United States of America
-    description: Asistente de Curador
-    expertise: Cactáceas
+    city: ''
+    country: Estados Unidos de América
+    description: Conservador del Herbario
+    expertise: Cactaceae
     image: Lucas 128x128.png
-    institution: Herbario de la Universidad de Florida
+    institution: Universidad de Florida
     position: Copresidente
-    region: North America and the Caribbean
+    region: Norteamérica
   first: Lucas
   last: Majure
+  
 - en:
-    city: Phoenix
+    city: 
     country: United States of America
-    description: Herbarium Curator Emerita & Senior Research Botanist
-    expertise: Agave and Yucca
+    description: Research Botanist
+    expertise: Cactaceae, Asparagaceae
     image: Wendy 128x128.png
     institution: Desert Botanical Garden
     position: Deputy Chair
-    region: North America and the Caribbean
+    region: North America
   es:
-    city: Phoenix
-    country: United States of America
-    description: "Curadora Emerita de Herbario e Investigadora Bot\xE1nica"
-    expertise: Agave y Yucca
+    city: ''
+    country: Estados Unidos de América
+    description: Botánica de Investigación
+    expertise: Cactaceae, Asparagaceae
     image: Wendy 128x128.png
-    institution: "Jard\xEDn Bot\xE1nico del Desierto"
+    institution: Jardín Botánico del Desierto
     position: Vicepresidenta
-    region: North America and the Caribbean
+    region: Norteamérica
   first: Wendy
   last: Hodgson

@@ -1,805 +1,944 @@
 - en:
     city: ''
-    country: ''
-    description: Researcher
-    expertise: Yucca
+    country: Peru
+    description: Professor
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: National Major University of San Marcos
+    position: Member
+    region: South America
+  es:
+    city: ''
+    country: Perú
+    description: Profesora
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: Universidad Nacional Mayor de San Marcos
+    position: Miembra
+    region: Sudamérica
+  first: Mónica
+  last: Arakaki
+
+- en:
+    city: ''
+    country: Mexico
+    description: Professor
+    expertise: Asparagaceae
     image: yucca1.png
     institution: National Autonomous University of Mexico
     position: Member
-    region: ''
+    region: Mexico, Central America and the Caribbean
   es:
     city: ''
-    country: ''
-    description: Investigadora
-    expertise: Yucca
+    country: México
+    description: Profesora
+    expertise: Asparagaceae
     image: yucca1.png
-    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
+    institution: Universidad Nacional Autónoma de México
     position: Miembro de la Comisión
-    region: ''
-  first: Magdalena
-  last: Ayala
-- en:
-    city: Queretaro
-    country: Mexico
-    description: Professor
-    expertise: Cactus
-    image: cactus2.png
-    institution: Autonomous University of Queretaro
-    position: Member
-    region: Meso and South America
-  es:
-    city: "Quer\xE9taro"
-    country: Mexico
-    description: Profesor
-    expertise: Cactus
-    image: cactus2.png
-    institution: "Universidad Aut\xF3noma de Quer\xE9taro"
-    position: Miembro de la Comisión
-    region: Meso and South America
-  first: Rolando Tenoch
-  last: Barcenas Luna
+    region: México, Centroamérica y el Caribe
+  first: María Magdalena
+  last: Ayala Hernández
+
 - en:
     city: ''
     country: Cuba
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
     institution: University of Havana
     position: Member
-    region: North America and the Caribbean
+    region: Mexico, Central America and the Caribbean
   es:
     city: ''
     country: Cuba
     description: Investigador
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
-    institution: Universidad de la Habana
-    position: Miembro de la Comisión
-    region: North America and the Caribbean
+    institution: Universidad de La Habana
+    position: Miembro
+    region: México, Centroamérica y el Caribe
   first: Duniel
-  last: "Barrios Vald\xE9s"
+  last: Barrios Valdés
+
 - en:
     city: ''
     country: Mexico
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
     institution: National Autonomous University of Mexico
     position: Member
-    region: Meso and South America
+    region: Mexico, Central America and the Caribbean
   es:
     city: ''
     country: Mexico
     description: Investigador
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
-    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
-    position: Miembro de la Comisión
-    region: Meso and South America
-  first: "Jos\xE9 Alberto"
-  last: "B\xFArquez Montijo"
+    institution: Universidad Nacional Autónoma de México
+    position: Miembro
+    region: México, Centroamérica y el Caribe
+  first: José Alberto
+  last: Búrquez Montijo
+
 - en:
-    city: Bologna
+    city: ''
+    country: Brazil
+    description: Professor
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: Federal University of Rio Grande do Norte
+    position: Member
+    region: South America
+  es:
+    city: ''
+    country: Brasil
+    description: Profesora
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: Universidad Federal de Rio Grande do Norte
+    position: Miembra
+    region: Sudamérica
+  first: Alice
+  last: Calvente
+  
+- en:
+    city: ''
+    country: Jamaica
+    description: Botanist
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: The Institute of Jamaica
+    position: Member
+    region: Mexico, Central America and the Caribbean
+  es:
+    city: ''
+    country: El Salvador
+    description: Botánico
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: El Instituto de Jamaica
+    position: Miembro
+    region: México, Centroamérica y el Caribe
+  first: Keron
+  last: Campbell
+  
+- en:
+    city: ''
+    country: Mexico
+    description: Researcher
+    expertise: Ecology, human culture and evolution of plants under domestication, sustainable management of species and ecosystems
+    image: cactus2.png
+    institution: National Autonomous University of Mexico
+    position: Member
+    region: Mexico, Central America and the Caribbean
+  es:
+    city: ''
+    country: México
+    description: Investigador
+    expertise: Ecología, cultura humana y evolución de las plantas domesticadas, gestión sostenible de especies y ecosistemas
+    image: cactus2.png
+    institution: Universidad Nacional Autónoma de México
+    position: Miembro
+    region: México, Centroamérica y el Caribe
+  first: Alejandro
+  last: Casas
+  
+- en:
+    city: ''
     country: Italy
     description: Horticulturist
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
     institution: Mondocactus
     position: Member
-    region: West Europe
+    region: Europe
   es:
-    city: Bologna
-    country: Italy
+    city: ''
+    country: Italia
     description: Horticultor
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
     institution: Mondocactus
-    position: Miembro de la Comisión
-    region: West Europe
+    position: Miembro
+    region: Europa
   first: Andrea
   last: Cattabriga
+  
 - en:
-    city: San Salvador
+    city: ''
     country: El Salvador
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
     institution: Museum of Natural History of El Salvador
     position: Member
-    region: Meso and South America
+    region: Mexico, Central America and the Caribbean
   es:
-    city: San Salvador
+    city: ''
     country: El Salvador
     description: Investigador
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
     institution: Museo de Historia Natural de El Salvador
-    position: Miembro de la Comisión
-    region: Meso and South America
-  first: "Jos\xE9 Gabriel"
-  last: "Cer\xE9n L\xF3pez"
+    position: Miembro
+    region: México, Centroamérica y el Caribe
+  first: José Gabriel
+  last: Cerén López
+  
 - en:
     city: ''
-    country: ''
-    description: Manager of the Plant Conservation Program - Retired
-    expertise: Yucca
+    country: United States of America
+    description: Researcher
+    expertise: Asparagaceae
     image: yucca1.png
-    institution: Lady Bird Johnson Wildflower Center
+    institution: University of Texas at Austin
     position: Member
-    region: ''
+    region: North America
   es:
     city: ''
-    country: ''
-    description: "Gerente del Programa de Conservaci\xF3n de Plantas - Jubilada"
-    expertise: Yucca
+    country: Estados Unidos de América
+    description: Investigadora
+    expertise: Asparagaceae
     image: yucca1.png
-    institution: Centro de Flores Silvestres Lady Bird Johnson
-    position: Miembro de la Comisión
-    region: ''
-  first: Karen
+    institution: Universidad de Texas en Austin
+    position: Miembra
+    region: Norteamérica
+  first: Karen Husum
   last: Clary
+  
 - en:
-    city: Saskatoon
+    city: ''
     country: Canada
     description: Professor
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
     institution: University of Saskatchewan
     position: Member
-    region: North American and the Caribbean
+    region: North America
   es:
-    city: Saskatoon
+    city: ''
     country: Canada
     description: Profesor
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
     institution: Universidad de Saskatchewan
-    position: Miembro de la Comisión
-    region: North American and the Caribbean
+    position: Miembro
+    region: Norteamérica
   first: Hugo
-  last: "Cota-S\xE1nchez"
+  last: Cota-Sánchez
+  
 - en:
     city: ''
-    country: United Kingdom of Great Britain and Nortern Ireland
-    description: Senior Science Officer
-    expertise: Conservation Policy
+    country: United Kingdom
+    description: Director of Conservation 
+    expertise: Conservation biology
     image: agave1.png
-    institution: CITES
+    institution: Botanic Gardens Conservation International
     position: Member
-    region: ''
+    region: Europe
   es:
     city: ''
-    country: United Kingdom of Great Britain and Nortern Ireland
-    description: "Oficial Principal Cient\xEDfico"
-    expertise: "Pol\xEDtica de Conservaci\xF3n"
+    country: Reino Unido
+    description: Directora de conservación
+    expertise: Biología de la conservación
     image: agave1.png
-    institution: CITES
-    position: Miembro de la Comisión
-    region: ''
+    institution: Botanic Gardens Conservation International
+    position: Miembra
+    region: Europa
   first: Carly
   last: Cowell
+  
 - en:
     city: ''
     country: Argentina
     description: Professor
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
     institution: National University of Catamarca
     position: Member
-    region: Meso and South America
+    region: South America
   es:
     city: ''
     country: Argentina
     description: Profesor
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
     institution: Universidad Nacional de Catamarca
-    position: Miembro de la Comisión
-    region: Meso and South America
+    position: Miembro
+    region: Sudamérica
   first: Pablo
   last: Demaio
+  
 - en:
     city: ''
-    country: ''
+    country: United States of America
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
-    institution: "National Botanical Garden \u201CRafael M. Moscoso\u201D (Dominican\
-      \ Republic) and University of Florida"
+    institution: University of Florida
     position: Member
-    region: ''
+    region: North America
   es:
     city: ''
-    country: ''
+    country: Estados Unidos de América
     description: Investigadora
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
-    institution: "Jard\xEDn Bot\xE1nico Nacional \u201CRafael M. Moscoso\u201D (Rep\xFA\
-      blica Dominicana) y Universidad de Florida"
-    position: Miembro de la Comisión
-    region: ''
+    institution: Universidad de Florida
+    position: Miembro
+    region: Norteamérica
   first: Yuley
-  last: "Encarnaci\xF3n Pi\xF1eyro"
+  last: Encarnación Piñeyro
+  
 - en:
-    city: Phoenix
+    city: ''
     country: United States of America
-    description: Conservation Biologist and Research Botanist
-    expertise: Cactus
+    description: Conservation Biologist
+    expertise: Cactaceae
     image: cactus3.png
     institution: Desert Botanical Garden
     position: Member
-    region: North America and the Caribbean
+    region: North America
   es:
-    city: Phoenix
-    country: United States of America
-    description: "Bi\xF3loga de la Conservaci\xF3n e Investigadora Bot\xE1nica"
-    expertise: Cactus
+    city: ''
+    country: Estados Unidos de América
+    description: Bióloga Conservacionista
+    expertise: Cactaceae
     image: cactus3.png
-    institution: "Jard\xEDn Bot\xE1nico del Desierto"
-    position: Miembro de la Comisión
-    region: North America and the Caribbean
+    institution: Jardín Botánico del Desierto
+    position: Miembra
+    region: Norteamérica
   first: Shannon
   last: Fehlberg
+  
 - en:
     city: ''
     country: Mexico
     description: Researcher
-    expertise: Agave
+    expertise: Asparagaceae
     image: agave1.png
     institution: National Polytechnic Institute
     position: Member
-    region: Meso and South America
+    region: Mexico, Central America and the Caribbean
   es:
     city: ''
-    country: Mexico
-    description: Investigador
-    expertise: Agave
+    country: México
+    description: Investigadora
+    expertise: Asparagaceae
     image: agave1.png
-    institution: "Instituto Polit\xE9cnico Nacional"
-    position: Miembro de la Comisión
-    region: Meso and South America
+    institution: Instituto Politécnico Nacional
+    position: Miembra
+    region: México, Centroamérica y el Caribe
   first: Martha
-  last: "Gonz\xE1lez-Elizondo"
+  last: González Elizondo
+  
 - en:
-    city: "Concepci\xF3n"
+    city: ''
     country: Chile
     description: Biological Sciences Doctorate Director
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
-    institution: University of Concepcion
+    institution: University of Concepción
     position: Member
-    region: Meso and South America
+    region: South America
   es:
-    city: "Concepci\xF3n"
+    city: ''
     country: Chile
-    description: "Director de Doctorado en Ciencias Biol\xF3gicas"
-    expertise: Cactus
+    description: Director Doctorado en Ciencias Biológicas
+    expertise: Cactaceae
     image: cactus1.png
-    institution: "Universidad de Concepci\xF3n"
-    position: Miembro de la Comisión
-    region: Meso and South America
+    institution: Universidad de Concepción
+    position: Miembro
+    region: Sudamérica
   first: Pablo
   last: Guerrero
+  
 - en:
-    city: Salsipuedes
+    city: ''
     country: Argentina
-    description: Independent Researcher
-    expertise: Cactus
+    description: Researcher
+    expertise: Cactaceae
     image: cactus1.png
     institution: National University of Cordoba
     position: Member
-    region: Meso and South America
+    region: South America
   es:
-    city: Salsipuedes
+    city: ''
     country: Argentina
-    description: Investigador Independiente
-    expertise: Cactus
+    description: Investigador
+    expertise: Cactaceae
     image: cactus1.png
-    institution: "Universidad Nacional de C\xF3rdoba"
-    position: Miembro de la Comisión
-    region: Meso and South America
+    institution: Universidad Nacional de Córdoba
+    position: Miembro
+    region: Sudamérica
   first: Diego Ezequiel
   last: Gurvich
+  
 - en:
-    city: Mexico City
-    country: Mexico
+    city: 
+    country: United States of America
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
-    institution: National Autonomous University of Mexico
+    institution: Desert Botanical Garden
     position: Member
-    region: Meso and South America
-  es:
-    city: Mexico City
-    country: Mexico
-    description: Investigador
-    expertise: Cactus
-    image: cactus2.png
-    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
-    position: Miembro de la Comisión
-    region: Meso and South America
-  first: Carlos
-  last: "G\xF3mez Hinostrosa"
-- en:
-    city: ''
-    country: ''
-    description: Professor
-    expertise: Cactus
-    image: cactus2.png
-    institution: LANGEBIO Center for Research and Advanced Studies of the National
-      Polytechnic Institute
-    position: Member
-    region: ''
+    region: North America
   es:
     city: ''
-    country: ''
-    description: Profesora
-    expertise: Cactus
+    country: Estados Unidos de América
+    description: Investigadora
+    expertise: Cactaceae
     image: cactus2.png
-    institution: "Centro LANGEBIO de Investigaci\xF3n y Estudios Avanzados del Instituto\
-      \ Polit\xE9cnico Nacional"
-    position: Miembro de la Comisión
-    region: ''
+    institution: Jardín Botánico del Desierto
+    position: Miembra
+    region: Norteamérica
   first: Tania
-  last: "Hern\xE1ndez"
+  last: Hernández
+  
 - en:
-    city: "M\xE9xico D.F."
+    city: ''
     country: Mexico
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
     institution: National Autonomous University of Mexico
     position: Member
-    region: Meso and South America
+    region: Mexico, Central America and the Caribbean
   es:
-    city: "M\xE9xico D.F."
-    country: Mexico
+    city: ''
+    country: México
     description: Investigador
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
-    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
-    position: Miembro de la Comisión
-    region: Meso and South America
-  first: "H\xE9ctor"
-  last: "Hern\xE1ndez Macias"
+    institution: Universidad Nacional Autónoma de México
+    position: Miembro
+    region: México, Centroamérica y el Caribe
+  first: Héctor 
+  last: Hernández Macías
+  
 - en:
-    city: "Quer\xE9taro"
-    country: Mexico
-    description: Professor
-    expertise: Agave
-    image: agave2.png
-    institution: Autonomous University of Queretaro
-    position: Member
-    region: Meso and South America
-  es:
-    city: "Quer\xE9taro"
-    country: Mexico
-    description: Profesor
-    expertise: Agave
-    image: agave2.png
-    institution: "Universidad Aut\xF3noma de Quer\xE9taro"
-    position: Miembro de la Comisión
-    region: Meso and South America
-  first: Luis
-  last: "Hern\xE1ndez-Sandoval"
-- en:
-    city: Cambridge
-    country: United Kingdom of Great Britan and Northern Ireland
+    city: ''
+    country: United Kingdom
     description: Head
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
     institution: IUCN Red List Unit
     position: Member
-    region: West Europe
+    region: Europe
   es:
-    city: Cambridge
-    country: United Kingdom of Great Britan and Northern Ireland
+    city: ''
+    country: Reino Unido
     description: Director
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
     institution: Unidad de la Lista Roja de la UICN
-    position: Miembro de la Comisión
-    region: West Europe
-  first: Criag
+    position: Miembro
+    region: Europa
+  first: Craig
   last: Hilton-Taylor
+  
 - en:
-    city: Roosendaal
-    country: The Netherlands
-    description: Freelance Field Ecologist
-    expertise: Succulents
-    image: cactus1.png
-    institution: ''
+    city: 
+    country: United States of America
+    description: Research Botanist
+    expertise: Cactaceae, Asparagaceae
+    image: cactus2.png
+    institution: Desert Botanical Garden
     position: Member
-    region: West Europe
+    region: North America
   es:
-    city: Roosendaal
-    country: The Netherlands
-    description: Ecologista de campo independiente
-    expertise: Suculentas
-    image: cactus1.png
-    institution: ''
-    position: Miembro de la Comisión
-    region: West Europe
-  first: Coen
-  last: Knotters
+    city: ''
+    country: Estados Unidos de América
+    description: Botánica de Investigación
+    expertise: Cactaceae, Asparagaceae
+    image: cactus2.png
+    institution: Jardín Botánico del Desierto
+    position: Miembra
+    region: Norteamérica
+  first: Wendy
+  last: Hodgson
+  
 - en:
-    city: La Paz
+    city: ''
+    country: Brazil
+    description: Researcher
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: Federal University of São Carlos
+    position: Member
+    region: South America
+  es:
+    city: ''
+    country: Brasil
+    description: Investigador
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: Universidad Federal de São Carlos
+    position: Miembro
+    region: Sudamérica
+  first: Matias
+  last: Köhler
+  
+- en:
+    city: ''
+    country: Brazil
+    description: Consultant
+    expertise: Cactaceae
+    image: cactus3.png
+    institution: Austroflora
+    position: Member
+    region: South America
+  es:
+    city: ''
+    country: Brasil
+    description: Consultor
+    expertise: Cactaceae
+    image: cactus3.png
+    institution: Austroflora
+    position: Miembro
+    region: Sudamérica
+  first: João 
+  last: Larocca
+  
+- en:
+    city: ''
     country: Mexico
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
     institution: Northwest Biological Research Center
     position: Member
-    region: Meso and South America
+    region: Mexico, Central America and the Caribbean
   es:
     city: La Paz
     country: Mexico
     description: Investigador
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
-    institution: "Centro de Investigaciones Biol\xF3gicas del Noroeste"
-    position: Miembro de la Comisión
-    region: Meso and South America
-  first: "Jos\xE9 Luis"
+    institution: Centro de Investigaciones Biológicas del Noroeste
+    position: Miembro
+    region: México, Centroamérica y el Caribe
+  first: José Luis
   last: Leon de la Luz
+  
 - en:
-    city: Bayreuth
+    city: ''
     country: Germany
     description: Professor
-    expertise: Plant Systematics
+    expertise: Apocynaceae
     image: cactus1.png
     institution: University of Bayreuth
     position: Member
-    region: West Europe
+    region: Europe
   es:
-    city: Bayreuth
-    country: Germany
-    description: Profesor
-    expertise: "Sistem\xE1tica de Plantas"
+    city: ''
+    country: Alemania
+    description: Profesora
+    expertise: Apocynaceae
     image: cactus1.png
     institution: Universidad de Bayreuth
-    position: Miembro de la Comisión
-    region: West Europe
+    position: Miembra
+    region: Europa
   first: Sigrid
   last: Liede-Schumann
+  
 - en:
-    city: Phoenix
+    city: ''
     country: United States of America
-    description: Senior Director-Desert Horticulture and Conservation
-    expertise: Cactus
+    description: Professor
+    expertise: Illegal trade
+    image: cactus3.png
+    institution: University of Alabama
+    position: Member
+    region: North America
+  es:
+    city: ''
+    country: Estados Unidos de América
+    description: Profesor
+    expertise: Tráfico ilegal
+    image: cactus3.png
+    institution: Universidad de Alabama
+    position: Miembro
+    region: Norteamérica
+  first: Jared
+  last: Margulies
+  
+- en:
+    city: ''
+    country: United States of America
+    description: Chief Science Officer
+    expertise: Cactaceae
     image: cactus1.png
     institution: Desert Botanical Garden
     position: Member
-    region: North America and the Caribbean
+    region: North America
   es:
-    city: Phoenix
-    country: United States of America
-    description: "Directora-Horticultura y Conservaci\xF3n del Desierto"
-    expertise: Cactus
+    city: ''
+    country: Estados Unidos de América
+    description: Directora Científica
+    expertise: Cactaceae
     image: cactus1.png
-    institution: "Jard\xEDn Bot\xE1nico del Desierto"
-    position: Miembro de la Comisión
-    region: North America and the Caribbean
+    institution: Jardín Botánico del Desierto
+    position: Miembra
+    region: Norteamérica
   first: Kimberlie
   last: McCue
+  
 - en:
-    city: Bonn
+    city: ''
     country: Germany
     description: Researcher
-    expertise: Plant Conservation
+    expertise: Cactaceae
     image: cactus3.png
-    institution: Carl von Ossietzky University of Oldenburg
+    institution: German Federal Agency for Nature Conservation
     position: Member
-    region: West Europe
+    region: Europe
   es:
-    city: Bonn
-    country: Germany
+    city: ''
+    country: Alemania
     description: Investigador
-    expertise: ''
+    expertise: Cactaceae
     image: cactus3.png
-    institution: Universidad Carl von Ossietzky de Oldenburg
-    position: Miembro de la Comisión
-    region: West Europe
+    institution: German Federal Agency for Nature Conservation
+    position: Miembro
+    region: Europa
   first: Detlev
   last: Metzing
+  
 - en:
     city: ''
     country: Venezuela
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
-    institution: Venezuelan Institute of Scientific Research
+    institution: Venezuelan Institute for Scientific Research
     position: Member
-    region: Meso and South America
+    region: South America
   es:
     city: ''
     country: Venezuela
     description: Investigador
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
-    institution: "Instituto Venezolano de Investigaciones Cient\xEDficas"
-    position: Miembro de la Comisión
-    region: Meso and South America
+    institution: Instituto Venezolano de Investigaciones Científicas
+    position: Miembro
+    region: Sudamérica
   first: Jafet
   last: Nassar
+  
 - en:
     city: ''
-    country: Germany
+    country: Czech Republic
     description: Researcher
-    expertise: Cactus as invasive species
-    image: cactus1.png
-    institution: Institute of Botany, The Czech Academy of Sciences
+    expertise: Invasive species
+    image: cactus3.png
+    institution: Czech Academy of Sciences
     position: Member
-    region: West Europe
+    region: Europe
   es:
     city: ''
-    country: Germany
-    description: Investigador
-    expertise: Cactus como especies invasoras
-    image: cactus1.png
-    institution: "Instituto de Bot\xE1nica, Academia Checa de Ciencias,"
-    position: Miembro de la Comisión
-    region: West Europe
+    country: República Checa
+    description: Investigadora
+    expertise: Especies invasoras
+    image: cactus3.png
+    institution: Academia Checa de Ciencias
+    position: Miembra
+    region: Europa
   first: Ana
   last: Novoa
+  
 - en:
     city: ''
     country: Argentina
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
-    institution: Rosario National University
+    institution: National University of Rosario
     position: Member
-    region: Meso and South America
+    region: South America
   es:
     city: ''
     country: Argentina
     description: Investigador
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus3.png
     institution: Universidad Nacional de Rosario
-    position: Miembro de la Comisión
-    region: Meso and South America
-  first: Luis
+    position: Miembro
+    region: Sudamérica
+  first: Luis Jorge
   last: Oakley
+  
 - en:
-    city: Cambridge
-    country: United Kingdom of Great Britan and Northern Ireland
+    city: ''
+    country: United Kingdom
     description: Co-Chair
-    expertise: Wild tree species
+    expertise: Conservation biology
     image: yucca1.png
     institution: IUCN SSC Global Tree Specialist Group
     position: Member
-    region: West Europe
+    region: Europe
   es:
-    city: Cambridge
-    country: United Kingdom of Great Britan and Northern Ireland
+    city: ''
+    country: Reino Unido
     description: Copresidenta
-    expertise: "Especies de \xE1rboles silvestres"
+    expertise: Biología de la conservación
     image: yucca1.png
-    institution: "Grupo de Especialistas en \xE1rboles mundiales de la CSE/UICN"
-    position: Miembro de la Comisión
-    region: West Europe
+    institution: Grupo Mundial de Especialistas en Árboles de la CSE de la UICN
+    position: Miembra
+    region: Europa
   first: Sara
   last: Oldfield
+  
 - en:
-    city: Pescia
+    city: ''
+    country: Chile
+    description: Researcher
+    expertise: Cactaceae
+    image: cactus3.png
+    institution: University of Concepción
+    position: Member
+    region: South America
+  es:
+    city: ''
+    country: Chile
+    description: Investigadora
+    expertise: Cactaceae
+    image: cactus3.png
+    institution: Universidad de Concepción
+    position: Miembra
+    region: Sudamérica
+  first: Carol
+  last: Peña
+
+- en:
+    city: ''
     country: Italy
     description: Researcher
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
-    institution: Department of Vegetable and Ornamental Crops at CREA
+    institution: Council for Agriculture Research and Economics
     position: Member
-    region: ''
+    region: Europe
   es:
-    city: Pescia
-    country: Italy
+    city: ''
+    country: Italia
     description: Investigador
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus2.png
-    institution: Departamento de Cultivos Vegetales y Ornamentales en CREA
-    position: Miembro de la Comisión
-    region: ''
+    institution: Council for Agriculture Research and Economics
+    position: Miembro
+    region: Europa
   first: Domenico
   last: Prisa
+
 - en:
-    city: Antananrivo ville
-    country: Madagascar
-    description: Ecosystems Team Leader
-    expertise: Aloes
-    image: aloe1.png
-    institution: Kew Madagascar Conservation Centre
-    position: Member
-    region: Africa
-  es:
-    city: Antananrivo ville
-    country: Madagascar
-    description: "L\xEDder del Equipo de Ecosistemas"
-    expertise: Aloes
-    image: aloe1.png
-    institution: "Centro de Conservaci\xF3n de Kew Madagascar"
-    position: Miembro de la Comisión
-    region: Africa
-  first: Solofo
-  last: Rakotoarisoa
-- en:
-    city: Palermo
+    city: ''
     country: Italy
     description: Professor
     expertise: Succulents
     image: cactus1.png
     institution: University of Palermo
     position: Member
-    region: West Europe
+    region: Europe
   es:
-    city: Palermo
-    country: Italy
+    city: ''
+    country: Italia
     description: Profesor
-    expertise: Suculentas
+    expertise: Plantas suculentas
     image: cactus1.png
     institution: Universidad de Palermo
-    position: Miembro de la Comisión
-    region: West Europe
+    position: Miembro
+    region: Europa
   first: Maurizio
   last: Sajeva
+  
 - en:
-    city: Phoenix
+    city: ''
+    country: Chile
+    description: Biological Sciences Doctorate Director
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: University of Otago
+    position: Member
+    region: South America
+  es:
+    city: ''
+    country: Chile
+    description: Director Doctorado en Ciencias Biológicas
+    expertise: Cactaceae
+    image: cactus1.png
+    institution: Universidad de Otago
+    position: Miembro
+    region: Sudamérica
+  first: Patricio
+  last: Saldivia
+
+- en:
+    city: 
     country: United States of America
     description: Herbarium Curator and Research Botanist
-    expertise: Agave
+    expertise: Cactaceae, Asparagaceae
     image: agave2.png
     institution: Desert Botanical Garden
     position: Member
-    region: North America and the Caribbean
+    region: North America
   es:
-    city: Phoenix
-    country: United States of America
-    description: "Curador de Herbario  e Investigador Bot\xE1nico"
-    expertise: Agave
+    city: 
+    country: Estados Unidos de América
+    description: Conservador del Herbario y Investigador Botánico 
+    expertise: Cactaceae, Asparagaceae
     image: agave2.png
-    institution: "Jard\xEDn Bot\xE1nico del Desierto"
-    position: Miembro de la Comisión
-    region: North America and the Caribbean
+    institution: Jardín Botánico del Desierto
+    position: Miembro
+    region: Norteamérica
   first: Andrew
   last: Salywon
+  
 - en:
     city: ''
-    country: ''
-    description: Global Director, Biodiversity Conservation Group Director
-    expertise: Policy Advisor
-    image: cactus3.png
-    institution: Global Species Programme IUCN
-    position: Member
-    region: ''
-  es:
-    city: ''
-    country: ''
-    description: "Directora Global, Directora del Grupo de Conservaci\xF3n de la Biodiversidad\
-      \ de la UICN"
-    expertise: "Asesora de Pol\xEDticas"
-    image: cactus3.png
-    institution: Programa Mundial de Especies de la UICN
-    position: Miembro de la Comisión
-    region: ''
-  first: Jane
-  last: Smart
-- en:
-    city: Monaco
-    country: Monaco
-    description: Director
-    expertise: Succulents
-    image: cactus2.png
-    institution: Exotic Garden of Monaco
-    position: Member
-    region: West Europe
-  es:
-    city: Monaco
-    country: Monaco
-    description: Director
-    expertise: Suculentas
-    image: cactus2.png
-    institution: "Jard\xEDn Bot\xE1nico de M\xF3naco"
-    position: Miembro de la Comisión
-    region: West Europe
-  first: Jean-Marie
-  last: Solichon
-- en:
-    city: Cadereyta de Montes
     country: Mexico
-    description: Chief Director
-    expertise: Cactus & Agaves
+    description: Director
+    expertise: Cactaceae, Asparagaceae
     image: agave1.png
     institution: Cadereyta Regional Botanical Garden
     position: Member
-    region: Meso and South America
+    region: Mexico, Central America and the Caribbean
   es:
-    city: Cadereyta de Montes
-    country: Mexico
+    city: ''
+    country: México
     description: Director
-    expertise: Cactus y Agaves
+    expertise: Cactaceae, Asparagaceae
     image: agave1.png
-    institution: "Jard\xEDn Bot\xE1nico Regional de Cadereyta"
-    position: Miembro de la Comisión
-    region: Meso and South America
+    institution: Jardín Botánico Regional de Cadereyta
+    position: Miembro
+    region: México, Centroamérica y el Caribe
   first: Emiliano
-  last: "S\xE1nchez-Mart\xEDnez"
+  last: Sánchez Martínez
+  
 - en:
-    city: Richmond, Surrey
-    country: United Kingdom of Great Britain and Northern Ireland
-    description: Director
-    expertise: Cactus
-    image: cactus2.png
-    institution: Singapore Botanic Gardens
+    city: ''
+    country: United Kingdom
+    description: Global Director
+    expertise: Policy
+    image: cactus3.png
+    institution: IUCN Biodiversity Conservation Group
     position: Member
-    region: West Europe
+    region: ''
   es:
-    city: Richmond, Surrey
-    country: United Kingdom of Great Britain and Northern Ireland
-    description: Director
-    expertise: Cactus
-    image: cactus2.png
-    institution: "Jardines Bot\xE1nicos de Singapur"
-    position: Miembro de la Comisión
-    region: West Europe
-  first: Nigel
-  last: Taylor
+    city: ''
+    country: Reino Unido
+    description: Directora Mundial
+    expertise: Política
+    image: cactus3.png
+    institution: Grupo de Conservación de la Biodiversidad de la UICN
+    position: Miembra
+    region: ''
+  first: Jane
+  last: Smart
+  
 - en:
-    city: Hamburg
+    city: ''
     country: Germany
-    description: Independent Researcher
-    expertise: Agave
+    description: Researcher
+    expertise: Asparagaceae
     image: agave1.png
-    institution: ''
+    institution: Independent
     position: Member
-    region: West Europe
+    region: Europe
   es:
-    city: Hamburg
-    country: Germany
-    description: Investigador Independiente
-    expertise: Agave
+    city: ''
+    country: Alemania
+    description: Investigador
+    expertise: Asparagaceae
     image: agave1.png
-    institution: ''
-    position: Miembro de la Comisión
-    region: West Europe
+    institution: Independiente
+    position: Miembro
+    region: Europa
   first: Joachim
   last: Thiede
+  
 - en:
     city: ''
     country: Mexico
     description: Professor
-    expertise: Agave
+    expertise: Asparagaceae
     image: agave2.png
     institution: National Autonomous University of Mexico
     position: Member
-    region: Meso and South America
+    region: Mexico, Central America and the Caribbean
   es:
     city: ''
-    country: Mexico
+    country: México
     description: Profesor
-    expertise: Agave
+    expertise: Asparagaceae
     image: agave2.png
-    institution: "Universidad Nacional Aut\xF3noma de M\xE9xico"
-    position: Miembro de la Comisión
-    region: Meso and South America
+    institution: Universidad Nacional Autónoma de México
+    position: Miembro
+    region: México, Centroamérica y el Caribe
   first: Ignacio
-  last: "Torres-Garc\xEDa"
+  last: Torres García
+  
+- en:
+    city: 
+    country: United States of America
+    description: Environmental consultant
+    expertise: Cactaceae
+    image: agave2.png
+    institution: Coccoloba AgroEnvironmental
+    position: Member
+    region: North America
+  es:
+    city: 
+    country: Estados Unidos de América
+    description: Consultor medioambiental
+    expertise: Cactaceae
+    image: agave2.png
+    institution: Coccoloba AgroEnvironmental
+    position: Miembro
+    region: Norteamérica
+  first: Christian
+  last: Torres Santana
+
+- en:
+    city: ''
+    country: Brazil
+    description: Professor
+    expertise: Cactaceae
+    image: cactus3.png
+    institution: University of Brasília
+    position: Member
+    region: South America
+  es:
+    city: ''
+    country: Brasil
+    description: Profesora
+    expertise: Cactaceae
+    image: cactus3.png
+    institution: Universidad de Brasília
+    position: Miembra
+    region: Sudamérica
+  first: Daniela
+  last: Zappi
+  
 - en:
     city: ''
     country: Mexico
     description: Professor
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
-    institution: Metropolitan Autonomous University
+    institution: Autonomous Metropolitan University Iztapalapa Unit
     position: Member
-    region: Meso and South America
+    region: Mexico, Central America and the Caribbean
   es:
     city: ''
-    country: Mexico
+    country: México
     description: Profesor
-    expertise: Cactus
+    expertise: Cactaceae
     image: cactus1.png
-    institution: "Universidad Aut\xF3noma Metropolitana"
-    position: Miembro de la Comisión
-    region: Meso and South America
+    institution: Universidad Autónoma Metropolitana Unidad Iztapalapa
+    position: Miembro
+    region: México, Centroamérica y el Caribe
   first: Alejandro
   last: Zavala

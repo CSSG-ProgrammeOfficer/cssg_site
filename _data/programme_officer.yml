@@ -1,40 +1,20 @@
-# - en:
-#     city: ''
-#     country: United States of America
-#     description: CSSG Programme Officer
-#     expertise: Env. Science
-#     image: Jael 128x128.png
-#     institution: Desert Botanical Garden
-#     position: Programme Officer
-#     region: North America and the Caribbean
-#   es:
-#     city: ''
-#     country: Estados Unidos
-#     description: Oficial de Programas de CSSG
-#     expertise: Ciencias Amb.
-#     image: Jael 128x128.png
-#     institution: "Jard\xEDn Bot\xE1nico del Desierto"
-#     position: Oficial de Programa
-#     region: North America and the Caribbean
-#   first: Jael M.
-#   last: Wolf
 - en:
     city: ''
-    country: ''
-    description: CSSG Program Officer
-    expertise: 'Cacti'
+    country: United States of America
+    description: CSSG Program Officer, Researcher
+    expertise: Cactaceae
     image: Michiel 128x128.png
-    institution: 'Desert Botanical Garden'
+    institution: Desert Botanical Garden, The University of Arizona
     position: Program Officer
-    region: ''
+    region: North America
   es:
     city: ''
-    country: ''
+    country: Estados Unidos de América
     description: Oficial de Programa del CSSG
-    expertise: 'Cactáceas'
+    expertise: Cactaceae
     image: Michiel 128x128.png
-    institution: 'Desert Botanical Garden'
+    institution: Jardín Botánico del Desierto, Universidad de Arizona
     position: Oficial de Programa
-    region: ''
-  first: 'Michiel'
-  last: 'Pillet'
+    region: Norteamérica
+  first: Michiel
+  last: Pillet

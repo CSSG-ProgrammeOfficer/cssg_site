@@ -1,20 +1,20 @@
 - en:
-    city: Phoenix
+    city: ''
     country: United States of America
-    description: Curator of Living Collections & Research Botanist
-    expertise: Succulents
+    description: Curator of Living Collections, Research Botanist
+    expertise: Cactaceae, Asparagaceae
     image: Raul 128x128.png
     institution: Desert Botanical Garden
     position: Red List Authority Coordinator
-    region: North American and the Caribbean
+    region: North America
   es:
-    city: Phoenix
-    country: United States of America
-    description: "Curador de Colecciones Vivientes e Investigador Bot\xE1nico"
-    expertise: Suculentas
+    city: ''
+    country: Estados Unidos de América
+    description: Conservador de Colecciones Vivas, Botánico de Investigación
+    expertise: Cactaceae, Asparagaceae
     image: Raul 128x128.png
-    institution: "Jard\xEDn Bot\xE1nico del Desierto"
-    position: Red List Authority Coordinator
-    region: North American and the Caribbean
-  first: "Ra\xFAl"
-  last: "Puente-Mart\xEDnez"
+    institution: Jardín Botánico del Desierto
+    position: Cordinador de la Autoridad de la Lista Roja
+    region: Norteamérica
+  first: Raul
+  last: Puente-Martinez
