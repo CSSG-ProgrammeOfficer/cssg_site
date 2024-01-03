@@ -823,7 +823,7 @@
     description: Researcher
     expertise: Asparagaceae
     image: agave1.png
-    institution: Independent
+    institution: ''
     position: Member
     region: Europe
   es:
@@ -832,7 +832,7 @@
     description: Investigador
     expertise: Asparagaceae
     image: agave1.png
-    institution: Independiente
+    institution: ''
     position: Miembro
     region: Europa
   first: Joachim
