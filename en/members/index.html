@@ -126,6 +126,35 @@ title: CSSG Members
     <div class="row my-4">
       <div class='col'>
         <h1 class="text-white">
+          Focal points
+        </h1>
+        <ul class="list-unstyled">
+        {% for member in site.data.focal_points %}
+          <li class="media my-4 d-flex align-items-center">
+            <div class="media-body">
+              <h5 class="mt-0 text-white">
+                {{member.name}}<!-- {% if member.en.position %}, {{member.en.position}}{% endif %} -->
+              </h5>
+              <p class="mb-1">
+                  {{member.en.institution}}
+              </p>
+                <p class="my-0 py-0 font-italic font-weight-lighter">
+                  {{ member.en.region }}
+                </p>
+            </div>
+            <img src={{ member.en.image | prepend: "/assets/images/people/" | relative_url }} class="ml-3 img-fluid shadow rounded-circle alt="{{member.name}}">
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="bg-image bg-dark-green py-4 my-5 text-white">
+  <div class="container">
+    <div class="row my-4">
+      <div class='col'>
+        <h1 class="text-white">
           Members
         </h1>
         <ul class="list-unstyled">
