@@ -30,6 +30,16 @@
   
 - en:
     image: cactus1.png
+    institution: Botanic Gardens Conservation International
+    region: Sustainable use
+  es:
+    image: cactus1.png
+    institution: Botanic Gardens Conservation International
+    region: Utilización sostenible
+  name: Carly Cowell  
+  
+- en:
+    image: cactus1.png
     institution: University of Kansas
     region: Cleistocactus
   es:
@@ -81,11 +91,11 @@
 - en:
     image: cactus1.png
     institution: Cadereyta Regional Botanical Garden
-    region: Cactaceae of Mexico
+    region: Cactaceae of Querétaro, Guanajuato, Hidalgo (Mexico)
   es:
     image: cactus1.png
     institution: Cadereyta Regional Botanical Garden
-    region: Cactaceae de México
+    region: Cactaceae de Querétaro, Guanajuato, Hidalgo (México)
   name: Beatriz Maruri Aguilar
   
 - en:
@@ -101,9 +111,9 @@
 - en:
     image: cactus1.png
     institution: Cadereyta Regional Botanical Garden
-    region: Cactaceae of Mexico
+    region: Cactaceae of Querétaro, Guanajuato, Hidalgo (Mexico)
   es:
     image: cactus1.png
     institution: Cadereyta Regional Botanical Garden
-    region: Cactaceae de México
+    region: Cactaceae de Querétaro, Guanajuato, Hidalgo (México)
   name: Emiliano Sánchez Martínez 
