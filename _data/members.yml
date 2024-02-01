@@ -1,19 +1,19 @@
 - en:
     city: ''
     country: Peru
-    description: Professor
+    description: Professor and researcher
     expertise: Cactaceae
     image: cactus1.png
-    institution: National Major University of San Marcos
+    institution: Museum of Natural History - San Marcos University
     position: Member
     region: South America
   es:
     city: ''
     country: Perú
-    description: Profesora
+    description: Docente e investigadora
     expertise: Cactaceae
     image: cactus1.png
-    institution: Universidad Nacional Mayor de San Marcos
+    institution: Museo de Historia Natural - Universidad Nacional Mayor de San Marcos
     position: Miembra
     region: Sudamérica
   first: Mónica
@@ -45,7 +45,7 @@
     country: Cuba
     description: Researcher
     expertise: Cactaceae
-    image: cactus2.png
+    image: Duniel.png
     institution: University of Havana
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -54,7 +54,7 @@
     country: Cuba
     description: Investigador
     expertise: Cactaceae
-    image: cactus2.png
+    image: Duniel.png
     institution: Universidad de La Habana
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -276,7 +276,7 @@
     country: United States of America
     description: Researcher
     expertise: Cactaceae
-    image: cactus2.png
+    image: Yuley.png
     institution: University of Florida
     position: Member
     region: North America
@@ -285,7 +285,7 @@
     country: Estados Unidos de América
     description: Investigadora
     expertise: Cactaceae
-    image: cactus2.png
+    image: Yuley.png
     institution: Universidad de Florida
     position: Miembro
     region: Norteamérica
@@ -444,7 +444,7 @@
     country: Brazil
     description: Researcher
     expertise: Cactaceae
-    image: cactus3.png
+    image: Matias.png
     institution: Federal University of São Carlos
     position: Member
     region: South America
@@ -453,7 +453,7 @@
     country: Brasil
     description: Investigador
     expertise: Cactaceae
-    image: cactus3.png
+    image: Matias.png
     institution: Universidad Federal de São Carlos
     position: Miembro
     region: Sudamérica
@@ -507,7 +507,7 @@
     country: Germany
     description: Professor
     expertise: Apocynaceae
-    image: aloe1.png
+    image: Sigrid.png
     institution: University of Bayreuth
     position: Member
     region: Europe
@@ -516,7 +516,7 @@
     country: Alemania
     description: Profesora
     expertise: Apocynaceae
-    image: aloe1.png
+    image: Sigrid.png
     institution: Universidad de Bayreuth
     position: Miembra
     region: Europa
@@ -591,7 +591,7 @@
     country: Venezuela
     description: Researcher
     expertise: Cactaceae
-    image: cactus3.png
+    image: Jafet.png
     institution: Venezuelan Institute for Scientific Research
     position: Member
     region: South America
@@ -600,7 +600,7 @@
     country: Venezuela
     description: Investigador
     expertise: Cactaceae
-    image: cactus3.png
+    image: Jafet.png
     institution: Instituto Venezolano de Investigaciones Científicas
     position: Miembro
     region: Sudamérica
@@ -633,7 +633,7 @@
     country: Argentina
     description: Researcher
     expertise: Cactaceae
-    image: cactus2.png
+    image: Luis.png
     institution: National University of Rosario
     position: Member
     region: South America
@@ -642,7 +642,7 @@
     country: Argentina
     description: Investigador
     expertise: Cactaceae
-    image: cactus2.png
+    image: Luis.png
     institution: Universidad Nacional de Rosario
     position: Miembro
     region: Sudamérica
@@ -652,19 +652,19 @@
 - en:
     city: ''
     country: United Kingdom
-    description: Co-Chair
+    description: Biodiversity Consultant
     expertise: Conservation biology
-    image: yucca1.png
-    institution: IUCN SSC Global Tree Specialist Group
+    image: Sara.png
+    institution: ''
     position: Member
     region: Europe
   es:
     city: ''
     country: Reino Unido
-    description: Copresidenta
+    description: Consultora de Biodiversidad
     expertise: Biología de la conservación
-    image: yucca1.png
-    institution: Grupo Mundial de Especialistas en Árboles de la CSE de la UICN
+    image: Sara.png
+    institution: ''
     position: Miembra
     region: Europa
   first: Sara
@@ -780,7 +780,7 @@
     country: Mexico
     description: Director
     expertise: Cactaceae, Asparagaceae
-    image: agave1.png
+    image: Emiliano.png
     institution: Cadereyta Regional Botanical Garden
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -789,7 +789,7 @@
     country: México
     description: Director
     expertise: Cactaceae, Asparagaceae
-    image: agave1.png
+    image: Emiliano.png
     institution: Jardín Botánico Regional de Cadereyta
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -862,7 +862,7 @@
 - en:
     city: 
     country: United States of America
-    description: Environmental Consultant
+    description: Consultant
     expertise: Cactaceae
     image: cactus2.png
     institution: Coccoloba AgroEnvironmental
@@ -871,14 +871,14 @@
   es:
     city: 
     country: Estados Unidos de América
-    description: Consultor Medioambiental
+    description: Consultor
     expertise: Cactaceae
     image: cactus2.png
     institution: Coccoloba AgroEnvironmental
     position: Miembro
     region: Norteamérica
   first: Christian
-  last: Torres Santana
+  last: Torres-Santana
 
 - en:
     city: ''
