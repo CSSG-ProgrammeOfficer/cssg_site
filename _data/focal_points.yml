@@ -1,119 +1,103 @@
 - en:
+    country: Peru
+    description: Professor and researcher
+    expertise: Cactaceae of Peru
     image: cactus1.png
-    institution: National Major University of San Marcos
-    region: Cactaceae of Peru
+    institution: Museum of Natural History - San Marcos University
+    position: Member
+    region: South America
   es:
+    city: ''
+    country: Perú
+    description: Docente e investigadora
+    expertise: Cactaceae de Perú
     image: cactus1.png
-    institution: Universidad Nacional Mayor de San Marcos
-    region: Cactaceae de Perú
-  name: Mónica Arakaki
+    institution: Museo de Historia Natural - Universidad Nacional Mayor de San Marcos
+    position: Miembra
+    region: Sudamérica
+  first: Mónica
+  last: Arakaki
   
 - en:
+    city: ''
+    country: Cuba
+    description: Researcher
+    expertise: Cactaceae de Cuba
     image: Duniel.png
     institution: University of Havana
-    region: Cactaceae of Cuba
+    position: Member
+    region: Mexico, Central America and the Caribbean
   es:
+    city: ''
+    country: Cuba
+    description: Investigador
+    expertise: Cactaceae de Cuba
     image: Duniel.png
     institution: Universidad de La Habana
-    region: Cactaceae de Cuba
-  name: Duniel Barrios Valdés
+    position: Miembro
+    region: México, Centroamérica y el Caribe
+  first: Duniel
+  last: Barrios Valdés
   
 - en:
-    image: cactus1.png
-    institution: National Commission for the Knowledge and Use of Biodiversity
-    region: Cactaceae of Mexico
-  es:
-    image: cactus1.png
-    institution: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad
-    region: Cactaceae de México
-  name: Angélica Cervantes Maldonado
-  
-- en:
-    image: cactus1.png
-    institution: Botanic Gardens Conservation International
-    region: Sustainable use
-  es:
-    image: cactus1.png
-    institution: Botanic Gardens Conservation International
-    region: Utilización sostenible
-  name: Carly Cowell  
-  
-- en:
-    image: cactus1.png
-    institution: University of Kansas
-    region: Cleistocactus
-  es:
-    image: cactus1.png
-    institution: Universidad de Kansas
-    region: Cleistocactus
-  name: Tristan Davis
-  
-- en:
+    city: ''
+    country: United States of America
+    description: Researcher
+    expertise: Cactaceae of the Caribbean
     image: Yuley.png
     institution: University of Florida
-    region: Cactaceae of the Caribbean
+    position: Member
+    region: North America
   es:
+    city: ''
+    country: Estados Unidos de América
+    description: Investigadora
+    expertise: Cactaceae del Caribe
     image: Yuley.png
     institution: Universidad de Florida
-    region: Cactaceae del caribe
-  name: Yuley Encarnación Piñeyro
+    position: Miembro
+    region: Norteamérica
+  first: Yuley
+  last: Encarnación Piñeyro
   
 - en:
-    image: cactus1.png
-    institution: National Commission for the Knowledge and Use of Biodiversity
-    region: Cactaceae of Mexico
-  es:
-    image: cactus1.png
-    institution: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad
-    region: Cactaceae de México
-  name: Stephanie Paola Espinosa García
-  
-- en:
+    city: ''
+    country: Chile
+    description: Biological Sciences Doctorate Director
+    expertise: Cactaceae of Chile
     image: cactus1.png
     institution: University of Concepción
-    region: Cactaceae of Chile
+    position: Member
+    region: South America
   es:
+    city: ''
+    country: Chile
+    description: Director Doctorado en Ciencias Biológicas
+    expertise: Cactaceae de Chile
     image: cactus1.png
     institution: Universidad de Concepción
-    region: Cactaceae de Chile
-  name: Pablo Guerrero
-
+    position: Miembro
+    region: Sudamérica
+  first: Pablo
+  last: Guerrero
+  
 - en:
-    image: cactus1.png
+    city: ''
+    country: Mexico
+    description: Researcher
+    expertise: Cactaceae of the Baja California peninsula
+    image: cactus2.png
     institution: Northwest Biological Research Center
-    region: Cactaceae of the Baja California peninsula
+    position: Member
+    region: Mexico, Central America and the Caribbean
   es:
-    image: cactus1.png
+    city: La Paz
+    country: Mexico
+    description: Investigador
+    expertise: Cactaceae de la península de Baja California
+    image: cactus2.png
     institution: Centro de Investigaciones Biológicas del Noroeste
-    region: Cactaceae de la Península de Baja California
-  name: José Luis Leon de la Luz
-  
-- en:
-    image: cactus1.png
-    institution: Cadereyta Regional Botanical Garden
-    region: Cactaceae of Querétaro, Guanajuato, Hidalgo (Mexico)
-  es:
-    image: cactus1.png
-    institution: Cadereyta Regional Botanical Garden
-    region: Cactaceae de Querétaro, Guanajuato, Hidalgo (México)
-  name: Beatriz Maruri Aguilar
-  
-- en:
-    image: cactus1.png
-    institution: National Commission for the Knowledge and Use of Biodiversity
-    region: Cactaceae of Mexico
-  es:
-    image: cactus1.png
-    institution: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad
-    region: Cactaceae de México
-  name: Loraine Matias-Palafox
-  
-- en:
-    image: Emiliano.png
-    institution: Cadereyta Regional Botanical Garden
-    region: Cactaceae of Querétaro, Guanajuato, Hidalgo (Mexico)
-  es:
-    image: Emiliano.png
-    institution: Cadereyta Regional Botanical Garden
-    region: Cactaceae de Querétaro, Guanajuato, Hidalgo (México)
-  name: Emiliano Sánchez Martínez 
+    position: Miembro
+    region: México, Centroamérica y el Caribe
+  first: José Luis
+  last: Leon de la Luz

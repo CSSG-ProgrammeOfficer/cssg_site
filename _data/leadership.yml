@@ -1,20 +1,20 @@
 - en:
     city: ''
     country: Mexico
-    description: Consultant
+    description: Independent Researcher
     expertise: Cactaceae
     image: Barbara 128x128.png
-    institution: The Biodiversity Consultancy
-    position: Co-Chair
+    institution: ""
+    position: Co-Chair and Focal Point for Conservation Planning
     region: Mexico, Central America and the Caribbean
   es:
     city: ''
     country: México
-    description: Consultora
+    description: Investigadora Independiente
     expertise: Cactaceae
     image: Barbara 128x128.png
-    institution: The Biodiversity Consultancy
-    position: Copresidenta
+    institution: ""
+    position: Copresidenta y Punto Focal para la Planificación de la Conservación
     region: México, Centroamérica y el Caribe
   first: Bárbara 
   last: Goettsch

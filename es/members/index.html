@@ -122,28 +122,31 @@ title: Miembros del CSSG
     </div>
   </div>
 </div>
-<div class="bg-image bg-dark-green py-4 my-5 text-white">
+<div class="bg-image bg-light-green py-4 my-5 text-white">
   <div class="container">
     <div class="row my-4">
       <div class='col'>
         <h1 class="text-white">
-          Puntos focales
+          Punto Focal para la Utilización Sostenible
         </h1>
         <ul class="list-unstyled">
-        {% for member in site.data.focal_points %}
+        {% for member in site.data.sustainable_use %}
           <li class="media my-4 d-flex align-items-center">
             <div class="media-body">
               <h5 class="mt-0 text-white">
-                {{member.name}}<!-- {% if member.en.position %}, {{member.en.position}}{% endif %} -->
+                {{member.first}} {{member.last}}<!-- {% unless member.en.position == "" %}, {{member.en.position}}{% endunless %} -->
               </h5>
               <p class="mb-1">
-                  {{member.en.institution}}
+              {% unless member.es.description == "" %}
+                {{ member.es.description }}
+                {% unless member.es.institution == "" %}
+                  - {{member.es.institution}}
+                {% endunless %}
+              {% endunless %}
               </p>
-                <p class="my-0 py-0 font-italic font-weight-lighter">
-                  {{ member.en.region }}
-                </p>
             </div>
-            <img src={{ member.en.image | prepend: "/assets/images/people/" | relative_url }} class="ml-3 img-fluid shadow rounded-circle alt="{{member.name}}">
+            <img src={{ member.es.image | prepend: "/assets/images/people/" | relative_url }} class="ml-3 img-fluid shadow rounded-circle alt="{{member.first}} {{member.last}}">
+
           </li>
         {% endfor %}
         </ul>
@@ -152,6 +155,65 @@ title: Miembros del CSSG
   </div>
 </div>
 <div class="bg-image bg-orange py-4 my-5 text-white">
+  <div class="container">
+    <div class="row my-4">
+      <div class='col'>
+	  <h1 class="text-white">
+	  Grupo de Trabajo para la Reevaluación de Cactaceae
+	  </h1>
+	  <br>
+        <h3 class="text-white">
+          Puntos focales
+        </h3>
+        <ul class="list-unstyled">
+        {% for member in site.data.focal_points %}
+          <li class="media my-4 d-flex align-items-center">
+            <div class="media-body">
+              <h5 class="mt-0 text-white">
+                {{member.first}} {{member.last}}<!-- {% if member.en.position %}, {{member.en.position}}{% endif %} -->
+              </h5>
+              <p class="mb-1">
+              {% unless member.es.description == "" %}
+                {{ member.es.description }}
+                {% unless member.es.institution == "" %}
+                  - {{member.es.institution}}
+                {% endunless %}
+              {% endunless %}
+              </p>
+              {% unless member.es.expertise == "" %}
+                <p class="my-0 py-0 font-italic font-weight-lighter">
+                  {{ member.es.expertise }}
+                </p>
+              {% endunless %}
+            </div>
+            <img src={{ member.es.image | prepend: "/assets/images/people/" | relative_url }} class="ml-3 img-fluid shadow rounded-circle alt="{{member.first}} {{member.last}}">
+          </li>
+        {% endfor %}
+        </ul>
+
+        <h3 class="text-white">
+          Instituciones colaboradoras
+        </h3>
+        <ul class="list-unstyled">
+        {% for member in site.data.supporting_institutions %}
+          <li class="media my-4 d-flex align-items-center">
+            <div class="media-body">
+              <h5 class="mt-0 text-white">
+                {{member.es.institution}}
+              </h5>
+              <p class="mb-1">
+                {{ member.es.region }}
+              </p>
+            </div>
+            <img src={{ member.es.image | prepend: "/assets/images/people/" | relative_url }} class="ml-3 img-fluid shadow alt="{{member.es.institution}}">
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="bg-image bg-yellow py-4 my-5 text-white">
   <div class="container">
     <div class="row my-4">
       <div class='col'>

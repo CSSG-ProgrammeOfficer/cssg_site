@@ -1,26 +1,5 @@
 - en:
     city: ''
-    country: Peru
-    description: Professor and researcher
-    expertise: Cactaceae
-    image: cactus1.png
-    institution: Museum of Natural History - San Marcos University
-    position: Member
-    region: South America
-  es:
-    city: ''
-    country: Perú
-    description: Docente e investigadora
-    expertise: Cactaceae
-    image: cactus1.png
-    institution: Museo de Historia Natural - Universidad Nacional Mayor de San Marcos
-    position: Miembra
-    region: Sudamérica
-  first: Mónica
-  last: Arakaki
-
-- en:
-    city: ''
     country: Mexico
     description: Professor
     expertise: Asparagaceae
@@ -39,27 +18,6 @@
     region: México, Centroamérica y el Caribe
   first: María Magdalena
   last: Ayala Hernández
-
-- en:
-    city: ''
-    country: Cuba
-    description: Researcher
-    expertise: Cactaceae
-    image: Duniel.png
-    institution: University of Havana
-    position: Member
-    region: Mexico, Central America and the Caribbean
-  es:
-    city: ''
-    country: Cuba
-    description: Investigador
-    expertise: Cactaceae
-    image: Duniel.png
-    institution: Universidad de La Habana
-    position: Miembro
-    region: México, Centroamérica y el Caribe
-  first: Duniel
-  last: Barrios Valdés
 
 - en:
     city: ''
@@ -171,7 +129,7 @@
     country: El Salvador
     description: Researcher
     expertise: Cactaceae
-    image: cactus2.png
+    image: Gabriel.png
     institution: Museum of Natural History of El Salvador
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -180,7 +138,7 @@
     country: El Salvador
     description: Investigador
     expertise: Cactaceae
-    image: cactus2.png
+    image: Gabriel.png
     institution: Museo de Historia Natural de El Salvador
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -231,27 +189,6 @@
   
 - en:
     city: ''
-    country: United Kingdom
-    description: Director of Conservation 
-    expertise: Conservation biology
-    image: agave1.png
-    institution: Botanic Gardens Conservation International
-    position: Member
-    region: Europe
-  es:
-    city: ''
-    country: Reino Unido
-    description: Directora de Conservación
-    expertise: Biología de la conservación
-    image: agave1.png
-    institution: Botanic Gardens Conservation International
-    position: Miembra
-    region: Europa
-  first: Carly
-  last: Cowell
-  
-- en:
-    city: ''
     country: Argentina
     description: Professor
     expertise: Cactaceae
@@ -270,27 +207,6 @@
     region: Sudamérica
   first: Pablo
   last: Demaio
-  
-- en:
-    city: ''
-    country: United States of America
-    description: Researcher
-    expertise: Cactaceae
-    image: Yuley.png
-    institution: University of Florida
-    position: Member
-    region: North America
-  es:
-    city: ''
-    country: Estados Unidos de América
-    description: Investigadora
-    expertise: Cactaceae
-    image: Yuley.png
-    institution: Universidad de Florida
-    position: Miembro
-    region: Norteamérica
-  first: Yuley
-  last: Encarnación Piñeyro
   
 - en:
     city: ''
@@ -336,27 +252,6 @@
   
 - en:
     city: ''
-    country: Chile
-    description: Biological Sciences Doctorate Director
-    expertise: Cactaceae
-    image: cactus1.png
-    institution: University of Concepción
-    position: Member
-    region: South America
-  es:
-    city: ''
-    country: Chile
-    description: Director Doctorado en Ciencias Biológicas
-    expertise: Cactaceae
-    image: cactus1.png
-    institution: Universidad de Concepción
-    position: Miembro
-    region: Sudamérica
-  first: Pablo
-  last: Guerrero
-  
-- en:
-    city: ''
     country: Argentina
     description: Researcher
     expertise: Cactaceae
@@ -381,7 +276,7 @@
     country: United States of America
     description: Researcher
     expertise: Cactaceae
-    image: cactus3.png
+    image: Tania.png
     institution: Desert Botanical Garden
     position: Member
     region: North America
@@ -390,12 +285,12 @@
     country: Estados Unidos de América
     description: Investigadora
     expertise: Cactaceae
-    image: cactus3.png
+    image: Tania.png
     institution: Jardín Botánico del Desierto
     position: Miembra
     region: Norteamérica
   first: Tania
-  last: Hernández
+  last: Hernández-Hernández
   
 - en:
     city: ''
@@ -480,27 +375,6 @@
     region: Sudamérica
   first: João 
   last: Larocca
-  
-- en:
-    city: ''
-    country: Mexico
-    description: Researcher
-    expertise: Cactaceae
-    image: cactus2.png
-    institution: Northwest Biological Research Center
-    position: Member
-    region: Mexico, Central America and the Caribbean
-  es:
-    city: La Paz
-    country: Mexico
-    description: Investigador
-    expertise: Cactaceae
-    image: cactus2.png
-    institution: Centro de Investigaciones Biológicas del Noroeste
-    position: Miembro
-    region: México, Centroamérica y el Caribe
-  first: José Luis
-  last: Leon de la Luz
   
 - en:
     city: ''

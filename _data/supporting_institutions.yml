@@ -1,0 +1,29 @@
+- en:
+    country: Mexico
+    image: Cadereyta.png
+    institution: Cadereyta Regional Botanical Garden
+  es:
+    country: México
+    image: Cadereyta.png
+    institution: Jardín Botánico Regional de Cadereyta
+  name: Cadereyta
+  
+- en:
+    image: CONABIO.png
+    institution: National Commission for the Knowledge and Use of Biodiversity
+    country: Mexico
+  es:
+    image: CONABIO.png
+    institution: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad
+    country: México
+  name: CONABIO
+  
+- en:
+    image: HBG.png
+    country: United States of America
+    institution: The Huntington Library, Art Museum, and Botanical Gardens
+  es:
+    image: HBG.png
+    institution: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad
+    country: La Biblioteca Huntington, el Museo de Arte y el Jardín Botánico
+  name: HBG
