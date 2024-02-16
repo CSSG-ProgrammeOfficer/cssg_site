@@ -45,7 +45,7 @@
     country: Brazil
     description: Professor
     expertise: Cactaceae
-    image: cactus1.png
+    image: Alice.png
     institution: Federal University of Rio Grande do Norte
     position: Member
     region: South America
@@ -54,7 +54,7 @@
     country: Brasil
     description: Profesora
     expertise: Cactaceae
-    image: cactus1.png
+    image: Alice.png
     institution: Universidad Federal de Rio Grande do Norte
     position: Miembra
     region: Sudamérica
@@ -317,8 +317,8 @@
     city: ''
     country: United Kingdom
     description: Head
-    expertise: Cactaceae
-    image: cactus2.png
+    expertise: "Old World succulents: Aizoaceae, Apocynaceae, Asphodelaceae, Asteraceae, Crassulaceae and Euphorbiaceae"
+    image: Craig.png
     institution: IUCN Red List Unit
     position: Member
     region: Europe
@@ -326,8 +326,8 @@
     city: ''
     country: Reino Unido
     description: Director
-    expertise: Cactaceae
-    image: cactus2.png
+    expertise: "Suculentas del Viejo Mundo: Aizoaceae, Apocynaceae, Asphodelaceae, Asteraceae, Crassulaceae y Euphorbiaceae"
+    image: Craig.png
     institution: Unidad de la Lista Roja de la UICN
     position: Miembro
     region: Europa
@@ -444,7 +444,7 @@
     country: Germany
     description: Researcher
     expertise: Cactaceae
-    image: cactus2.png
+    image: Detlev.png
     institution: German Federal Agency for Nature Conservation
     position: Member
     region: Europe
@@ -453,7 +453,7 @@
     country: Alemania
     description: Investigador
     expertise: Cactaceae
-    image: cactus2.png
+    image: Detlev.png
     institution: German Federal Agency for Nature Conservation
     position: Miembro
     region: Europa
@@ -486,7 +486,7 @@
     country: Czech Republic
     description: Researcher
     expertise: Invasive species
-    image: cactus1.png
+    image: Ana.png
     institution: Czech Academy of Sciences
     position: Member
     region: Europe
@@ -495,7 +495,7 @@
     country: República Checa
     description: Investigadora
     expertise: Especies invasoras
-    image: cactus1.png
+    image: Ana.png
     institution: Academia Checa de Ciencias
     position: Miembra
     region: Europa
