@@ -24,7 +24,7 @@
     country: Mexico
     description: Researcher
     expertise: Cactaceae
-    image: cactus3.png
+    image: Alberto.png
     institution: National Autonomous University of Mexico
     position: Member
     region: Mexico, Central America and the Caribbean
@@ -33,7 +33,7 @@
     country: Mexico
     description: Investigador
     expertise: Cactaceae
-    image: cactus3.png
+    image: Alberto.png
     institution: Universidad Nacional Autónoma de México
     position: Miembro
     region: México, Centroamérica y el Caribe
@@ -213,7 +213,7 @@
     country: United States of America
     description: Conservation Biologist
     expertise: Cactaceae
-    image: cactus3.png
+    image: Shannon.png
     institution: Desert Botanical Garden
     position: Member
     region: North America
@@ -222,7 +222,7 @@
     country: Estados Unidos de América
     description: Bióloga Conservacionista
     expertise: Cactaceae
-    image: cactus3.png
+    image: Shannon.png
     institution: Jardín Botánico del Desierto
     position: Miembra
     region: Norteamérica
