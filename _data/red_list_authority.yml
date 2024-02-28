@@ -1,5 +1,26 @@
 - en:
     city: ''
+    country: United Kingdom
+    description: Head
+    expertise: "Old World succulents: Aizoaceae, Apocynaceae, Asphodelaceae, Asteraceae, Crassulaceae and Euphorbiaceae"
+    image: Craig.png
+    institution: IUCN Red List Unit
+    position: Red List Authority Coordinator
+    region: Europe
+  es:
+    city: ''
+    country: Reino Unido
+    description: Director
+    expertise: "Suculentas del Viejo Mundo: Aizoaceae, Apocynaceae, Asphodelaceae, Asteraceae, Crassulaceae y Euphorbiaceae"
+    image: Craig.png
+    institution: Unidad de la Lista Roja de la UICN
+    position: Cordinador de la Autoridad de la Lista Roja
+    region: Europa
+  first: Craig
+  last: Hilton-Taylor
+
+- en:
+    city: ''
     country: United States of America
     description: Curator of Living Collections, Research Botanist
     expertise: Cactaceae, Asparagaceae

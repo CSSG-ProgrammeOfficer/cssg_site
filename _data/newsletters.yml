@@ -22,50 +22,50 @@
   link_en: /assets/newsletters/newsletter_2021_en.pdf
   link_es: /assets/newsletters/newsletter_2021_es.pdf
 
-- year: 2020
-  month_en: December
-  month_es: Diciembre
-  desc_en: In this issue, we report leadership changes, and outreach events that have spread the SG work. Also, we are happy to share the launch of the new SG website and logo. Additionally, we want to announce the formation of the newsletter Editorial Committee.
-  desc_es: En este número informamos sobre cambios en liderazgo y los eventos de divulgación que han difundido el trabajo del grupo. También nos complace compartirles el lanzamiento del nuevo sitio web y logotipo del CSSG.  Así mismo, queremos anunciarles la formación del Comité Editorial del Boletín del CSSG.
-  img_en: assets/images/newsletter_thumbnails/december_2020.png
-  img_es: assets/images/newsletter_thumbnails/diciembre_2020.png
-  alt_en: Season's Greetings!
-  alt_es: ¡Felices Fiestas!
-  link_en: https://mailchi.mp/37e3f4796317/iucn-cssg-newsletter-december_2020-12554947
-  link_es: https://mailchi.mp/76972e4d4801/iucn-cssg-boletin-diciembre2020-12554951
+# - year: 2020
+  # month_en: December
+  # month_es: Diciembre
+  # desc_en: In this issue, we report leadership changes, and outreach events that have spread the SG work. Also, we are happy to share the launch of the new SG website and logo. Additionally, we want to announce the formation of the newsletter Editorial Committee.
+  # desc_es: En este número informamos sobre cambios en liderazgo y los eventos de divulgación que han difundido el trabajo del grupo. También nos complace compartirles el lanzamiento del nuevo sitio web y logotipo del CSSG.  Así mismo, queremos anunciarles la formación del Comité Editorial del Boletín del CSSG.
+  # img_en: assets/images/newsletter_thumbnails/december_2020.png
+  # img_es: assets/images/newsletter_thumbnails/diciembre_2020.png
+  # alt_en: Season's Greetings!
+  # alt_es: ¡Felices Fiestas!
+  # link_en: https://mailchi.mp/37e3f4796317/iucn-cssg-newsletter-december_2020-12554947
+  # link_es: https://mailchi.mp/76972e4d4801/iucn-cssg-boletin-diciembre2020-12554951
 
-- year: 2020
-  month_en: June
-  month_es: Junio
-  desc_en: We welcome Yuley Encarnación Piñeyro and Tania Hernández to the specialist group, announce the delay of the Conservation Action-planning Workshop for <em>Copiapoa</em> Cacti, and much more.
-  desc_es: Les damos la bienvenida a Yuley Encarnación Piñeyro y Tania Hernández al grupo especialista, anunciamos el retrazo del Taller de Conservación de <em>Copiapoa</em> Cacti, y mucho más.
-  img_en: assets/images/newsletter_thumbnails/june_2020_sm.jpg
-  img_es: assets/images/newsletter_thumbnails/june_2020_sm.jpg
-  alt_en: "Copiapoa Cacti"
-  alt_es: "Copiapoa Cacti"
-  link_en: https://mailchi.mp/3bf142fc7bef/iucn-cssg-newsletter-june_2020-12459564?e=[UNIQID]
-  link_es: https://mailchi.mp/24134694f27f/iucn-cssg-boletin-junio_2020-12459560
+# - year: 2020
+  # month_en: June
+  # month_es: Junio
+  # desc_en: We welcome Yuley Encarnación Piñeyro and Tania Hernández to the specialist group, announce the delay of the Conservation Action-planning Workshop for <em>Copiapoa</em> Cacti, and much more.
+  # desc_es: Les damos la bienvenida a Yuley Encarnación Piñeyro y Tania Hernández al grupo especialista, anunciamos el retrazo del Taller de Conservación de <em>Copiapoa</em> Cacti, y mucho más.
+  # img_en: assets/images/newsletter_thumbnails/june_2020_sm.jpg
+  # img_es: assets/images/newsletter_thumbnails/june_2020_sm.jpg
+  # alt_en: "Copiapoa Cacti"
+  # alt_es: "Copiapoa Cacti"
+  # link_en: https://mailchi.mp/3bf142fc7bef/iucn-cssg-newsletter-june_2020-12459564?e=[UNIQID]
+  # link_es: https://mailchi.mp/24134694f27f/iucn-cssg-boletin-junio_2020-12459560
 
-- year: 2019
-  month_en: December
-  month_es: Diciembre
-  desc_en: In this issue we cover the CSSG participation in the 4th International Union for Conservation of Nature (IUCN) Species Survival Commission (SCC) Leader’s Meeting in Abu Dhabi, United Arab Emirates, the 'Illegal wildlife trade and the persistence of “plant blindness”' as a tool to raise awareness about how plants are threatened by illegal wildlife trade (IWT), among others.
-  desc_es: En esta publicación cubrimos la participación de CSSG en la cuarta reunión de líderes de la Comisión de Supervivencia de Especies (SCC) de la Unión Internacional para la Conservación de la Naturaleza (UICN) en Abu Dhabi, Emiratos Árabes Unidos, el artículo científico titulado 'Comercio ilegal de vida silvestre y la persistencia de la' ceguera de las plantas '' como una herramienta para crear conciencia sobre cómo las plantas están amenazadas por el comercio ilegal de vida silvestre (IWT), entre otros.
-  img_en: assets/images/newsletter_thumbnails/december_2019.jpg
-  img_es: assets/images/newsletter_thumbnails/december_2019.jpg
-  alt_en: Copiapoa Cacti
-  alt_es: Copiapoa Cacti
-  link_en: https://mailchi.mp/1c3fbeb710e6/iucn-cssg-newsletter-december19
-  link_es: https://mailchi.mp/1c3fbeb710e6/iucn-cssg-newsletter-december19
+# - year: 2019
+  # month_en: December
+  # month_es: Diciembre
+  # desc_en: In this issue we cover the CSSG participation in the 4th International Union for Conservation of Nature (IUCN) Species Survival Commission (SCC) Leader’s Meeting in Abu Dhabi, United Arab Emirates, the 'Illegal wildlife trade and the persistence of “plant blindness”' as a tool to raise awareness about how plants are threatened by illegal wildlife trade (IWT), among others.
+  # desc_es: En esta publicación cubrimos la participación de CSSG en la cuarta reunión de líderes de la Comisión de Supervivencia de Especies (SCC) de la Unión Internacional para la Conservación de la Naturaleza (UICN) en Abu Dhabi, Emiratos Árabes Unidos, el artículo científico titulado 'Comercio ilegal de vida silvestre y la persistencia de la' ceguera de las plantas '' como una herramienta para crear conciencia sobre cómo las plantas están amenazadas por el comercio ilegal de vida silvestre (IWT), entre otros.
+  # img_en: assets/images/newsletter_thumbnails/december_2019.jpg
+  # img_es: assets/images/newsletter_thumbnails/december_2019.jpg
+  # alt_en: Copiapoa Cacti
+  # alt_es: Copiapoa Cacti
+  # link_en: https://mailchi.mp/1c3fbeb710e6/iucn-cssg-newsletter-december19
+  # link_es: https://mailchi.mp/1c3fbeb710e6/iucn-cssg-newsletter-december19
 
-- year: 2019
-  month_en: June
-  month_es: Junio
-  desc_en: We present the Agave and Yucca Red List assessment workshop and the Aloes from Madagascar workshop. The CSSG participated in the Global Strategy for Plant Conservation Conference in South Africa, the Evidence to Action conference to develop practical opportunities for raising the profile of wild plant species that are actively traded across international markets.
-  desc_es: Presentamos el taller de evaluación de la Lista Roja de Agave y Yucca y el taller de Aloes de Madagascar. El CSSG participó en la Conferencia de Estrategia Global para la Conservación de Plantas en Sudáfrica, la conferencia Evidence to Action para desarrollar estrategias para elevar el perfil de las especies de plantas silvestres que se comercializan activamente en los mercados internacionales.
-  img_en: assets/images/newsletter_thumbnails/june_2019.jpg
-  img_es: assets/images/newsletter_thumbnails/june_2019.jpg
-  alt_en: "grupo de personas"
-  alt_es: "group of people"
-  link_en: https://mailchi.mp/dd73d8fc1bb9/iucn-cssg-newsletter-june19-188287
-  link_es: https://mailchi.mp/dd73d8fc1bb9/iucn-cssg-newsletter-june19-188287
+# - year: 2019
+  # month_en: June
+  # month_es: Junio
+  # desc_en: We present the Agave and Yucca Red List assessment workshop and the Aloes from Madagascar workshop. The CSSG participated in the Global Strategy for Plant Conservation Conference in South Africa, the Evidence to Action conference to develop practical opportunities for raising the profile of wild plant species that are actively traded across international markets.
+  # desc_es: Presentamos el taller de evaluación de la Lista Roja de Agave y Yucca y el taller de Aloes de Madagascar. El CSSG participó en la Conferencia de Estrategia Global para la Conservación de Plantas en Sudáfrica, la conferencia Evidence to Action para desarrollar estrategias para elevar el perfil de las especies de plantas silvestres que se comercializan activamente en los mercados internacionales.
+  # img_en: assets/images/newsletter_thumbnails/june_2019.jpg
+  # img_es: assets/images/newsletter_thumbnails/june_2019.jpg
+  # alt_en: "grupo de personas"
+  # alt_es: "group of people"
+  # link_en: https://mailchi.mp/dd73d8fc1bb9/iucn-cssg-newsletter-june19-188287
+  # link_es: https://mailchi.mp/dd73d8fc1bb9/iucn-cssg-newsletter-june19-188287

@@ -1,0 +1,6 @@
+{% for report in site.data.reports %}
+  <div class='d-flex justify-content-between position-relative'>
+    <a class="dropdown-item align-self-center stretched-link" href="{{ report.link }}" target=_blank>{{ report.year }}</a>
+    <i class='fa fa-external-link mr-3 align-self-center text-muted'></i>
+  </div>
+{% endfor %}
