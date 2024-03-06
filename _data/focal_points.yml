@@ -22,7 +22,7 @@
     city: ''
     country: Cuba
     description: Researcher
-    expertise: Cactaceae de Cuba
+    expertise: Cactaceae of Cuba
     image: Duniel.png
     institution: University of Havana
     position: Member
@@ -43,7 +43,7 @@
     city: ''
     country: United States of America
     description: Researcher
-    expertise: Cactaceae of the Caribbean
+    expertise: Cactaceae of Hispaniola
     image: Yuley.png
     institution: University of Florida
     position: Member
@@ -52,7 +52,7 @@
     city: ''
     country: Estados Unidos de América
     description: Investigadora
-    expertise: Cactaceae del Caribe
+    expertise: Cactaceae de La Española
     image: Yuley.png
     institution: Universidad de Florida
     position: Miembro
@@ -101,3 +101,18 @@
     region: México, Centroamérica y el Caribe
   first: José Luis
   last: Leon de la Luz
+  
+- en:
+    country: United States of America
+    description: Curator of the Herbarium
+    expertise: Cactaceae of the Caribbean
+    image: Lucas 128x128.png
+    institution: University of Florida
+  es:
+    country: Estados Unidos de América
+    description: Conservador del Herbario
+    expertise: Cactaceae del Caribe
+    image: Lucas 128x128.png
+    institution: Universidad de Florida
+  first: Lucas
+  last: Majure
