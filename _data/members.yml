@@ -228,6 +228,27 @@
     region: Norteamérica
   first: Shannon
   last: Fehlberg
+
+- en:
+    city: ''
+    country: Egypt
+    description: Wildlife Ecology Manager
+    expertise: Asparagaceae - <i>Dracaena</i>
+    image: Usama.png
+    institution: Prince Mohammed bin Salman Royal Reserve
+    position: Member
+    region: Mediterranean
+  es:
+    city: ''
+    country: Egipto
+    description: Responsable de Ecología de la Fauna y Flora Silvestres
+    expertise: Asparagaceae - <i>Dracaena</i>
+    image: Usama.png
+    institution: Reserva Real del Príncipe Mohammed bin Salman
+    position: Miembro
+    region: Mediterráneo
+  first: Usama
+  last: Ghazali
   
 - en:
     city: ''
