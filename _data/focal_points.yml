@@ -116,6 +116,21 @@
     institution: Universidad de Florida
   first: Lucas
   last: Majure
+
+- en:
+    country: Paraguay
+    description: Independent Researcher
+    expertise: Cactaceae of Paraguay
+    image: cactus2.png
+    institution:
+  es:
+    country: Paraguay
+    description: Investigadora Independiente
+    expertise: Cactaceae de Paraguay
+    image: cactus2.png
+    institution:
+  first: Ana
+  last: Pin
   
 - en:
     country: Brazil
