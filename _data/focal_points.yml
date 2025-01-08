@@ -122,13 +122,13 @@
     description: Independent Researcher
     expertise: Cactaceae of Paraguay
     image: cactus2.png
-    institution:
+    institution: ""
   es:
     country: Paraguay
     description: Investigadora Independiente
     expertise: Cactaceae de Paraguay
     image: cactus2.png
-    institution:
+    institution: ""
   first: Ana
   last: Pin
   
@@ -136,13 +136,13 @@
     country: Brazil
     description: Professor
     expertise: Cactaceae of Brazil
-    image: Daniela.png
+    image: Daniela2.png
     institution: University of Brasília
   es:
     country: Brasil
     description: Profesora
     expertise: Cactaceae de Brasil
-    image: Daniela.png
+    image: Daniela2.png
     institution: Universidad de Brasília
   first: Daniela
   last: Zappi
