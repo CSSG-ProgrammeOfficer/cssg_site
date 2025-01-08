@@ -753,27 +753,6 @@
     region: Norteamérica
   first: Christian
   last: Torres-Santana
-
-- en:
-    city: ''
-    country: Brazil
-    description: Professor
-    expertise: Cactaceae
-    image: cactus3.png
-    institution: University of Brasília
-    position: Member
-    region: South America
-  es:
-    city: ''
-    country: Brasil
-    description: Profesora
-    expertise: Cactaceae
-    image: cactus3.png
-    institution: Universidad de Brasília
-    position: Miembra
-    region: Sudamérica
-  first: Daniela
-  last: Zappi
   
 - en:
     city: ''

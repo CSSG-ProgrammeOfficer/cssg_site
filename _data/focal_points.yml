@@ -116,3 +116,18 @@
     institution: Universidad de Florida
   first: Lucas
   last: Majure
+  
+- en:
+    country: Brazil
+    description: Professor
+    expertise: Cactaceae of Brazil
+    image: Daniela.png
+    institution: University of Brasília
+  es:
+    country: Brasil
+    description: Profesora
+    expertise: Cactaceae de Brasil
+    image: Daniela.png
+    institution: Universidad de Brasília
+  first: Daniela
+  last: Zappi
