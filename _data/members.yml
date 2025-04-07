@@ -399,6 +399,27 @@
   
 - en:
     city: ''
+    country: Ecuador
+    description: Executive Director
+    expertise: Cactaceae
+    image: Christian.png
+    institution: Fundación Clodoveo Carrión Mora
+    position: Member
+    region: South America
+  es:
+    city: ''
+    country: Ecuador
+    description: Director Ejecutivo
+    expertise: Cactaceae
+    image: Christian.png
+    institution: Fundación Clodoveo Carrión Mora
+    position: Miembro
+    region: Sudamérica
+  first: Christian
+  last: Loaiza
+  
+- en:
+    city: ''
     country: United States of America
     description: Professor
     expertise: Illegal trade
