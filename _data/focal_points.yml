@@ -84,19 +84,19 @@
 - en:
     city: ''
     country: Mexico
-    description: Researcher
+    description: Independent Researcher
     expertise: Cactaceae of the Baja California peninsula
     image: JoseLuis.png
-    institution: Northwest Biological Research Center
+    institution: ""
     position: Member
     region: Mexico, Central America and the Caribbean
   es:
     city: La Paz
     country: Mexico
-    description: Investigador
+    description: Investigador Independiente
     expertise: Cactaceae de la península de Baja California
     image: JoseLuis.png
-    institution: Centro de Investigaciones Biológicas del Noroeste
+    institution: ""
     position: Miembro
     region: México, Centroamérica y el Caribe
   first: José Luis
